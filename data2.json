@@ -1,84 +1,44 @@
 {
     "lifeafter": [
         {
-            "Id": "전장의 은하",
-            "Lv": "17",
-            "Job": "바학",
-            "Address": "레빈시 교외6a",
-            "Attendance": "0",
-            "Contribution": "445985",
-            "Rank": "13",
-            "Rankname": "블아등급"
-        },
-        {
-            "Id": "아자토스",
-            "Lv": "17",
-            "Job": "바학",
-            "Address": "붉은 석림2",
-            "Attendance": "7",
-            "Contribution": "1157415",
-            "Rank": "6",
-            "Rankname": "화스등급"
-        },
-        {
-            "Id": "바바방",
+            "Id": "유설민",
             "Lv": "16",
             "Job": "바학",
-            "Address": "달빛 보리밭5",
-            "Attendance": "12",
-            "Contribution": "876030",
-            "Rank": "9",
-            "Rankname": "화스등급"
-        },
-        {
-            "Id": "깨꿍이",
-            "Lv": "16",
-            "Job": "바학",
-            "Address": "황금 밀림4",
-            "Attendance": "7",
-            "Contribution": "1029226",
-            "Rank": "7",
-            "Rankname": "화스등급"
-        },
-        {
-            "Id": "wpfj",
-            "Lv": "16",
-            "Job": "바학",
-            "Address": "황금 밀림2",
-            "Attendance": "3",
-            "Contribution": "233812",
-            "Rank": "16",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "soo수",
-            "Lv": "16",
-            "Job": "대장장이",
-            "Address": "레빈시 교외6b",
-            "Attendance": "4",
-            "Contribution": "535678",
-            "Rank": "11",
-            "Rankname": "블아등급"
+            "Address": "레빈시 교외1a",
+            "Attendance": "13",
+            "Contribution": "3118011",
+            "Rank": "1",
+            "Rankname": "백금등급"
         },
         {
             "Id": "빛나는혜빈",
             "Lv": "16",
             "Job": "벌목공",
             "Address": "그레인 평원7",
-            "Attendance": "8",
-            "Contribution": "2836667",
-            "Rank": "1",
+            "Attendance": "9",
+            "Contribution": "2930612",
+            "Rank": "2",
             "Rankname": "백금등급"
         },
         {
-            "Id": "유설민",
-            "Lv": "16",
-            "Job": "바학",
-            "Address": "레빈시 교외1a",
-            "Attendance": "12",
-            "Contribution": "2732244",
-            "Rank": "2",
+            "Id": "Lynd",
+            "Lv": "15",
+            "Job": "광부",
+            "Address": "레빈시 교외5b",
+            "Attendance": "10",
+            "Contribution": "2682130",
+            "Rank": "3",
             "Rankname": "백금등급"
+        },
+        {
+            "Id": "새봄",
+            "Lv": "20",
+            "Job": "저격수",
+            "Address": "그레인 평원9",
+            "Attendance": "2",
+            "Contribution": "1831802",
+            "Rank": "4",
+            "Rankname": "스철등급"
         },
         {
             "Id": "라온",
@@ -86,69 +46,9 @@
             "Job": "소총수",
             "Address": "그레인 호수2",
             "Attendance": "2",
-            "Contribution": "1469866",
-            "Rank": "4",
-            "Rankname": "스철등급"
-        },
-        {
-            "Id": "원두웅",
-            "Lv": "16",
-            "Job": "바학",
-            "Address": "레빈시 교외3a",
-            "Attendance": "12",
-            "Contribution": "1161030",
+            "Contribution": "1472270",
             "Rank": "5",
             "Rankname": "스철등급"
-        },
-        {
-            "Id": "간지용",
-            "Lv": "16",
-            "Job": "마채집가",
-            "Address": "레빈시 교외3b",
-            "Attendance": "10",
-            "Contribution": "990555",
-            "Rank": "8",
-            "Rankname": "화스등급"
-        },
-        {
-            "Id": "Lynd",
-            "Lv": "15",
-            "Job": "광부",
-            "Address": "레빈시 교외5b",
-            "Attendance": "9",
-            "Contribution": "1878831",
-            "Rank": "3",
-            "Rankname": "백금등급"
-        },
-        {
-            "Id": "Queen",
-            "Lv": "16",
-            "Job": "보물탐색가",
-            "Address": "그레인 호수10",
-            "Attendance": "4",
-            "Contribution": "125917",
-            "Rank": "19",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "soo3",
-            "Lv": "15",
-            "Job": "마채집가",
-            "Address": "레빈시 교외4a",
-            "Attendance": "7",
-            "Contribution": "434062",
-            "Rank": "14",
-            "Rankname": "블아등급"
-        },
-        {
-            "Id": "큐블리",
-            "Lv": "14",
-            "Job": "바학",
-            "Address": "레빈시 교외2a",
-            "Attendance": "6",
-            "Contribution": "419703",
-            "Rank": "15",
-            "Rankname": "블아등급"
         },
         {
             "Id": "yeoyuu",
@@ -156,9 +56,139 @@
             "Job": "바학",
             "Address": "레빈시 교외5a",
             "Attendance": "9",
-            "Contribution": "827528",
+            "Contribution": "1366122",
+            "Rank": "6",
+            "Rankname": "화스등급"
+        },
+        {
+            "Id": "아자토스",
+            "Lv": "17",
+            "Job": "바학",
+            "Address": "붉은 석림2",
+            "Attendance": "8",
+            "Contribution": "1226994",
+            "Rank": "7",
+            "Rankname": "화스등급"
+        },
+        {
+            "Id": "원두웅",
+            "Lv": "16",
+            "Job": "바학",
+            "Address": "레빈시 교외3a",
+            "Attendance": "13",
+            "Contribution": "1210952",
+            "Rank": "8",
+            "Rankname": "화스등급"
+        },
+        {
+            "Id": "깨꿍이",
+            "Lv": "16",
+            "Job": "바학",
+            "Address": "황금 밀림4",
+            "Attendance": "8",
+            "Contribution": "1141202",
+            "Rank": "9",
+            "Rankname": "화스등급"
+        },
+        {
+            "Id": "새롬",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "그레인 평원10",
+            "Attendance": "2",
+            "Contribution": "1140778",
             "Rank": "10",
             "Rankname": "화스등급"
+        },
+        {
+            "Id": "간지용",
+            "Lv": "16",
+            "Job": "마채집가",
+            "Address": "레빈시 교외3b",
+            "Attendance": "11",
+            "Contribution": "1035255",
+            "Rank": "11",
+            "Rankname": "블아등급"
+        },
+        {
+            "Id": "바바방",
+            "Lv": "16",
+            "Job": "바학",
+            "Address": "달빛 보리밭5",
+            "Attendance": "13",
+            "Contribution": "938155",
+            "Rank": "12",
+            "Rankname": "블아등급"
+        },
+        {
+            "Id": "soo수",
+            "Lv": "16",
+            "Job": "대장장이",
+            "Address": "레빈시 교외6b",
+            "Attendance": "5",
+            "Contribution": "578153",
+            "Rank": "13",
+            "Rankname": "블아등급"
+        },
+        {
+            "Id": "soo3",
+            "Lv": "15",
+            "Job": "마채집가",
+            "Address": "레빈시 교외4a",
+            "Attendance": "8",
+            "Contribution": "488007",
+            "Rank": "14",
+            "Rankname": "블아등급"
+        },
+        {
+            "Id": "츄츄",
+            "Lv": "13",
+            "Job": "목수",
+            "Address": "레빈시 교외4b",
+            "Attendance": "11",
+            "Contribution": "483247",
+            "Rank": "15",
+            "Rankname": "블아등급"
+        },
+        {
+            "Id": "큐블리",
+            "Lv": "14",
+            "Job": "바학",
+            "Address": "레빈시 교외2a",
+            "Attendance": "7",
+            "Contribution": "468775",
+            "Rank": "16",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "전장의 은하",
+            "Lv": "17",
+            "Job": "바학",
+            "Address": "레빈시 교외6a",
+            "Attendance": "0",
+            "Contribution": "460579",
+            "Rank": "17",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "wpfj",
+            "Lv": "16",
+            "Job": "바학",
+            "Address": "황금 밀림2",
+            "Attendance": "4",
+            "Contribution": "287708",
+            "Rank": "18",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "무무",
+            "Lv": "19",
+            "Job": "바학",
+            "Address": "달빛 보리밭4",
+            "Attendance": "1",
+            "Contribution": "278238",
+            "Rank": "19",
+            "Rankname": "크아등급"
         },
         {
             "Id": "ASXMZ",
@@ -166,58 +196,8 @@
             "Job": "기계공",
             "Address": "그레인 호수4",
             "Attendance": "2",
-            "Contribution": "158106",
-            "Rank": "17",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "서가비",
-            "Lv": "14",
-            "Job": "바학",
-            "Address": "황금 밀림1",
-            "Attendance": "2",
-            "Contribution": "29785",
-            "Rank": "27",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "석경",
-            "Lv": "8",
-            "Job": "목수",
-            "Address": "그레인 평원5",
-            "Attendance": "0",
-            "Contribution": "25915",
-            "Rank": "30",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "네-모",
-            "Lv": "13",
-            "Job": "소총수",
-            "Address": "달빛 보리밭1",
-            "Attendance": "0",
-            "Contribution": "45270",
-            "Rank": "25",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "츄츄",
-            "Lv": "13",
-            "Job": "목수",
-            "Address": "레빈시 교외4b",
-            "Attendance": "10",
-            "Contribution": "449731",
-            "Rank": "12",
-            "Rankname": "블아등급"
-        },
-        {
-            "Id": "에리라임",
-            "Lv": "13",
-            "Job": "벌목공",
-            "Address": "레빈시 교외2b",
-            "Attendance": "2",
-            "Contribution": "46838",
-            "Rank": "24",
+            "Contribution": "171789",
+            "Rank": "20",
             "Rankname": "크아등급"
         },
         {
@@ -226,38 +206,8 @@
             "Job": "광부",
             "Address": "달빛 보리밭9",
             "Attendance": "3",
-            "Contribution": "144353",
-            "Rank": "18",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "Kidor",
-            "Lv": "10",
-            "Job": "저격수",
-            "Address": "황금 밀림5",
-            "Attendance": "3",
-            "Contribution": "87771",
+            "Contribution": "167764",
             "Rank": "21",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "Eunoia",
-            "Lv": "9",
-            "Job": "보물탐색가",
-            "Address": "그레인 평원6",
-            "Attendance": "0",
-            "Contribution": "81001",
-            "Rank": "22",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "초코코우유",
-            "Lv": "7",
-            "Job": "마채집가",
-            "Address": "달빛 보리밭2",
-            "Attendance": "0",
-            "Contribution": "16990",
-            "Rank": "31",
             "Rankname": "크아등급"
         },
         {
@@ -266,28 +216,28 @@
             "Job": "벌목공",
             "Address": "황금 밀림9",
             "Attendance": "2",
-            "Contribution": "98105",
-            "Rank": "20",
+            "Contribution": "111695",
+            "Rank": "22",
             "Rankname": "크아등급"
         },
         {
-            "Id": "민트치약",
+            "Id": "Kidor",
+            "Lv": "10",
+            "Job": "저격수",
+            "Address": "황금 밀림5",
+            "Attendance": "3",
+            "Contribution": "101029",
+            "Rank": "23",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "Eunoia",
             "Lv": "9",
-            "Job": "벌목공",
-            "Address": "그레인 평원8",
+            "Job": "보물탐색가",
+            "Address": "그레인 평원6",
             "Attendance": "0",
-            "Contribution": "28150",
-            "Rank": "28",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "아크로집시",
-            "Lv": "6",
-            "Job": "소총수",
-            "Address": "그레인 평원4",
-            "Attendance": "0",
-            "Contribution": "30410",
-            "Rank": "26",
+            "Contribution": "83101",
+            "Rank": "24",
             "Rankname": "크아등급"
         },
         {
@@ -296,18 +246,58 @@
             "Job": "벌목공",
             "Address": "황금 밀림8",
             "Attendance": "0",
-            "Contribution": "58706",
-            "Rank": "23",
+            "Contribution": "63338",
+            "Rank": "25",
             "Rankname": "크아등급"
         },
         {
-            "Id": "Talia",
-            "Lv": "5",
-            "Job": "대장장이",
-            "Address": "그레인 평원3",
-            "Attendance": "1",
-            "Contribution": "8320",
-            "Rank": "35",
+            "Id": "네-모",
+            "Lv": "13",
+            "Job": "소총수",
+            "Address": "달빛 보리밭1",
+            "Attendance": "0",
+            "Contribution": "58460",
+            "Rank": "26",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "에리라임",
+            "Lv": "13",
+            "Job": "벌목공",
+            "Address": "레빈시 교외2b",
+            "Attendance": "2",
+            "Contribution": "55038",
+            "Rank": "27",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "민트치약",
+            "Lv": "9",
+            "Job": "벌목공",
+            "Address": "그레인 평원8",
+            "Attendance": "0",
+            "Contribution": "31739",
+            "Rank": "28",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "서가비",
+            "Lv": "14",
+            "Job": "바학",
+            "Address": "황금 밀림1",
+            "Attendance": "2",
+            "Contribution": "30385",
+            "Rank": "29",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "Queen",
+            "Lv": "16",
+            "Job": "보물탐색가",
+            "Address": "그레인 호수10",
+            "Attendance": "4",
+            "Contribution": "26820",
+            "Rank": "30",
             "Rankname": "크아등급"
         },
         {
@@ -316,8 +306,28 @@
             "Job": "저격수",
             "Address": "그레인 평원1",
             "Attendance": "0",
-            "Contribution": "7965",
-            "Rank": "36",
+            "Contribution": "26395",
+            "Rank": "31",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "짱빠형2",
+            "Lv": "13",
+            "Job": "기계공",
+            "Address": "그레인 호수1",
+            "Attendance": "1",
+            "Contribution": "24050",
+            "Rank": "32",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "초코코우유",
+            "Lv": "7",
+            "Job": "마채집가",
+            "Address": "달빛 보리밭2",
+            "Attendance": "0",
+            "Contribution": "20480",
+            "Rank": "33",
             "Rankname": "크아등급"
         },
         {
@@ -326,8 +336,68 @@
             "Job": "벌목공",
             "Address": "그레인 평원2",
             "Attendance": "1",
-            "Contribution": "11480",
-            "Rank": "33",
+            "Contribution": "17855",
+            "Rank": "34",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "KRA",
+            "Lv": "5",
+            "Job": "광부",
+            "Address": "달빛 보리밭3",
+            "Attendance": "0",
+            "Contribution": "14645",
+            "Rank": "35",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "Choa",
+            "Lv": "11",
+            "Job": "보탐가",
+            "Address": "레빈시 교외1b",
+            "Attendance": "1",
+            "Contribution": "12205",
+            "Rank": "36",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "비월가",
+            "Lv": "5",
+            "Job": "보탐가",
+            "Address": "붉은 석림1",
+            "Attendance": "0",
+            "Contribution": "10030",
+            "Rank": "37",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "Talia",
+            "Lv": "5",
+            "Job": "대장장이",
+            "Address": "그레인 평원3",
+            "Attendance": "1",
+            "Contribution": "9405",
+            "Rank": "38",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "뭐야다못생김",
+            "Lv": "10",
+            "Job": "마채집가",
+            "Address": "그레인 호수3",
+            "Attendance": "0",
+            "Contribution": "6220",
+            "Rank": "39",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "추카",
+            "Lv": "14",
+            "Job": "광부",
+            "Address": "리브섬1구역1",
+            "Attendance": "0",
+            "Contribution": "5570",
+            "Rank": "40",
             "Rankname": "크아등급"
         },
         {
@@ -337,97 +407,27 @@
             "Address": "황금 밀림3",
             "Attendance": "0",
             "Contribution": "3415",
-            "Rank": "37",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "KRA",
-            "Lv": "5",
-            "Job": "광부",
-            "Address": "달빛 보리밭3",
-            "Attendance": "0",
-            "Contribution": "8585",
-            "Rank": "34",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "새롬",
-            "Lv": "18",
-            "Job": "바학",
-            "Address": "그레인 평원10",
-            "Attendance": "1",
-            "Contribution": "13825",
-            "Rank": "32",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "새봄",
-            "Lv": "20",
-            "Job": "저격수",
-            "Address": "그레인 평원9",
-            "Attendance": "1",
-            "Contribution": "26625",
-            "Rank": "29",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "비월가",
-            "Lv": "5",
-            "Job": "보탐가",
-            "Address": "붉은 석림1",
-            "Attendance": "0",
-            "Contribution": "1305",
-            "Rank": "39",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "Choa",
-            "Lv": "11",
-            "Job": "보탐가",
-            "Address": "레빈시 교외1b",
-            "Attendance": "1",
-            "Contribution": "3375",
-            "Rank": "38",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "carmen",
-            "Lv": "17",
-            "Job": "무사",
-            "Address": "붉은 석림5",
-            "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "40",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "무무",
-            "Lv": "19",
-            "Job": "바학",
-            "Address": "달빛 보리밭4",
-            "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "40",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "짱빠형2",
-            "Lv": "13",
-            "Job": "기계공",
-            "Address": "그레인 호수1",
-            "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "40",
+            "Rank": "41",
             "Rankname": "크아등급"
         },
         {
             "Id": "미바방",
             "Lv": "1",
             "Job": "노직업",
-            "Address": "리브섬1구역1",
+            "Address": "그레인 호수9",
             "Attendance": "0",
             "Contribution": "0",
-            "Rank": "40",
+            "Rank": "42",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "만월",
+            "Lv": "14",
+            "Job": "바학",
+            "Address": "리브섬1구역2",
+            "Attendance": "0",
+            "Contribution": "0",
+            "Rank": "42",
             "Rankname": "크아등급"
         }
     ]
