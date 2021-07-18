@@ -6,7 +6,7 @@
             "Job": "바학",
             "Address": "레빈시 교외1a",
             "Attendance": "14",
-            "Contribution": "3868923",
+            "Contribution": "3889907",
             "Rank": "1",
             "Rankname": "백금등급"
         },
@@ -16,7 +16,7 @@
             "Job": "벌목공",
             "Address": "그레인 평원7",
             "Attendance": "10",
-            "Contribution": "3592478",
+            "Contribution": "3597385",
             "Rank": "2",
             "Rankname": "백금등급"
         },
@@ -36,7 +36,7 @@
             "Job": "저격수",
             "Address": "그레인 평원9",
             "Attendance": "3",
-            "Contribution": "1979952",
+            "Contribution": "1993177",
             "Rank": "4",
             "Rankname": "스철등급"
         },
@@ -46,7 +46,7 @@
             "Job": "바학",
             "Address": "그레인 평원10",
             "Attendance": "3",
-            "Contribution": "1863851",
+            "Contribution": "1877076",
             "Rank": "5",
             "Rankname": "스철등급"
         },
@@ -56,7 +56,7 @@
             "Job": "바학",
             "Address": "황금 밀림4",
             "Attendance": "9",
-            "Contribution": "1522870",
+            "Contribution": "1537715",
             "Rank": "6",
             "Rankname": "화스등급"
         },
@@ -86,7 +86,7 @@
             "Job": "바학",
             "Address": "레빈시 교외3a",
             "Attendance": "14",
-            "Contribution": "1456391",
+            "Contribution": "1469616",
             "Rank": "9",
             "Rankname": "화스등급"
         },
@@ -96,7 +96,7 @@
             "Job": "바학",
             "Address": "붉은 석림2",
             "Attendance": "9",
-            "Contribution": "1370051",
+            "Contribution": "1388230",
             "Rank": "10",
             "Rankname": "화스등급"
         },
@@ -106,7 +106,7 @@
             "Job": "마채집가",
             "Address": "레빈시 교외3b",
             "Attendance": "12",
-            "Contribution": "1101760",
+            "Contribution": "1116905",
             "Rank": "11",
             "Rankname": "블아등급"
         },
@@ -116,7 +116,7 @@
             "Job": "바학",
             "Address": "달빛 보리밭5",
             "Attendance": "14",
-            "Contribution": "1015775",
+            "Contribution": "1029000",
             "Rank": "12",
             "Rankname": "블아등급"
         },
@@ -126,7 +126,7 @@
             "Job": "바학",
             "Address": "레빈시 교외2a",
             "Attendance": "7",
-            "Contribution": "959202",
+            "Contribution": "968052",
             "Rank": "13",
             "Rankname": "블아등급"
         },
@@ -136,7 +136,7 @@
             "Job": "바학",
             "Address": "달빛 보리밭4",
             "Attendance": "2",
-            "Contribution": "877118",
+            "Contribution": "892863",
             "Rank": "14",
             "Rankname": "블아등급"
         },
@@ -146,7 +146,7 @@
             "Job": "대장장이",
             "Address": "레빈시 교외6b",
             "Attendance": "6",
-            "Contribution": "624026",
+            "Contribution": "641801",
             "Rank": "15",
             "Rankname": "블아등급"
         },
@@ -156,7 +156,7 @@
             "Job": "마채집가",
             "Address": "레빈시 교외4a",
             "Attendance": "9",
-            "Contribution": "537077",
+            "Contribution": "553737",
             "Rank": "16",
             "Rankname": "크아등급"
         },
@@ -166,7 +166,7 @@
             "Job": "목수",
             "Address": "레빈시 교외4b",
             "Attendance": "12",
-            "Contribution": "530939",
+            "Contribution": "544714",
             "Rank": "17",
             "Rankname": "크아등급"
         },
@@ -176,7 +176,7 @@
             "Job": "바학",
             "Address": "레빈시 교외6a",
             "Attendance": "0",
-            "Contribution": "489164",
+            "Contribution": "502389",
             "Rank": "18",
             "Rankname": "크아등급"
         },
@@ -186,7 +186,7 @@
             "Job": "바학",
             "Address": "황금 밀림2",
             "Attendance": "5",
-            "Contribution": "302464",
+            "Contribution": "315989",
             "Rank": "19",
             "Rankname": "크아등급"
         },
@@ -196,18 +196,8 @@
             "Job": "광부",
             "Address": "달빛 보리밭10",
             "Attendance": "4",
-            "Contribution": "216209",
+            "Contribution": "219259",
             "Rank": "20",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "ASXMZ",
-            "Lv": "13",
-            "Job": "기계공",
-            "Address": "그레인 호수4",
-            "Attendance": "2",
-            "Contribution": "176014",
-            "Rank": "21",
             "Rankname": "크아등급"
         },
         {
@@ -216,8 +206,8 @@
             "Job": "벌목공",
             "Address": "황금 밀림9",
             "Attendance": "2",
-            "Contribution": "116975",
-            "Rank": "22",
+            "Contribution": "117275",
+            "Rank": "21",
             "Rankname": "크아등급"
         },
         {
@@ -227,7 +217,7 @@
             "Address": "황금 밀림5",
             "Attendance": "3",
             "Contribution": "114919",
-            "Rank": "23",
+            "Rank": "22",
             "Rankname": "크아등급"
         },
         {
@@ -237,7 +227,7 @@
             "Address": "그레인 평원6",
             "Attendance": "0",
             "Contribution": "87001",
-            "Rank": "24",
+            "Rank": "23",
             "Rankname": "크아등급"
         },
         {
@@ -247,7 +237,7 @@
             "Address": "황금 밀림8",
             "Attendance": "0",
             "Contribution": "65434",
-            "Rank": "25",
+            "Rank": "24",
             "Rankname": "크아등급"
         },
         {
@@ -257,7 +247,7 @@
             "Address": "레빈시 교외2b",
             "Attendance": "2",
             "Contribution": "64468",
-            "Rank": "26",
+            "Rank": "25",
             "Rankname": "크아등급"
         },
         {
@@ -267,7 +257,7 @@
             "Address": "달빛 보리밭1",
             "Attendance": "0",
             "Contribution": "62800",
-            "Rank": "27",
+            "Rank": "26",
             "Rankname": "크아등급"
         },
         {
@@ -277,7 +267,7 @@
             "Address": "그레인 호수10",
             "Attendance": "4",
             "Contribution": "54135",
-            "Rank": "28",
+            "Rank": "27",
             "Rankname": "크아등급"
         },
         {
@@ -287,7 +277,7 @@
             "Address": "그레인 호수1",
             "Attendance": "1",
             "Contribution": "49165",
-            "Rank": "29",
+            "Rank": "28",
             "Rankname": "크아등급"
         },
         {
@@ -306,8 +296,8 @@
             "Job": "저격수",
             "Address": "그레인 평원1",
             "Attendance": "0",
-            "Contribution": "46576",
-            "Rank": "31",
+            "Contribution": "48676",
+            "Rank": "29",
             "Rankname": "크아등급"
         },
         {
@@ -316,8 +306,8 @@
             "Job": "광부",
             "Address": "리브섬1구역1",
             "Attendance": "1",
-            "Contribution": "37573",
-            "Rank": "32",
+            "Contribution": "40323",
+            "Rank": "31",
             "Rankname": "크아등급"
         },
         {
@@ -326,8 +316,8 @@
             "Job": "마채집가",
             "Address": "그레인 호수3",
             "Attendance": "0",
-            "Contribution": "29495",
-            "Rank": "33",
+            "Contribution": "29765",
+            "Rank": "32",
             "Rankname": "크아등급"
         },
         {
@@ -337,7 +327,7 @@
             "Address": "그레인 평원2",
             "Attendance": "2",
             "Contribution": "23045",
-            "Rank": "34",
+            "Rank": "33",
             "Rankname": "크아등급"
         },
         {
@@ -346,8 +336,8 @@
             "Job": "광부",
             "Address": "달빛 보리밭3",
             "Attendance": "0",
-            "Contribution": "19970",
-            "Rank": "35",
+            "Contribution": "20555",
+            "Rank": "34",
             "Rankname": "크아등급"
         },
         {
@@ -357,7 +347,7 @@
             "Address": "리브섬1구역2",
             "Attendance": "0",
             "Contribution": "14710",
-            "Rank": "36",
+            "Rank": "35",
             "Rankname": "크아등급"
         },
         {
@@ -366,8 +356,8 @@
             "Job": "보탐가",
             "Address": "붉은 석림1",
             "Attendance": "0",
-            "Contribution": "13390",
-            "Rank": "37",
+            "Contribution": "13810",
+            "Rank": "36",
             "Rankname": "크아등급"
         },
         {
@@ -377,7 +367,7 @@
             "Address": "레빈시 교외1b",
             "Attendance": "1",
             "Contribution": "12205",
-            "Rank": "38",
+            "Rank": "37",
             "Rankname": "크아등급"
         },
         {
@@ -387,17 +377,7 @@
             "Address": "그레인 평원3",
             "Attendance": "1",
             "Contribution": "10305",
-            "Rank": "39",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "화들짝",
-            "Lv": "2",
-            "Job": "노직업",
-            "Address": "황금 밀림3",
-            "Attendance": "0",
-            "Contribution": "7885",
-            "Rank": "40",
+            "Rank": "38",
             "Rankname": "크아등급"
         },
         {
@@ -407,7 +387,7 @@
             "Address": "달빛 보리밭2",
             "Attendance": "0",
             "Contribution": "0",
-            "Rank": "41",
+            "Rank": "39",
             "Rankname": "크아등급"
         },
         {
@@ -417,29 +397,19 @@
             "Address": "그레인 호수9",
             "Attendance": "0",
             "Contribution": "0",
-            "Rank": "41",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "미바방",
-            "Lv": "1",
-            "Job": "노직업",
-            "Address": "그레인 호수9",
-            "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "43",
+            "Rank": "39",
             "Rankname": "크아등급"
         }
     ],
     "rank": [
         {
             "Rank": "1",
-            "Contribution": "3868923",
+            "Contribution": "3889907",
             "Id": "유설민"
         },
         {
             "Rank": "2",
-            "Contribution": "3592478",
+            "Contribution": "3597385",
             "Id": "빛나는혜빈"
         },
         {
@@ -449,17 +419,17 @@
         },
         {
             "Rank": "4",
-            "Contribution": "1979952",
+            "Contribution": "1993177",
             "Id": "새봄"
         },
         {
             "Rank": "5",
-            "Contribution": "1863851",
+            "Contribution": "1877076",
             "Id": "새롬"
         },
         {
             "Rank": "6",
-            "Contribution": "1522870",
+            "Contribution": "1537715",
             "Id": "깨꿍이"
         },
         {
@@ -474,178 +444,163 @@
         },
         {
             "Rank": "9",
-            "Contribution": "1456391",
+            "Contribution": "1469616",
             "Id": "원두웅"
         },
         {
             "Rank": "10",
-            "Contribution": "1370051",
+            "Contribution": "1388230",
             "Id": "아자토스"
         },
         {
             "Rank": "11",
-            "Contribution": "1101760",
+            "Contribution": "1116905",
             "Id": "간지용"
         },
         {
             "Rank": "12",
-            "Contribution": "1015775",
+            "Contribution": "1029000",
             "Id": "바바방"
         },
         {
             "Rank": "13",
-            "Contribution": "959202",
+            "Contribution": "968052",
             "Id": "큐블리"
         },
         {
             "Rank": "14",
-            "Contribution": "877118",
+            "Contribution": "892863",
             "Id": "무무"
         },
         {
             "Rank": "15",
-            "Contribution": "624026",
+            "Contribution": "641801",
             "Id": "soo수"
         },
         {
             "Rank": "16",
-            "Contribution": "537077",
+            "Contribution": "553737",
             "Id": "soo3"
         },
         {
             "Rank": "17",
-            "Contribution": "530939",
+            "Contribution": "544714",
             "Id": "츄츄"
         },
         {
             "Rank": "18",
-            "Contribution": "489164",
+            "Contribution": "502389",
             "Id": "전장의 은하"
         },
         {
             "Rank": "19",
-            "Contribution": "302464",
+            "Contribution": "315989",
             "Id": "wpfj"
         },
         {
             "Rank": "20",
-            "Contribution": "216209",
+            "Contribution": "219259",
             "Id": "봄느님"
         },
         {
             "Rank": "21",
-            "Contribution": "176014",
-            "Id": "ASXMZ"
-        },
-        {
-            "Rank": "22",
-            "Contribution": "116975",
+            "Contribution": "117275",
             "Id": "버미느님"
         },
         {
-            "Rank": "23",
+            "Rank": "22",
             "Contribution": "114919",
             "Id": "Kidor"
         },
         {
-            "Rank": "24",
+            "Rank": "23",
             "Contribution": "87001",
             "Id": "Eunoia"
         },
         {
-            "Rank": "25",
+            "Rank": "24",
             "Contribution": "65434",
             "Id": "라온힐조"
         },
         {
-            "Rank": "26",
+            "Rank": "25",
             "Contribution": "64468",
             "Id": "에리라임"
         },
         {
-            "Rank": "27",
+            "Rank": "26",
             "Contribution": "62800",
             "Id": "네-모"
         },
         {
-            "Rank": "28",
+            "Rank": "27",
             "Contribution": "54135",
             "Id": "Queen"
         },
         {
-            "Rank": "29",
+            "Rank": "28",
             "Contribution": "49165",
             "Id": "짱빠형2"
         },
         {
-            "Rank": "30",
+            "Rank": "29",
             "Contribution": "48030",
             "Id": "민트치약"
         },
         {
-            "Rank": "31",
-            "Contribution": "46576",
+            "Rank": "30",
+            "Contribution": "48676",
             "Id": "한진범"
         },
         {
-            "Rank": "32",
-            "Contribution": "37573",
+            "Rank": "31",
+            "Contribution": "40323",
             "Id": "추카"
         },
         {
-            "Rank": "33",
-            "Contribution": "29495",
+            "Rank": "32",
+            "Contribution": "29765",
             "Id": "뭐야다못생김"
         },
         {
-            "Rank": "34",
+            "Rank": "33",
             "Contribution": "23045",
             "Id": "에이후"
         },
         {
-            "Rank": "35",
-            "Contribution": "19970",
+            "Rank": "34",
+            "Contribution": "20555",
             "Id": "KRA"
         },
         {
-            "Rank": "36",
+            "Rank": "35",
             "Contribution": "14710",
             "Id": "만월"
         },
         {
-            "Rank": "37",
-            "Contribution": "13390",
+            "Rank": "36",
+            "Contribution": "13810",
             "Id": "비월가"
         },
         {
-            "Rank": "38",
+            "Rank": "37",
             "Contribution": "12205",
             "Id": "Choa"
         },
         {
-            "Rank": "39",
+            "Rank": "38",
             "Contribution": "10305",
             "Id": "Talia"
         },
         {
-            "Rank": "40",
-            "Contribution": "7885",
-            "Id": "화들짝"
-        },
-        {
-            "Rank": "41",
+            "Rank": "39",
             "Contribution": "0",
             "Id": "하윤이"
         },
         {
-            "Rank": "42",
+            "Rank": "40",
             "Contribution": "0",
             "Id": "미바방"
-        },
-        {
-            "Rank": "43",
-            "Contribution": "0",
-            "Id": "만월"
         }
     ],
     "doping": [
@@ -1143,6 +1098,51 @@
         },
         {
             "quiz": "희망의골짜기"
+        },
+        {
+            "quiz": "생새우카레볶음밥"
+        },
+        {
+            "quiz": "시원한과일빙수"
+        },
+        {
+            "quiz": "맑은국물바닷가재"
+        },
+        {
+            "quiz": "백화부레"
+        },
+        {
+            "quiz": "비단잉어회"
+        },
+        {
+            "quiz": "흑당찹쌀떡"
+        },
+        {
+            "quiz": "수정새우교자"
+        },
+        {
+            "quiz": "뿌팟퐁커리"
+        },
+        {
+            "quiz": "피시앤드칩스"
+        },
+        {
+            "quiz": "귀여운주먹밥"
+        },
+        {
+            "quiz": "라유국수"
+        },
+        {
+            "quiz": "헬레나베인"
+        },
+        {
+            "quiz": "하이데르"
+        },
+        {
+            "quiz": "바로크"
+        },
+        {
+            "quiz": "구문룡"
         }
     ]
 }
