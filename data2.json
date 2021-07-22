@@ -4,19 +4,19 @@
             "Id": "유설민",
             "Lv": "16",
             "Job": "바학",
-            "Address": "레빈시 교외1a",
-            "Attendance": "14",
-            "Contribution": "3889907",
+            "Address": "센터 정원1",
+            "Attendance": "16",
+            "Contribution": "3992037",
             "Rank": "1",
             "Rankname": "백금등급"
         },
         {
             "Id": "빛나는혜빈",
-            "Lv": "16",
+            "Lv": "17",
             "Job": "벌목공",
-            "Address": "그레인 평원7",
-            "Attendance": "10",
-            "Contribution": "3597385",
+            "Address": "선샤인 베이6",
+            "Attendance": "12",
+            "Contribution": "3862861",
             "Rank": "2",
             "Rankname": "백금등급"
         },
@@ -24,9 +24,9 @@
             "Id": "Lynd",
             "Lv": "16",
             "Job": "광부",
-            "Address": "레빈시 교외5b",
-            "Attendance": "10",
-            "Contribution": "2738016",
+            "Address": "꽃말 언덕5",
+            "Attendance": "12",
+            "Contribution": "2751626",
             "Rank": "3",
             "Rankname": "백금등급"
         },
@@ -34,19 +34,19 @@
             "Id": "새봄",
             "Lv": "20",
             "Job": "저격수",
-            "Address": "그레인 평원9",
-            "Attendance": "3",
-            "Contribution": "1993177",
+            "Address": "센터 정원9",
+            "Attendance": "4",
+            "Contribution": "2002277",
             "Rank": "4",
             "Rankname": "스철등급"
         },
         {
             "Id": "새롬",
-            "Lv": "18",
+            "Lv": "19",
             "Job": "바학",
-            "Address": "그레인 평원10",
-            "Attendance": "3",
-            "Contribution": "1877076",
+            "Address": "센터 정원10",
+            "Attendance": "5",
+            "Contribution": "1885926",
             "Rank": "5",
             "Rankname": "스철등급"
         },
@@ -54,179 +54,179 @@
             "Id": "깨꿍이",
             "Lv": "17",
             "Job": "바학",
-            "Address": "황금 밀림4",
-            "Attendance": "9",
-            "Contribution": "1537715",
-            "Rank": "6",
-            "Rankname": "화스등급"
-        },
-        {
-            "Id": "yeoyuu",
-            "Lv": "14",
-            "Job": "바학",
-            "Address": "레빈시 교외5a",
+            "Address": "그린 호수15",
             "Attendance": "10",
-            "Contribution": "1484916",
-            "Rank": "7",
+            "Contribution": "1552791",
+            "Rank": "6",
             "Rankname": "화스등급"
         },
         {
             "Id": "라온",
             "Lv": "17",
             "Job": "소총수",
-            "Address": "그레인 호수2",
+            "Address": "그린 호수6",
             "Attendance": "2",
-            "Contribution": "1483367",
-            "Rank": "8",
+            "Contribution": "1495760",
+            "Rank": "7",
             "Rankname": "화스등급"
         },
         {
-            "Id": "원두웅",
-            "Lv": "16",
+            "Id": "yeoyuu",
+            "Lv": "14",
             "Job": "바학",
-            "Address": "레빈시 교외3a",
-            "Attendance": "14",
-            "Contribution": "1469616",
-            "Rank": "9",
+            "Address": "그린 호수2",
+            "Attendance": "12",
+            "Contribution": "1487966",
+            "Rank": "8",
             "Rankname": "화스등급"
         },
         {
             "Id": "아자토스",
             "Lv": "17",
             "Job": "바학",
-            "Address": "붉은 석림2",
-            "Attendance": "9",
-            "Contribution": "1388230",
-            "Rank": "10",
+            "Address": "스톰 포레스트6",
+            "Attendance": "11",
+            "Contribution": "1442960",
+            "Rank": "9",
             "Rankname": "화스등급"
         },
         {
             "Id": "간지용",
             "Lv": "16",
             "Job": "마채집가",
-            "Address": "레빈시 교외3b",
-            "Attendance": "12",
-            "Contribution": "1116905",
-            "Rank": "11",
-            "Rankname": "블아등급"
+            "Address": "센터 정원6",
+            "Attendance": "14",
+            "Contribution": "1136090",
+            "Rank": "10",
+            "Rankname": "화스등급"
         },
         {
             "Id": "바바방",
-            "Lv": "16",
+            "Lv": "17",
             "Job": "바학",
-            "Address": "달빛 보리밭5",
-            "Attendance": "14",
-            "Contribution": "1029000",
-            "Rank": "12",
+            "Address": "스톰 포레스트5",
+            "Attendance": "16",
+            "Contribution": "1038605",
+            "Rank": "11",
             "Rankname": "블아등급"
         },
         {
             "Id": "큐블리",
             "Lv": "15",
             "Job": "바학",
-            "Address": "레빈시 교외2a",
-            "Attendance": "7",
-            "Contribution": "968052",
-            "Rank": "13",
+            "Address": "센터 정원3",
+            "Attendance": "9",
+            "Contribution": "1011132",
+            "Rank": "12",
             "Rankname": "블아등급"
         },
         {
             "Id": "무무",
             "Lv": "19",
             "Job": "바학",
-            "Address": "달빛 보리밭4",
-            "Attendance": "2",
-            "Contribution": "892863",
-            "Rank": "14",
+            "Address": "그린 호수8",
+            "Attendance": "4",
+            "Contribution": "916317",
+            "Rank": "13",
             "Rankname": "블아등급"
         },
         {
             "Id": "soo수",
             "Lv": "16",
             "Job": "대장장이",
-            "Address": "레빈시 교외6b",
-            "Attendance": "6",
-            "Contribution": "641801",
-            "Rank": "15",
+            "Address": "센터 정원12",
+            "Attendance": "7",
+            "Contribution": "650921",
+            "Rank": "14",
             "Rankname": "블아등급"
         },
         {
             "Id": "soo3",
             "Lv": "15",
             "Job": "마채집가",
-            "Address": "레빈시 교외4a",
-            "Attendance": "9",
-            "Contribution": "553737",
-            "Rank": "16",
-            "Rankname": "크아등급"
+            "Address": "센터 정원7",
+            "Attendance": "10",
+            "Contribution": "562828",
+            "Rank": "15",
+            "Rankname": "블아등급"
         },
         {
             "Id": "츄츄",
             "Lv": "13",
             "Job": "목수",
-            "Address": "레빈시 교외4b",
-            "Attendance": "12",
-            "Contribution": "544714",
-            "Rank": "17",
+            "Address": "센터 정원8",
+            "Attendance": "14",
+            "Contribution": "556260",
+            "Rank": "16",
             "Rankname": "크아등급"
         },
         {
             "Id": "전장의 은하",
             "Lv": "17",
             "Job": "바학",
-            "Address": "레빈시 교외6a",
+            "Address": "센터 정원11",
             "Attendance": "0",
-            "Contribution": "502389",
-            "Rank": "18",
+            "Contribution": "505043",
+            "Rank": "17",
             "Rankname": "크아등급"
         },
         {
             "Id": "wpfj",
             "Lv": "16",
             "Job": "바학",
-            "Address": "황금 밀림2",
+            "Address": "써니 랜드2",
             "Attendance": "5",
-            "Contribution": "315989",
-            "Rank": "19",
+            "Contribution": "329497",
+            "Rank": "18",
             "Rankname": "크아등급"
         },
         {
             "Id": "봄느님",
-            "Lv": "12",
+            "Lv": "13",
             "Job": "광부",
-            "Address": "달빛 보리밭10",
-            "Attendance": "4",
-            "Contribution": "219259",
-            "Rank": "20",
+            "Address": "그린 호수14",
+            "Attendance": "5",
+            "Contribution": "252094",
+            "Rank": "19",
             "Rankname": "크아등급"
         },
         {
             "Id": "버미느님",
             "Lv": "11",
             "Job": "벌목공",
-            "Address": "황금 밀림9",
+            "Address": "꽃말 언덕11",
             "Attendance": "2",
-            "Contribution": "117275",
-            "Rank": "21",
+            "Contribution": "122645",
+            "Rank": "20",
             "Rankname": "크아등급"
         },
         {
             "Id": "Kidor",
             "Lv": "10",
             "Job": "저격수",
-            "Address": "황금 밀림5",
+            "Address": "그린 호수7",
             "Attendance": "3",
-            "Contribution": "114919",
-            "Rank": "22",
+            "Contribution": "117669",
+            "Rank": "21",
             "Rankname": "크아등급"
         },
         {
             "Id": "Eunoia",
             "Lv": "9",
             "Job": "보물탐색가",
-            "Address": "그레인 평원6",
+            "Address": "선샤인 베이4",
             "Attendance": "0",
-            "Contribution": "87001",
+            "Contribution": "87321",
+            "Rank": "22",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "에리라임",
+            "Lv": "13",
+            "Job": "벌목공",
+            "Address": "센터 정원4",
+            "Attendance": "2",
+            "Contribution": "71888",
             "Rank": "23",
             "Rankname": "크아등급"
         },
@@ -234,159 +234,159 @@
             "Id": "라온힐조",
             "Lv": "4",
             "Job": "벌목공",
-            "Address": "황금 밀림8",
+            "Address": "써니 랜드8",
             "Attendance": "0",
-            "Contribution": "65434",
+            "Contribution": "67864",
             "Rank": "24",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "에리라임",
-            "Lv": "13",
-            "Job": "벌목공",
-            "Address": "레빈시 교외2b",
-            "Attendance": "2",
-            "Contribution": "64468",
-            "Rank": "25",
             "Rankname": "크아등급"
         },
         {
             "Id": "네-모",
             "Lv": "13",
             "Job": "소총수",
-            "Address": "달빛 보리밭1",
+            "Address": "스톰 포레스트1",
             "Attendance": "0",
             "Contribution": "62800",
-            "Rank": "26",
+            "Rank": "25",
             "Rankname": "크아등급"
         },
         {
             "Id": "Queen",
             "Lv": "16",
             "Job": "보물탐색가",
-            "Address": "그레인 호수10",
+            "Address": "꽃말 언덕10",
             "Attendance": "4",
-            "Contribution": "54135",
+            "Contribution": "61295",
+            "Rank": "26",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "한진범",
+            "Lv": "7",
+            "Job": "저격수",
+            "Address": "선샤인 베이1",
+            "Attendance": "0",
+            "Contribution": "55771",
             "Rank": "27",
             "Rankname": "크아등급"
         },
         {
-            "Id": "짱빠형2",
-            "Lv": "13",
-            "Job": "기계공",
-            "Address": "그레인 호수1",
-            "Attendance": "1",
-            "Contribution": "49165",
+            "Id": "추카",
+            "Lv": "15",
+            "Job": "광부",
+            "Address": "써니 랜드11",
+            "Attendance": "2",
+            "Contribution": "49233",
             "Rank": "28",
             "Rankname": "크아등급"
         },
         {
             "Id": "민트치약",
-            "Lv": "11",
+            "Lv": "12",
             "Job": "벌목공",
-            "Address": "그레인 평원8",
-            "Attendance": "1",
+            "Address": "선샤인 베이5",
+            "Attendance": "2",
             "Contribution": "48030",
-            "Rank": "30",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "한진범",
-            "Lv": "5",
-            "Job": "저격수",
-            "Address": "그레인 평원1",
-            "Attendance": "0",
-            "Contribution": "48676",
             "Rank": "29",
             "Rankname": "크아등급"
         },
         {
-            "Id": "추카",
-            "Lv": "14",
-            "Job": "광부",
-            "Address": "리브섬1구역1",
-            "Attendance": "1",
-            "Contribution": "40323",
+            "Id": "라꾸",
+            "Lv": "12",
+            "Job": "목수",
+            "Address": "선샤인 베이20",
+            "Attendance": "0",
+            "Contribution": "34100",
+            "Rank": "30",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "에이후",
+            "Lv": "8",
+            "Job": "벌목공",
+            "Address": "선샤인 베이2",
+            "Attendance": "2",
+            "Contribution": "32005",
             "Rank": "31",
             "Rankname": "크아등급"
         },
         {
             "Id": "뭐야다못생김",
-            "Lv": "10",
+            "Lv": "11",
             "Job": "마채집가",
-            "Address": "그레인 호수3",
-            "Attendance": "0",
-            "Contribution": "29765",
+            "Address": "스톰 포레스트11",
+            "Attendance": "2",
+            "Contribution": "30035",
             "Rank": "32",
             "Rankname": "크아등급"
         },
         {
-            "Id": "에이후",
-            "Lv": "7",
-            "Job": "벌목공",
-            "Address": "그레인 평원2",
-            "Attendance": "2",
-            "Contribution": "23045",
-            "Rank": "33",
-            "Rankname": "크아등급"
-        },
-        {
             "Id": "KRA",
-            "Lv": "5",
+            "Lv": "6",
             "Job": "광부",
-            "Address": "달빛 보리밭3",
+            "Address": "스톰 포레스트3",
             "Attendance": "0",
-            "Contribution": "20555",
-            "Rank": "34",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "만월",
-            "Lv": "14",
-            "Job": "바학",
-            "Address": "리브섬1구역2",
-            "Attendance": "0",
-            "Contribution": "14710",
-            "Rank": "35",
-            "Rankname": "크아등급"
-        },
-        {
-            "Id": "비월가",
-            "Lv": "5",
-            "Job": "보탐가",
-            "Address": "붉은 석림1",
-            "Attendance": "0",
-            "Contribution": "13810",
-            "Rank": "36",
+            "Contribution": "24480",
+            "Rank": "33",
             "Rankname": "크아등급"
         },
         {
             "Id": "Choa",
             "Lv": "11",
             "Job": "보탐가",
-            "Address": "레빈시 교외1b",
-            "Attendance": "1",
-            "Contribution": "12205",
-            "Rank": "37",
+            "Address": "센터 정원2",
+            "Attendance": "2",
+            "Contribution": "21215",
+            "Rank": "34",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "비월가",
+            "Lv": "8",
+            "Job": "보탐가",
+            "Address": "그린 호수13",
+            "Attendance": "0",
+            "Contribution": "15565",
+            "Rank": "35",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "타코야키",
+            "Lv": "17",
+            "Job": "바학",
+            "Address": "선샤인 베이23",
+            "Attendance": "0",
+            "Contribution": "13540",
+            "Rank": "36",
             "Rankname": "크아등급"
         },
         {
             "Id": "Talia",
             "Lv": "6",
             "Job": "대장장이",
-            "Address": "그레인 평원3",
+            "Address": "선샤인 베이3",
             "Attendance": "1",
             "Contribution": "10305",
+            "Rank": "37",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "폭주",
+            "Lv": "13",
+            "Job": "목수",
+            "Address": "선샤인 베이19",
+            "Attendance": "0",
+            "Contribution": "6400",
             "Rank": "38",
             "Rankname": "크아등급"
         },
         {
-            "Id": "하윤이",
-            "Lv": "7",
-            "Job": "마채집가",
-            "Address": "달빛 보리밭2",
+            "Id": "이승준대왕",
+            "Lv": "13",
+            "Job": "광부",
+            "Address": "꽃말 언덕3",
             "Attendance": "0",
-            "Contribution": "0",
+            "Contribution": "4200",
             "Rank": "39",
             "Rankname": "크아등급"
         },
@@ -394,10 +394,30 @@
             "Id": "미바방",
             "Lv": "1",
             "Job": "노직업",
-            "Address": "그레인 호수9",
+            "Address": "꽃말 언덕9",
             "Attendance": "0",
             "Contribution": "0",
-            "Rank": "39",
+            "Rank": "40",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "깨꽁이",
+            "Lv": "8",
+            "Job": "보탐가",
+            "Address": "그린 호수16",
+            "Attendance": "0",
+            "Contribution": "0",
+            "Rank": "40",
+            "Rankname": "크아등급"
+        },
+        {
+            "Id": "히쪼",
+            "Lv": "3",
+            "Job": "벌목공",
+            "Address": "꽃말 언덕4",
+            "Attendance": "0",
+            "Contribution": "0",
+            "Rank": "40",
             "Rankname": "크아등급"
         }
     ],
@@ -1143,6 +1163,388 @@
         },
         {
             "quiz": "구문룡"
+        }
+    ],
+    "treasure": [
+        {
+            "item": "생명시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "7",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "5",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "5",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "채집수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "채집수정",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "채집수정",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "5",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "6",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        }
+    ],
+    "slot": [
+        {
+            "item": "생명시약",
+            "count": "79"
+        },
+        {
+            "item": "공격시약",
+            "count": "34"
+        },
+        {
+            "item": "정밀수정",
+            "count": "10"
+        },
+        {
+            "item": "채집수정",
+            "count": "6"
+        },
+        {
+            "item": "생존수정",
+            "count": "9"
+        },
+        {
+            "item": "속도수정",
+            "count": "12"
+        },
+        {
+            "item": "보호시약",
+            "count": "21"
         }
     ]
 }
