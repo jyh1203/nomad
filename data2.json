@@ -482,6 +482,17 @@
             "Rank": "36",
             "Rankname": "크아등급",
             "Grade": "100%"
+        },
+        {
+            "Id": "회계사",
+            "Lv": "17",
+            "Job": "광부",
+            "Address": "마음은YHE캠프",
+            "Attendance": "0",
+            "Contribution": "-10000",
+            "Rank": "97",
+            "Rankname": "크아등급",
+            "Grade": "100%"
         }
     ],
     "rank": [
