@@ -1167,6 +1167,46 @@
             "grade": "고급",
             "where": "상가 연맹스토어/스타 장원랭킹",
             "registerer": "빛나는혜빈"
+        },
+        {
+            "name": "강화세라믹",
+            "type": "반제품",
+            "exclusive": "목수",
+            "grade": "고급",
+            "where": "거래의 도시",
+            "registerer": "유설민"
+        },
+        {
+            "name": "콘크리트",
+            "type": "반제품",
+            "exclusive": "목수",
+            "grade": "고급",
+            "where": "거래의 도시",
+            "registerer": "유설민"
+        },
+        {
+            "name": "장부맞춤",
+            "type": "반제품",
+            "exclusive": "목수",
+            "grade": "고급",
+            "where": "거래의 도시",
+            "registerer": "유설민"
+        },
+        {
+            "name": "돌무늬허니컴플레이트",
+            "type": "반제품",
+            "exclusive": "목수",
+            "grade": "고급",
+            "where": "거래의 도시",
+            "registerer": "유설민"
+        },
+        {
+            "name": "건축도료",
+            "type": "반제품",
+            "exclusive": "목수",
+            "grade": "고급",
+            "where": "거래의 도시",
+            "registerer": "유설민"
         }
     ]
 }
