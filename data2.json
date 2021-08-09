@@ -5,121 +5,132 @@
             "Lv": "17",
             "Job": "바학",
             "Address": "센터 정원1",
-            "Attendance": "21",
-            "Contribution": "4513136",
+            "Attendance": "23",
+            "Contribution": "5449477",
             "Rank": "1",
             "Rankname": "백금등급",
-            "Grade": "35%"
+            "Grade": "32%"
         },
         {
             "Id": "빛나는혜빈",
             "Lv": "17",
             "Job": "벌목공",
             "Address": "선샤인 베이7",
-            "Attendance": "16",
-            "Contribution": "4221756",
+            "Attendance": "18",
+            "Contribution": "5301178",
             "Rank": "2",
             "Rankname": "백금등급",
-            "Grade": "35%"
+            "Grade": "32%"
         },
         {
             "Id": "Lynd",
             "Lv": "16",
             "Job": "광부",
             "Address": "꽃말 언덕5",
-            "Attendance": "15",
-            "Contribution": "2872601",
+            "Attendance": "17",
+            "Contribution": "2928601",
             "Rank": "3",
             "Rankname": "백금등급",
-            "Grade": "42%"
-        },
-        {
-            "Id": "깨꿍이",
-            "Lv": "17",
-            "Job": "바학",
-            "Address": "그린 호수15",
-            "Attendance": "13",
-            "Contribution": "2343799",
-            "Rank": "4",
-            "Rankname": "스철등급",
-            "Grade": "35%"
-        },
-        {
-            "Id": "새봄",
-            "Lv": "20",
-            "Job": "저격수",
-            "Address": "센터 정원9",
-            "Attendance": "8",
-            "Contribution": "2118467",
-            "Rank": "5",
-            "Rankname": "스철등급",
-            "Grade": "2%"
+            "Grade": "38%"
         },
         {
             "Id": "새롬",
             "Lv": "19",
             "Job": "바학",
             "Address": "센터 정원10",
-            "Attendance": "9",
-            "Contribution": "2020446",
+            "Attendance": "11",
+            "Contribution": "2537484",
+            "Rank": "4",
+            "Rankname": "스철등급",
+            "Grade": "4%"
+        },
+        {
+            "Id": "깨꿍이",
+            "Lv": "17",
+            "Job": "바학",
+            "Address": "센터 정원11",
+            "Attendance": "14",
+            "Contribution": "2443234",
+            "Rank": "5",
+            "Rankname": "스철등급",
+            "Grade": "32%"
+        },
+        {
+            "Id": "새봄",
+            "Lv": "20",
+            "Job": "저격수",
+            "Address": "센터 정원9",
+            "Attendance": "10",
+            "Contribution": "2208777",
             "Rank": "6",
             "Rankname": "화스등급",
-            "Grade": "5%"
+            "Grade": "2%"
         },
         {
             "Id": "아자토스",
             "Lv": "17",
             "Job": "바학",
             "Address": "그린 호수11",
-            "Attendance": "14",
-            "Contribution": "1692104",
+            "Attendance": "15",
+            "Contribution": "2068064",
             "Rank": "7",
             "Rankname": "화스등급",
-            "Grade": "35%"
-        },
-        {
-            "Id": "라온",
-            "Lv": "17",
-            "Job": "소총수",
-            "Address": "그린 호수6",
-            "Attendance": "3",
-            "Contribution": "1549056",
-            "Rank": "8",
-            "Rankname": "화스등급",
-            "Grade": "35%"
-        },
-        {
-            "Id": "yeoyuu",
-            "Lv": "14",
-            "Job": "바학",
-            "Address": "그린 호수2",
-            "Attendance": "13",
-            "Contribution": "1519592",
-            "Rank": "9",
-            "Rankname": "화스등급",
-            "Grade": "51%"
+            "Grade": "32%"
         },
         {
             "Id": "간지용",
             "Lv": "17",
             "Job": "마채집가",
             "Address": "센터 정원5",
-            "Attendance": "17",
-            "Contribution": "1254865",
+            "Attendance": "18",
+            "Contribution": "1706617",
+            "Rank": "8",
+            "Rankname": "화스등급",
+            "Grade": "32%"
+        },
+        {
+            "Id": "라온",
+            "Lv": "17",
+            "Job": "소총수",
+            "Address": "그린 호수6",
+            "Attendance": "5",
+            "Contribution": "1596581",
+            "Rank": "9",
+            "Rankname": "화스등급",
+            "Grade": "32%"
+        },
+        {
+            "Id": "yeoyuu",
+            "Lv": "14",
+            "Job": "바학",
+            "Address": "그린 호수2",
+            "Attendance": "14",
+            "Contribution": "1536934",
             "Rank": "10",
             "Rankname": "화스등급",
-            "Grade": "35%"
+            "Grade": "55%"
         },
         {
             "Id": "바바방",
             "Lv": "17",
             "Job": "바학",
             "Address": "센터 정원7",
-            "Attendance": "20",
-            "Contribution": "1199236",
+            "Attendance": "22",
+            "Contribution": "1257475",
             "Rank": "11",
             "Rankname": "블아등급",
-            "Grade": "35%"
+            "Grade": "32%"
+        },
+        {
+            "Id": "햄토리",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "센터 정원12",
+            "Attendance": "1",
+            "Contribution": "1225738",
+            "Rank": "12",
+            "Rankname": "블아등급",
+            "Grade": "15%"
         },
         {
             "Id": "큐블리",
@@ -127,87 +138,76 @@
             "Job": "바학",
             "Address": "센터 정원3",
             "Attendance": "12",
-            "Contribution": "1134297",
-            "Rank": "12",
-            "Rankname": "블아등급",
-            "Grade": "47%"
-        },
-        {
-            "Id": "햄토리",
-            "Lv": "18",
-            "Job": "바학",
-            "Address": "선샤인 베이24",
-            "Attendance": "0",
-            "Contribution": "1125090",
+            "Contribution": "1176472",
             "Rank": "13",
             "Rankname": "블아등급",
-            "Grade": "14%"
+            "Grade": "45%"
         },
         {
             "Id": "무무",
             "Lv": "20",
             "Job": "바학",
             "Address": "센터 정원8",
-            "Attendance": "6",
-            "Contribution": "1016282",
+            "Attendance": "8",
+            "Contribution": "1111100",
             "Rank": "14",
             "Rankname": "블아등급",
             "Grade": "2%"
+        },
+        {
+            "Id": "괴도해일",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "센터 정원6",
+            "Attendance": "4",
+            "Contribution": "677533",
+            "Rank": "15",
+            "Rankname": "블아등급",
+            "Grade": "15%"
         },
         {
             "Id": "이승준대왕",
             "Lv": "13",
             "Job": "광부",
             "Address": "선샤인 베이10",
-            "Attendance": "2",
-            "Contribution": "638698",
-            "Rank": "15",
-            "Rankname": "블아등급",
-            "Grade": "60%"
-        },
-        {
-            "Id": "괴도해일",
-            "Lv": "17",
-            "Job": "바학",
-            "Address": "센터 정원6",
-            "Attendance": "2",
-            "Contribution": "434357",
+            "Attendance": "3",
+            "Contribution": "654703",
             "Rank": "16",
             "Rankname": "크아등급",
-            "Grade": "35%"
+            "Grade": "60%"
         },
         {
             "Id": "봄느님",
-            "Lv": "13",
+            "Lv": "14",
             "Job": "광부",
             "Address": "그린 호수14",
-            "Attendance": "8",
-            "Contribution": "426799",
+            "Attendance": "10",
+            "Contribution": "467844",
             "Rank": "17",
             "Rankname": "크아등급",
-            "Grade": "60%"
+            "Grade": "55%"
         },
         {
             "Id": "wpfj",
             "Lv": "16",
             "Job": "바학",
             "Address": "써니 랜드2",
-            "Attendance": "8",
-            "Contribution": "364377",
+            "Attendance": "9",
+            "Contribution": "408261",
             "Rank": "18",
             "Rankname": "크아등급",
-            "Grade": "42%"
+            "Grade": "38%"
         },
         {
             "Id": "한진범",
-            "Lv": "9",
+            "Lv": "11",
             "Job": "저격수",
             "Address": "선샤인 베이9",
             "Attendance": "0",
-            "Contribution": "182821",
+            "Contribution": "205536",
             "Rank": "19",
             "Rankname": "크아등급",
-            "Grade": "81%"
+            "Grade": "72%"
         },
         {
             "Id": "Kidor",
@@ -215,7 +215,7 @@
             "Job": "저격수",
             "Address": "그린 호수5",
             "Attendance": "5",
-            "Contribution": "171731",
+            "Contribution": "183056",
             "Rank": "20",
             "Rankname": "크아등급",
             "Grade": "72%"
@@ -232,26 +232,26 @@
             "Grade": "72%"
         },
         {
+            "Id": "세리닝",
+            "Lv": "18",
+            "Job": "마채집가",
+            "Address": "스톰 포레스트22",
+            "Attendance": "2",
+            "Contribution": "141908",
+            "Rank": "22",
+            "Rankname": "크아등급",
+            "Grade": "15%"
+        },
+        {
             "Id": "추카",
             "Lv": "15",
             "Job": "광부",
             "Address": "그린 호수12",
             "Attendance": "5",
-            "Contribution": "116747",
-            "Rank": "22",
-            "Rankname": "크아등급",
-            "Grade": "47%"
-        },
-        {
-            "Id": "Eunoia",
-            "Lv": "9",
-            "Job": "보물탐색가",
-            "Address": "선샤인 베이5",
-            "Attendance": "0",
-            "Contribution": "110296",
+            "Contribution": "134947",
             "Rank": "23",
             "Rankname": "크아등급",
-            "Grade": "81%"
+            "Grade": "45%"
         },
         {
             "Id": "Queen",
@@ -259,54 +259,65 @@
             "Job": "보물탐색가",
             "Address": "꽃말 언덕10",
             "Attendance": "4",
-            "Contribution": "105330",
+            "Contribution": "132305",
             "Rank": "24",
             "Rankname": "크아등급",
-            "Grade": "42%"
-        },
-        {
-            "Id": "라온힐조",
-            "Lv": "4",
-            "Job": "벌목공",
-            "Address": "써니 랜드8",
-            "Attendance": "0",
-            "Contribution": "86634",
-            "Rank": "25",
-            "Rankname": "크아등급",
-            "Grade": "98%"
-        },
-        {
-            "Id": "에리라임",
-            "Lv": "13",
-            "Job": "벌목공",
-            "Address": "써니 랜드6",
-            "Attendance": "2",
-            "Contribution": "80223",
-            "Rank": "26",
-            "Rankname": "크아등급",
-            "Grade": "60%"
-        },
-        {
-            "Id": "세리닝",
-            "Lv": "18",
-            "Job": "마채집가",
-            "Address": "스톰 포레스트22",
-            "Attendance": "1",
-            "Contribution": "67860",
-            "Rank": "27",
-            "Rankname": "크아등급",
-            "Grade": "14%"
+            "Grade": "38%"
         },
         {
             "Id": "Witty",
             "Lv": "18",
             "Job": "바학",
             "Address": "그린 호수23",
-            "Attendance": "1",
-            "Contribution": "54539",
+            "Attendance": "2",
+            "Contribution": "115538",
+            "Rank": "25",
+            "Rankname": "크아등급",
+            "Grade": "15%"
+        },
+        {
+            "Id": "Eunoia",
+            "Lv": "9",
+            "Job": "보물탐색가",
+            "Address": "선샤인 베이5",
+            "Attendance": "0",
+            "Contribution": "113046",
+            "Rank": "26",
+            "Rankname": "크아등급",
+            "Grade": "81%"
+        },
+        {
+            "Id": "라온힐조",
+            "Lv": "4",
+            "Job": "벌목공",
+            "Address": "선샤인 베이6",
+            "Attendance": "0",
+            "Contribution": "91354",
+            "Rank": "27",
+            "Rankname": "크아등급",
+            "Grade": "98%"
+        },
+        {
+            "Id": "에리라임",
+            "Lv": "14",
+            "Job": "벌목공",
+            "Address": "써니 랜드6",
+            "Attendance": "2",
+            "Contribution": "90103",
             "Rank": "28",
             "Rankname": "크아등급",
-            "Grade": "14%"
+            "Grade": "55%"
+        },
+        {
+            "Id": "랜선펀치",
+            "Lv": "14",
+            "Job": "광부",
+            "Address": "그린 호수1",
+            "Attendance": "3",
+            "Contribution": "56543",
+            "Rank": "29",
+            "Rankname": "크아등급",
+            "Grade": "55%"
         },
         {
             "Id": "라꾸",
@@ -315,42 +326,86 @@
             "Address": "선샤인 베이20",
             "Attendance": "0",
             "Contribution": "50600",
-            "Rank": "29",
+            "Rank": "30",
             "Rankname": "크아등급",
-            "Grade": "63%"
+            "Grade": "64%"
         },
         {
             "Id": "뭐야다못생김",
-            "Lv": "11",
+            "Lv": "12",
             "Job": "마채집가",
             "Address": "스톰 포레스트11",
             "Attendance": "2",
-            "Contribution": "47985",
-            "Rank": "30",
-            "Rankname": "크아등급",
-            "Grade": "72%"
-        },
-        {
-            "Id": "랜선펀치",
-            "Lv": "14",
-            "Job": "광부",
-            "Address": "꽃말 언덕2",
-            "Attendance": "2",
-            "Contribution": "40873",
+            "Contribution": "50085",
             "Rank": "31",
             "Rankname": "크아등급",
-            "Grade": "51%"
+            "Grade": "64%"
+        },
+        {
+            "Id": "비월가",
+            "Lv": "10",
+            "Job": "보탐가",
+            "Address": "그린 호수13",
+            "Attendance": "0",
+            "Contribution": "47643",
+            "Rank": "32",
+            "Rankname": "크아등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "빵크티",
+            "Lv": "8",
+            "Job": "보탐가",
+            "Address": "스톰 포레스트21",
+            "Attendance": "0",
+            "Contribution": "42175",
+            "Rank": "33",
+            "Rankname": "크아등급",
+            "Grade": "85%"
         },
         {
             "Id": "환상동화",
             "Lv": "17",
             "Job": "소총수",
             "Address": "그린 호수16",
-            "Attendance": "2",
-            "Contribution": "29900",
-            "Rank": "32",
+            "Attendance": "3",
+            "Contribution": "40720",
+            "Rank": "34",
             "Rankname": "크아등급",
-            "Grade": "35%"
+            "Grade": "32%"
+        },
+        {
+            "Id": "KRA",
+            "Lv": "6",
+            "Job": "광부",
+            "Address": "스톰 포레스트3",
+            "Attendance": "0",
+            "Contribution": "36140",
+            "Rank": "35",
+            "Rankname": "크아등급",
+            "Grade": "96%"
+        },
+        {
+            "Id": "흰여울",
+            "Lv": "13",
+            "Job": "목수",
+            "Address": "선샤인 베이2",
+            "Attendance": "1",
+            "Contribution": "34156",
+            "Rank": "36",
+            "Rankname": "크아등급",
+            "Grade": "60%"
+        },
+        {
+            "Id": "폭주",
+            "Lv": "14",
+            "Job": "목수",
+            "Address": "선샤인 베이19",
+            "Attendance": "0",
+            "Contribution": "29130",
+            "Rank": "37",
+            "Rankname": "크아등급",
+            "Grade": "55%"
         },
         {
             "Id": "Choa",
@@ -359,31 +414,9 @@
             "Address": "써니 랜드7",
             "Attendance": "2",
             "Contribution": "28745",
-            "Rank": "33",
+            "Rank": "38",
             "Rankname": "크아등급",
             "Grade": "72%"
-        },
-        {
-            "Id": "KRA",
-            "Lv": "6",
-            "Job": "광부",
-            "Address": "스톰 포레스트3",
-            "Attendance": "0",
-            "Contribution": "28430",
-            "Rank": "34",
-            "Rankname": "크아등급",
-            "Grade": "91%"
-        },
-        {
-            "Id": "비월가",
-            "Lv": "10",
-            "Job": "보탐가",
-            "Address": "그린 호수13",
-            "Attendance": "0",
-            "Contribution": "24753",
-            "Rank": "35",
-            "Rankname": "크아등급",
-            "Grade": "77%"
         },
         {
             "Id": "란타나",
@@ -391,21 +424,21 @@
             "Job": "마채집가",
             "Address": "꽃말 언덕1",
             "Attendance": "0",
-            "Contribution": "24022",
-            "Rank": "36",
+            "Contribution": "27582",
+            "Rank": "39",
             "Rankname": "크아등급",
             "Grade": "100%"
         },
         {
-            "Id": "폭주",
-            "Lv": "13",
-            "Job": "목수",
-            "Address": "선샤인 베이19",
+            "Id": "큐윈터",
+            "Lv": "8",
+            "Job": "보탐가",
+            "Address": "선샤인 베이24",
             "Attendance": "0",
-            "Contribution": "22900",
-            "Rank": "37",
+            "Contribution": "26450",
+            "Rank": "40",
             "Rankname": "크아등급",
-            "Grade": "60%"
+            "Grade": "85%"
         },
         {
             "Id": "희미한빛",
@@ -413,54 +446,43 @@
             "Job": "소총수",
             "Address": "꽃말 언덕4",
             "Attendance": "0",
-            "Contribution": "22165",
-            "Rank": "38",
+            "Contribution": "24915",
+            "Rank": "41",
             "Rankname": "크아등급",
-            "Grade": "77%"
+            "Grade": "79%"
         },
         {
             "Id": "클로버",
             "Lv": "18",
             "Job": "저격수",
             "Address": "센터 정원4",
-            "Attendance": "2",
-            "Contribution": "15225",
-            "Rank": "39",
+            "Attendance": "3",
+            "Contribution": "18980",
+            "Rank": "42",
             "Rankname": "크아등급",
-            "Grade": "14%"
+            "Grade": "15%"
         },
         {
-            "Id": "Talia",
-            "Lv": "6",
-            "Job": "대장장이",
-            "Address": "선샤인 베이3",
-            "Attendance": "1",
-            "Contribution": "10305",
-            "Rank": "40",
+            "Id": "도와주십시오",
+            "Lv": "15",
+            "Job": "소총수",
+            "Address": "꽃말 언덕2",
+            "Attendance": "0",
+            "Contribution": "18215",
+            "Rank": "43",
             "Rankname": "크아등급",
-            "Grade": "91%"
+            "Grade": "45%"
         },
         {
             "Id": "깨꽁이",
-            "Lv": "8",
+            "Lv": "10",
             "Job": "보탐가",
             "Address": "써니 랜드1",
             "Attendance": "0",
-            "Contribution": "4010",
-            "Rank": "41",
+            "Contribution": "8860",
+            "Rank": "44",
             "Rankname": "크아등급",
-            "Grade": "84%"
-        },
-        {
-            "Id": "히쪼",
-            "Lv": "4",
-            "Job": "벌목공",
-            "Address": "꽃말 언덕24",
-            "Attendance": "0",
-            "Contribution": "3215",
-            "Rank": "42",
-            "Rankname": "크아등급",
-            "Grade": "98%"
+            "Grade": "79%"
         },
         {
             "Id": "ZOE",
@@ -468,122 +490,144 @@
             "Job": "벌목공",
             "Address": "그린 호수24",
             "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "43",
+            "Contribution": "8340",
+            "Rank": "45",
             "Rankname": "크아등급",
-            "Grade": "91%"
+            "Grade": "0.9575"
+        },
+        {
+            "Id": "해태",
+            "Lv": "6",
+            "Job": "목수",
+            "Address": "그린 호수15",
+            "Attendance": "0",
+            "Contribution": "5825",
+            "Rank": "46",
+            "Rankname": "크아등급",
+            "Grade": "0.9575"
+        },
+        {
+            "Id": "히쪼",
+            "Lv": "6",
+            "Job": "벌목공",
+            "Address": "꽃말 언덕24",
+            "Attendance": "0",
+            "Contribution": "3215",
+            "Rank": "47",
+            "Rankname": "크아등급",
+            "Grade": "0.9575"
         },
         {
             "Id": "Tmel",
-            "Lv": "4",
+            "Lv": "7",
             "Job": "보탐가",
             "Address": "꽃말 언덕9",
             "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "43",
+            "Contribution": "1035",
+            "Rank": "48",
             "Rankname": "크아등급",
-            "Grade": "98%"
+            "Grade": "0.8724"
         }
     ],
     "rank": [
         {
             "Rank": "1",
-            "Contribution": "4513136",
+            "Contribution": "5449477",
             "Id": "유설민"
         },
         {
             "Rank": "2",
-            "Contribution": "4221756",
+            "Contribution": "5301178",
             "Id": "빛나는혜빈"
         },
         {
             "Rank": "3",
-            "Contribution": "2872601",
+            "Contribution": "2928601",
             "Id": "Lynd"
         },
         {
             "Rank": "4",
-            "Contribution": "2343799",
-            "Id": "깨꿍이"
-        },
-        {
-            "Rank": "5",
-            "Contribution": "2118467",
-            "Id": "새봄"
-        },
-        {
-            "Rank": "6",
-            "Contribution": "2020446",
+            "Contribution": "2537484",
             "Id": "새롬"
         },
         {
+            "Rank": "5",
+            "Contribution": "2443234",
+            "Id": "깨꿍이"
+        },
+        {
+            "Rank": "6",
+            "Contribution": "2208777",
+            "Id": "새봄"
+        },
+        {
             "Rank": "7",
-            "Contribution": "1692104",
+            "Contribution": "2068064",
             "Id": "아자토스"
         },
         {
             "Rank": "8",
-            "Contribution": "1549056",
-            "Id": "라온"
-        },
-        {
-            "Rank": "9",
-            "Contribution": "1519592",
-            "Id": "yeoyuu"
-        },
-        {
-            "Rank": "10",
-            "Contribution": "1254865",
+            "Contribution": "1706617",
             "Id": "간지용"
         },
         {
+            "Rank": "9",
+            "Contribution": "1596581",
+            "Id": "라온"
+        },
+        {
+            "Rank": "10",
+            "Contribution": "1536934",
+            "Id": "yeoyuu"
+        },
+        {
             "Rank": "11",
-            "Contribution": "1199236",
+            "Contribution": "1257475",
             "Id": "바바방"
         },
         {
             "Rank": "12",
-            "Contribution": "1134297",
-            "Id": "큐블리"
-        },
-        {
-            "Rank": "13",
-            "Contribution": "1125090",
+            "Contribution": "1225738",
             "Id": "햄토리"
         },
         {
+            "Rank": "13",
+            "Contribution": "1176472",
+            "Id": "큐블리"
+        },
+        {
             "Rank": "14",
-            "Contribution": "1016282",
+            "Contribution": "1111100",
             "Id": "무무"
         },
         {
             "Rank": "15",
-            "Contribution": "638698",
-            "Id": "이승준대왕"
-        },
-        {
-            "Rank": "16",
-            "Contribution": "434357",
+            "Contribution": "677533",
             "Id": "괴도해일"
         },
         {
+            "Rank": "16",
+            "Contribution": "654703",
+            "Id": "이승준대왕"
+        },
+        {
             "Rank": "17",
-            "Contribution": "426799",
+            "Contribution": "467844",
             "Id": "봄느님"
         },
         {
             "Rank": "18",
-            "Contribution": "364377",
+            "Contribution": "408261",
             "Id": "wpfj"
         },
         {
             "Rank": "19",
-            "Contribution": "182821",
+            "Contribution": "205536",
             "Id": "한진범"
         },
         {
             "Rank": "20",
-            "Contribution": "171731",
+            "Contribution": "183056",
             "Id": "Kidor"
         },
         {
@@ -593,117 +637,137 @@
         },
         {
             "Rank": "22",
-            "Contribution": "116747",
-            "Id": "추카"
+            "Contribution": "141908",
+            "Id": "세리닝"
         },
         {
             "Rank": "23",
-            "Contribution": "110296",
-            "Id": "Eunoia"
+            "Contribution": "134947",
+            "Id": "추카"
         },
         {
             "Rank": "24",
-            "Contribution": "105330",
+            "Contribution": "132305",
             "Id": "Queen"
         },
         {
             "Rank": "25",
-            "Contribution": "86634",
-            "Id": "라온힐조"
-        },
-        {
-            "Rank": "26",
-            "Contribution": "80223",
-            "Id": "에리라임"
-        },
-        {
-            "Rank": "27",
-            "Contribution": "67860",
-            "Id": "세리닝"
-        },
-        {
-            "Rank": "28",
-            "Contribution": "54539",
+            "Contribution": "115538",
             "Id": "Witty"
         },
         {
+            "Rank": "26",
+            "Contribution": "113046",
+            "Id": "Eunoia"
+        },
+        {
+            "Rank": "27",
+            "Contribution": "91354",
+            "Id": "라온힐조"
+        },
+        {
+            "Rank": "28",
+            "Contribution": "90103",
+            "Id": "에리라임"
+        },
+        {
             "Rank": "29",
+            "Contribution": "56543",
+            "Id": "랜선펀치"
+        },
+        {
+            "Rank": "30",
             "Contribution": "50600",
             "Id": "라꾸"
         },
         {
-            "Rank": "30",
-            "Contribution": "47985",
+            "Rank": "31",
+            "Contribution": "50085",
             "Id": "뭐야다못생김"
         },
         {
-            "Rank": "31",
-            "Contribution": "40873",
-            "Id": "랜선펀치"
-        },
-        {
             "Rank": "32",
-            "Contribution": "29900",
-            "Id": "환상동화"
-        },
-        {
-            "Rank": "33",
-            "Contribution": "28745",
-            "Id": "Choa"
-        },
-        {
-            "Rank": "34",
-            "Contribution": "28430",
-            "Id": "KRA"
-        },
-        {
-            "Rank": "35",
-            "Contribution": "24753",
+            "Contribution": "47643",
             "Id": "비월가"
         },
         {
+            "Rank": "33",
+            "Contribution": "42175",
+            "Id": "빵크티"
+        },
+        {
+            "Rank": "34",
+            "Contribution": "40720",
+            "Id": "환상동화"
+        },
+        {
+            "Rank": "35",
+            "Contribution": "36140",
+            "Id": "KRA"
+        },
+        {
             "Rank": "36",
-            "Contribution": "24022",
-            "Id": "란타나"
+            "Contribution": "34156",
+            "Id": "흰여울"
         },
         {
             "Rank": "37",
-            "Contribution": "22900",
+            "Contribution": "29130",
             "Id": "폭주"
         },
         {
             "Rank": "38",
-            "Contribution": "22165",
-            "Id": "희미한빛"
+            "Contribution": "28745",
+            "Id": "Choa"
         },
         {
             "Rank": "39",
-            "Contribution": "15225",
-            "Id": "클로버"
+            "Contribution": "27582",
+            "Id": "란타나"
         },
         {
             "Rank": "40",
-            "Contribution": "10305",
-            "Id": "Talia"
+            "Contribution": "26450",
+            "Id": "큐윈터"
         },
         {
             "Rank": "41",
-            "Contribution": "4010",
-            "Id": "깨꽁이"
+            "Contribution": "24915",
+            "Id": "희미한빛"
         },
         {
             "Rank": "42",
+            "Contribution": "18980",
+            "Id": "클로버"
+        },
+        {
+            "Rank": "43",
+            "Contribution": "18215",
+            "Id": "도와주십시오"
+        },
+        {
+            "Rank": "44",
+            "Contribution": "8860",
+            "Id": "깨꽁이"
+        },
+        {
+            "Rank": "45",
+            "Contribution": "8340",
+            "Id": "ZOE"
+        },
+        {
+            "Rank": "46",
+            "Contribution": "5825",
+            "Id": "해태"
+        },
+        {
+            "Rank": "47",
             "Contribution": "3215",
             "Id": "히쪼"
         },
         {
-            "Rank": "43",
-            "Contribution": "0",
-            "Id": "ZOE"
-        },
-        {
-            "Rank": "43",
-            "Contribution": "0",
+            "Rank": "48",
+            "Contribution": "1035",
             "Id": "Tmel"
         }
     ],
@@ -712,262 +776,286 @@
             "Rank": "1",
             "Lv": "20",
             "Id": "새봄",
-            "Grade": "3%"
+            "Grade": "2%"
         },
         {
-            "Rank": "1",
+            "Rank": "2",
             "Lv": "20",
             "Id": "무무",
-            "Grade": "3%"
+            "Grade": "2%"
         },
         {
             "Rank": "3",
             "Lv": "19",
             "Id": "새롬",
-            "Grade": "5%"
-        },
-        {
-            "Rank": "4",
-            "Lv": "18",
-            "Id": "세리닝",
-            "Grade": "14%"
-        },
-        {
-            "Rank": "4",
-            "Lv": "18",
-            "Id": "Witty",
-            "Grade": "14%"
+            "Grade": "4%"
         },
         {
             "Rank": "4",
             "Lv": "18",
             "Id": "햄토리",
-            "Grade": "14%"
+            "Grade": "15%"
         },
         {
-            "Rank": "4",
+            "Rank": "5",
+            "Lv": "18",
+            "Id": "괴도해일",
+            "Grade": "15%"
+        },
+        {
+            "Rank": "6",
+            "Lv": "18",
+            "Id": "세리닝",
+            "Grade": "15%"
+        },
+        {
+            "Rank": "7",
+            "Lv": "18",
+            "Id": "Witty",
+            "Grade": "15%"
+        },
+        {
+            "Rank": "8",
             "Lv": "18",
             "Id": "클로버",
-            "Grade": "14%"
+            "Grade": "15%"
         },
         {
-            "Rank": "8",
-            "Lv": "17",
-            "Id": "바바방",
-            "Grade": "35%"
-        },
-        {
-            "Rank": "8",
+            "Rank": "9",
             "Lv": "17",
             "Id": "유설민",
-            "Grade": "35%"
+            "Grade": "32%"
         },
         {
-            "Rank": "8",
-            "Lv": "17",
-            "Id": "괴도해일",
-            "Grade": "35%"
-        },
-        {
-            "Rank": "8",
-            "Lv": "17",
-            "Id": "아자토스",
-            "Grade": "35%"
-        },
-        {
-            "Rank": "8",
-            "Lv": "17",
-            "Id": "환상동화",
-            "Grade": "35%"
-        },
-        {
-            "Rank": "8",
-            "Lv": "17",
-            "Id": "깨꿍이",
-            "Grade": "35%"
-        },
-        {
-            "Rank": "8",
-            "Lv": "17",
-            "Id": "라온",
-            "Grade": "35%"
-        },
-        {
-            "Rank": "8",
+            "Rank": "10",
             "Lv": "17",
             "Id": "빛나는혜빈",
-            "Grade": "35%"
+            "Grade": "32%"
         },
         {
-            "Rank": "8",
+            "Rank": "11",
+            "Lv": "17",
+            "Id": "깨꿍이",
+            "Grade": "32%"
+        },
+        {
+            "Rank": "12",
+            "Lv": "17",
+            "Id": "아자토스",
+            "Grade": "32%"
+        },
+        {
+            "Rank": "13",
             "Lv": "17",
             "Id": "간지용",
-            "Grade": "35%"
+            "Grade": "32%"
         },
         {
-            "Rank": "17",
-            "Lv": "16",
-            "Id": "wpfj",
-            "Grade": "42%"
+            "Rank": "14",
+            "Lv": "17",
+            "Id": "라온",
+            "Grade": "32%"
         },
         {
-            "Rank": "17",
-            "Lv": "16",
-            "Id": "Queen",
-            "Grade": "42%"
+            "Rank": "15",
+            "Lv": "17",
+            "Id": "바바방",
+            "Grade": "32%"
+        },
+        {
+            "Rank": "16",
+            "Lv": "17",
+            "Id": "환상동화",
+            "Grade": "32%"
         },
         {
             "Rank": "17",
             "Lv": "16",
             "Id": "Lynd",
-            "Grade": "42%"
+            "Grade": "38%"
+        },
+        {
+            "Rank": "18",
+            "Lv": "16",
+            "Id": "wpfj",
+            "Grade": "38%"
+        },
+        {
+            "Rank": "19",
+            "Lv": "16",
+            "Id": "Queen",
+            "Grade": "38%"
         },
         {
             "Rank": "20",
             "Lv": "15",
             "Id": "큐블리",
-            "Grade": "47%"
+            "Grade": "45%"
         },
         {
-            "Rank": "20",
+            "Rank": "21",
             "Lv": "15",
             "Id": "추카",
-            "Grade": "47%"
+            "Grade": "45%"
         },
         {
             "Rank": "22",
+            "Lv": "15",
+            "Id": "도와주십시오",
+            "Grade": "45%"
+        },
+        {
+            "Rank": "23",
             "Lv": "14",
             "Id": "yeoyuu",
-            "Grade": "52%"
+            "Grade": "55%"
         },
         {
-            "Rank": "22",
+            "Rank": "24",
+            "Lv": "14",
+            "Id": "봄느님",
+            "Grade": "55%"
+        },
+        {
+            "Rank": "25",
+            "Lv": "14",
+            "Id": "에리라임",
+            "Grade": "55%"
+        },
+        {
+            "Rank": "26",
             "Lv": "14",
             "Id": "랜선펀치",
-            "Grade": "52%"
+            "Grade": "55%"
         },
         {
-            "Rank": "24",
-            "Lv": "13",
-            "Id": "에리라임",
-            "Grade": "61%"
-        },
-        {
-            "Rank": "24",
-            "Lv": "13",
-            "Id": "봄느님",
-            "Grade": "61%"
-        },
-        {
-            "Rank": "24",
-            "Lv": "13",
+            "Rank": "27",
+            "Lv": "14",
             "Id": "폭주",
-            "Grade": "61%"
-        },
-        {
-            "Rank": "24",
-            "Lv": "13",
-            "Id": "이승준대왕",
-            "Grade": "61%"
+            "Grade": "55%"
         },
         {
             "Rank": "28",
+            "Lv": "13",
+            "Id": "이승준대왕",
+            "Grade": "60%"
+        },
+        {
+            "Rank": "29",
+            "Lv": "13",
+            "Id": "흰여울",
+            "Grade": "60%"
+        },
+        {
+            "Rank": "30",
             "Lv": "12",
             "Id": "라꾸",
-            "Grade": "63%"
+            "Grade": "64%"
         },
         {
-            "Rank": "29",
-            "Lv": "11",
-            "Id": "Choa",
-            "Grade": "73%"
-        },
-        {
-            "Rank": "29",
-            "Lv": "11",
+            "Rank": "31",
+            "Lv": "12",
             "Id": "뭐야다못생김",
-            "Grade": "73%"
+            "Grade": "64%"
         },
         {
-            "Rank": "29",
+            "Rank": "32",
+            "Lv": "11",
+            "Id": "한진범",
+            "Grade": "72%"
+        },
+        {
+            "Rank": "33",
             "Lv": "11",
             "Id": "Kidor",
-            "Grade": "73%"
+            "Grade": "72%"
         },
         {
-            "Rank": "29",
+            "Rank": "34",
             "Lv": "11",
             "Id": "버미느님",
-            "Grade": "73%"
+            "Grade": "72%"
         },
         {
-            "Rank": "33",
+            "Rank": "35",
+            "Lv": "11",
+            "Id": "Choa",
+            "Grade": "72%"
+        },
+        {
+            "Rank": "36",
             "Lv": "10",
             "Id": "비월가",
-            "Grade": "77%"
-        },
-        {
-            "Rank": "33",
-            "Lv": "10",
-            "Id": "희미한빛",
-            "Grade": "77%"
-        },
-        {
-            "Rank": "35",
-            "Lv": "9",
-            "Id": "Eunoia",
-            "Grade": "82%"
-        },
-        {
-            "Rank": "35",
-            "Lv": "9",
-            "Id": "한진범",
-            "Grade": "82%"
+            "Grade": "79%"
         },
         {
             "Rank": "37",
-            "Lv": "8",
+            "Lv": "10",
+            "Id": "희미한빛",
+            "Grade": "79%"
+        },
+        {
+            "Rank": "38",
+            "Lv": "10",
             "Id": "깨꽁이",
-            "Grade": "84%"
+            "Grade": "79%"
         },
         {
-            "Rank": "38",
-            "Lv": "6",
-            "Id": "Talia",
-            "Grade": "91%"
+            "Rank": "39",
+            "Lv": "9",
+            "Id": "Eunoia",
+            "Grade": "81%"
         },
         {
-            "Rank": "38",
-            "Lv": "6",
-            "Id": "KRA",
-            "Grade": "91%"
-        },
-        {
-            "Rank": "38",
-            "Lv": "6",
-            "Id": "ZOE",
-            "Grade": "91%"
+            "Rank": "40",
+            "Lv": "8",
+            "Id": "빵크티",
+            "Grade": "85%"
         },
         {
             "Rank": "41",
+            "Lv": "8",
+            "Id": "큐윈터",
+            "Grade": "85%"
+        },
+        {
+            "Rank": "42",
+            "Lv": "7",
+            "Id": "Tmel",
+            "Grade": "87%"
+        },
+        {
+            "Rank": "43",
+            "Lv": "6",
+            "Id": "KRA",
+            "Grade": "96%"
+        },
+        {
+            "Rank": "44",
+            "Lv": "6",
+            "Id": "ZOE",
+            "Grade": "96%"
+        },
+        {
+            "Rank": "45",
+            "Lv": "6",
+            "Id": "해태",
+            "Grade": "96%"
+        },
+        {
+            "Rank": "46",
+            "Lv": "6",
+            "Id": "히쪼",
+            "Grade": "96%"
+        },
+        {
+            "Rank": "47",
             "Lv": "4",
             "Id": "라온힐조",
             "Grade": "98%"
         },
         {
-            "Rank": "41",
-            "Lv": "4",
-            "Id": "히쪼",
-            "Grade": "98%"
-        },
-        {
-            "Rank": "41",
-            "Lv": "4",
-            "Id": "Tmel",
-            "Grade": "98%"
-        },
-        {
-            "Rank": "44",
+            "Rank": "48",
             "Lv": "3",
             "Id": "란타나",
             "Grade": "100%"
@@ -1043,129 +1131,630 @@
     ],
     "recipe": [
         {
-            "food": "오렌지 달걀찜",
-            "recipe": "오렌지1 달걀3",
-            "buff": "감피증10, 헤피증10, 발속5, 안정성25"
+            "food": "감주찰떡",
+            "recipe": "쌀1, 밀가루1, 조미료1, 기타1(과일x)",
+            "buff": "메인자원벌목치명타율 8%, 늪지저항8%",
+            "registerer": "Lynd"
         },
         {
-            "food": "쇠고기 사과 샌드위치",
-            "recipe": "사과1 밀가루1 고기2",
-            "buff": "인피증10, 헤피증10"
+            "food": "냉국수",
+            "recipe": "파생강마늘 밀가루1, 양념1, 기타1",
+            "buff": "기력상한추가율8%, 채집속도증가8%, 늪지저항8%",
+            "registerer": "Lynd"
         },
         {
-            "food": "망고타르트",
-            "recipe": "망고1 밀가루1 달걀1 설탕1",
-            "buff": "치명5, 동피증10, 전숙5"
+            "food": "단단면",
+            "recipe": "밀가루2, 조미료2",
+            "buff": "벌목속도증가12%, 뇌우저항8%",
+            "registerer": "Lynd"
         },
         {
-            "food": "쉘터전용음식",
-            "recipe": "쉘터전용자원1 아무거나3",
-            "buff": "치명5, 감인동피증10"
+            "food": "달걀볶음밥",
+            "recipe": "쌀1 달걀1 +기타 2",
+            "buff": "생명력 지속회복2,전숙10%",
+            "registerer": "Lynd"
         },
         {
-            "food": "망고케이크",
-            "recipe": "망고1 우유1 밀가루1 설탕1",
-            "buff": "벌목치명10, 벌속10, 채숙10"
+            "food": "바삭바삭한전병과자",
+            "recipe": "쌀2, 양념1, 조미료1",
+            "buff": "생명력지속회복 1.5, 이동속도상승 5%, 늪지저항10%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "시원한과일빙수",
+            "recipe": "쌀1, 과일1, 얼음1, 기타1",
+            "buff": "이동속도상승4%, 채광속도증가8%, 모래폭풍저항 8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "오므라이스",
+            "recipe": "쌀1, 양념1, 달걀1, 기타1",
+            "buff": "생명력지속회복1.5, 치명타면역률 5%, 발속5%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "우유증편",
+            "recipe": "우유2, 쌀1, 조미료1",
+            "buff": "생명력지속회복 2.0, 메인자원 채광치명타율 10%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "우유치즈미음",
+            "recipe": "쌀2, 우유2",
+            "buff": "메인자원벌목치명타율 15%, 뇌우저항10%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "우유푸딩",
+            "recipe": "밀가루1, 우유1, 얼음1, 기타1(우유, 밀가루, 얼음 중1)",
+            "buff": "메인자원벌목치명타율 8%, 2차자원벌목치명타율 8%, 질주기력소모감소 8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "찹쌀푸딩",
+            "recipe": "밀가루3, 조미료1",
+            "buff": "메인자원벌목치명타율 8%, 벌목속도증가8%, 뇌우저항8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "망고 꿀주스",
+            "recipe": "망고1/얼음1/꿀2",
+            "buff": "이속10/안정성50",
+            "registerer": "간지용"
         },
         {
             "food": "망고스무디",
             "recipe": "망고1 우유1 얼음2",
-            "buff": "채광치명10, 채속10, 채숙10"
-        },
-        {
-            "food": "망고젤리",
-            "recipe": "망고1 밀가루1 우유1 얼음1",
-            "buff": "마치명10, 마속10, 채숙10"
-        },
-        {
-            "food": "사과잼",
-            "recipe": "사과4",
-            "buff": "벌속10, 채속10, 마속10"
-        },
-        {
-            "food": "오렌지사탕",
-            "recipe": "오렌지2 설탕2",
-            "buff": "이속10, 기력소모 감소10 안정성50"
-        },
-        {
-            "food": "코코넛 망고 찹쌀밥",
-            "recipe": "망고1 야자1 쌀2",
-            "buff": "치명5 감피10 장속10"
-        },
-        {
-            "food": "코코넛 망고젤리",
-            "recipe": "망고1 야자1 우유1 설탕1",
-            "buff": "치명5, 인피10, 치면10"
-        },
-        {
-            "food": "오렌지쿠키",
-            "recipe": "오렌지2 밀가루1 설탕1",
-            "buff": "기력상한10, 벌목치명10, 벌속10"
-        },
-        {
-            "food": "사과튀김",
-            "recipe": "사과2 밀가루1 식용유1",
-            "buff": "채광치명10, 채속10, 최대호흡5"
-        },
-        {
-            "food": "사과 프라이",
-            "recipe": "사과2 식용유1 양념1",
-            "buff": "마치명10, 마속10"
-        },
-        {
-            "food": "모듬 과일",
-            "recipe": "사과2 오렌지2",
-            "buff": "치명5, 감피10, 공속5, 기력증가5"
-        },
-        {
-            "food": "망고 꿀주스",
-            "recipe": "망고1 얼음1 꿀2",
-            "buff": "이속10, 안정성50"
-        },
-        {
-            "food": "장미꽃 사과파이",
-            "recipe": "사과2 밀가루1 달걀1",
-            "buff": "치명5, 감피10, 탄약휴대10, 안정성25"
-        },
-        {
-            "food": "오렌지잼",
-            "recipe": "오렌지4",
-            "buff": "인피10 사정거리10"
-        },
-        {
-            "food": "오렌지주스",
-            "recipe": "오렌지3 얼음1",
-            "buff": "기력상한 10, 벌목치명10, 벌속10"
-        },
-        {
-            "food": "오렌지 쉬폰 케이크",
-            "recipe": "오렌지1 밀가루1 달걀1 설탕1",
-            "buff": "기력상한10, 마치명10, 마속10"
-        },
-        {
-            "food": "사과파이",
-            "recipe": "사과1 밀가루1 달걀1 설탕1",
-            "buff": "헤피증10, 사정거리10"
-        },
-        {
-            "food": "바싹 튀긴 사과조각",
-            "recipe": "사과3 레몬1",
-            "buff": "이속10, 채광치명10"
-        },
-        {
-            "food": "모듬 과일",
-            "recipe": "사과2 오렌지2",
-            "buff": "치명5, 감피10, 공속5, 기력증가5"
+            "buff": "채광치명10, 채속10, 채숙10",
+            "registerer": "간지용"
         },
         {
             "food": "망고잼",
             "recipe": "망고4",
-            "buff": "헤피증10"
+            "buff": "헤피증10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "망고젤리",
+            "recipe": "망고1 밀가루1 우유1 얼음1",
+            "buff": "마치명10, 마속10, 채숙10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "망고케이크",
+            "recipe": "망고1 우유1 밀가루1 설탕1",
+            "buff": "벌목치명10, 벌속10, 채숙10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "망고타르트",
+            "recipe": "망고1 밀가루1 달걀1 설탕1",
+            "buff": "치명5, 동피증10, 전숙5",
+            "registerer": "간지용"
+        },
+        {
+            "food": "모듬 과일",
+            "recipe": "사과2/오렌지2",
+            "buff": "치명5/감피10/공속5/기력증가5",
+            "registerer": "간지용"
+        },
+        {
+            "food": "바싹 튀긴 사과조각",
+            "recipe": "사과3/레몬1",
+            "buff": "이속10/채광치명10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과 프라이",
+            "recipe": "사과2/식용유1/양념1",
+            "buff": "마치명10/마속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과잼",
+            "recipe": "사과4",
+            "buff": "벌속10, 채속10, 마속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과튀김",
+            "recipe": "사과2/밀가루1/식용유1",
+            "buff": "채광치명10/채속10/최대호흡5",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과파이",
+            "recipe": "사과1/밀가루1/달걀1/설탕1",
+            "buff": "헤피증10/사정거리10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "쇠고기 사과 샌드위치",
+            "recipe": "사과1 밀가루1 고기2",
+            "buff": "인피증10, 헤피증10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "쉘터전용음식",
+            "recipe": "쉘터전용자원1 아무거나3",
+            "buff": "치명5, 감인동피증10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지 달걀찜",
+            "recipe": "오렌지1 달걀3",
+            "buff": "감피증10, 헤피증10, 발속5, 안정성25",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지 쉬폰 케이크",
+            "recipe": "오렌지1/밀가루1/달걀1/설탕1",
+            "buff": "기력상한10/마치명10/마속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지사탕",
+            "recipe": "오렌지2/설탕2",
+            "buff": "이속10/기력소모/감소10/안정성50",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지잼",
+            "recipe": "오렌지4",
+            "buff": "인피10/사정거리10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지주스",
+            "recipe": "오렌지3/얼음1",
+            "buff": "기력상한/10/벌목치명10/벌속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지쿠키",
+            "recipe": "오렌지2/밀가루1/설탕1",
+            "buff": "기력상한10/벌목치명10/벌속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "장미꽃 사과파이",
+            "recipe": "사과2/밀가루1/달걀1",
+            "buff": "치명5/감피10/탄약휴대10/안정성25",
+            "registerer": "간지용"
+        },
+        {
+            "food": "코코넛 망고 찹쌀밥",
+            "recipe": "망고1/야자1/쌀2",
+            "buff": "치명5/감피10/장속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "코코넛 망고젤리",
+            "recipe": "망고1/야자1/우유1/설탕1",
+            "buff": "치명5/인피10/치면10",
+            "registerer": "간지용"
         },
         {
             "food": "호박 양고기 볶음밥",
-            "recipe": "호박2, 쌀2",
-            "buff": "벌목치명15, 늪지저항 10"
+            "recipe": "호박2/쌀2",
+            "buff": "벌목치명15/늪지저항/10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "간장뱀장어조림",
+            "recipe": "뱀장어/3개(꿀,복어,등심등)",
+            "buff": "버프:메인채광치명10/2차채광치명10/채광속10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "나시르막",
+            "recipe": "1야자/1알/1쌀/1양념",
+            "buff": "감피10/발속5/전숙10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "말쥐치구이",
+            "recipe": "말쥐치/3개(꿀,복어등)",
+            "buff": "메인채집치명5/2차채집치명10/채집속5",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "벌꿀사탕",
+            "recipe": "꿀4",
+            "buff": "생명대량회복(57정도)/포만감회복(4.8정도)",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "베이컨감자밥",
+            "recipe": "1고기/1쌀/1파생강마늘/1감자",
+            "buff": "치명5/감피10/전숙10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "비단잉어회",
+            "recipe": "비단잉어/3개(꿀,복어,등심등)",
+            "buff": "치명10/이속5/메인자원벌목/채광/채집치명10/2차자원벌목/채광/채집10/인피/동피/건피10/지속1800초",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "빙극어부침개",
+            "recipe": "빙극어/3개(꿀,복어,등심등)",
+            "buff": "이속5/메인벌목10/2차벌목10/벌속10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "사랑의도시락",
+            "recipe": "사랑의벼/아무거나3개",
+            "buff": "생명지속회복/치명10/감피10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "아주개운한새우탕",
+            "recipe": "어류2/보리새우/민물게",
+            "buff": "벌목/채광/채집속10증가",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "오이말이",
+            "recipe": "오이/고추/양념/파생강마늘",
+            "buff": "인피8/발속8",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "파인애플밥",
+            "recipe": "1채소/2쌀/1파인애플",
+            "buff": "메인채광10/2차채광10/채속10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "파인애플케이크",
+            "recipe": "1달걀/1설탕/2파인애플",
+            "buff": "생명지속회복1.5/인피10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "파인애플탕수육",
+            "recipe": "2고기/1설탕/1파인애플",
+            "buff": "이속5/최대호흡10/헤피5/안정성50",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "흰쌀밥",
+            "recipe": "쌀4",
+            "buff": "초당포만감회복14.4(지속5초)/최대생명증가150(지속900초)",
+            "registerer": "빛나는혜빈"
+        }
+    ],
+    "treasure": [
+        {
+            "item": "생명시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "7",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "5",
+            "shop": "attack"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "4",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "공격시약",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "정밀수정",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "채집수정",
+            "count": "2",
+            "shop": "attack"
+        },
+        {
+            "item": "채집수정",
+            "count": "3",
+            "shop": "attack"
+        },
+        {
+            "item": "채집수정",
+            "count": "1",
+            "shop": "attack"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생존수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "속도수정",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "5",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "6",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "생명시약",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "1",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "4",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "2",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "5",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "3",
+            "shop": "armor"
+        },
+        {
+            "item": "보호시약",
+            "count": "5",
+            "shop": "armor"
         }
     ],
     "quiz": [
@@ -1513,338 +2102,6 @@
         },
         {
             "quiz": "구문룡"
-        }
-    ],
-    "treasure": [
-        {
-            "item": "생명시약",
-            "count": "1",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "1",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "7",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "5",
-            "shop": "attack"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "4",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "4",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "1",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "4",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "공격시약",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "정밀수정",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "정밀수정",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "정밀수정",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "정밀수정",
-            "count": "1",
-            "shop": "attack"
-        },
-        {
-            "item": "채집수정",
-            "count": "2",
-            "shop": "attack"
-        },
-        {
-            "item": "채집수정",
-            "count": "3",
-            "shop": "attack"
-        },
-        {
-            "item": "채집수정",
-            "count": "1",
-            "shop": "attack"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생존수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "속도수정",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "5",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "6",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "3",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "4",
-            "shop": "armor"
-        },
-        {
-            "item": "생명시약",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "1",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "3",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "4",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "2",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "5",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "3",
-            "shop": "armor"
-        },
-        {
-            "item": "보호시약",
-            "count": "5",
-            "shop": "armor"
         }
     ]
 }
