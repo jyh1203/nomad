@@ -1207,6 +1207,13 @@
             "grade": "고급",
             "where": "거래의 도시",
             "registerer": "유설민"
-        }
+        }, {
+            "name": "간지용",
+            "type": "사람, 외국인 같은 한국인",
+            "exclusive": "YHE 누구나, 괴도해일",
+            "grade": "사랑(찐분홍)",
+            "where": "YHE에 하루종일 서식",
+            "registerer": "햄토리"
+        }        
     ]
 }
