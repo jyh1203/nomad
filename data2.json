@@ -58,7 +58,7 @@
         {
             "Id": "새봄",
             "Lv": "20",
-            "Job": "저격수",
+            "Job": "벌목공",
             "Address": "센터 정원9",
             "Attendance": "10",
             "Contribution": "2208777",
@@ -1127,6 +1127,472 @@
             "food2": "마파두부",
             "food3": "화이트초코",
             "food4": "오렌지달걀찜"
+        }
+    ],
+    "milege": [
+        {
+            "Arrival": "평양",
+            "Mileage": "128"
+        },
+        {
+            "Arrival": "웨이하이",
+            "Mileage": "249"
+        },
+        {
+            "Arrival": "다롄",
+            "Mileage": "293"
+        },
+        {
+            "Arrival": "선양",
+            "Mileage": "338"
+        },
+        {
+            "Arrival": "후쿠오카",
+            "Mileage": "347"
+        },
+        {
+            "Arrival": "칭다오",
+            "Mileage": "363"
+        },
+        {
+            "Arrival": "옌지",
+            "Mileage": "386"
+        },
+        {
+            "Arrival": "오이타",
+            "Mileage": "401"
+        },
+        {
+            "Arrival": "오카야마",
+            "Mileage": "457"
+        },
+        {
+            "Arrival": "가고시마",
+            "Mileage": "459"
+        },
+        {
+            "Arrival": "블라디보스토크",
+            "Mileage": "476"
+        },
+        {
+            "Arrival": "무단장",
+            "Mileage": "512"
+        },
+        {
+            "Arrival": "톈진",
+            "Mileage": "515"
+        },
+        {
+            "Arrival": "오사카",
+            "Mileage": "525"
+        },
+        {
+            "Arrival": "상하이",
+            "Mileage": "525"
+        },
+        {
+            "Arrival": "지난",
+            "Mileage": "539"
+        },
+        {
+            "Arrival": "고마쓰",
+            "Mileage": "547"
+        },
+        {
+            "Arrival": "베이징",
+            "Mileage": "568"
+        },
+        {
+            "Arrival": "나고야",
+            "Mileage": "598"
+        },
+        {
+            "Arrival": "항저우",
+            "Mileage": "617"
+        },
+        {
+            "Arrival": "허페이",
+            "Mileage": "667"
+        },
+        {
+            "Arrival": "니가타",
+            "Mileage": "684"
+        },
+        {
+            "Arrival": "황산",
+            "Mileage": "721"
+        },
+        {
+            "Arrival": "정저우",
+            "Mileage": "744"
+        },
+        {
+            "Arrival": "도쿄",
+            "Mileage": "758"
+        },
+        {
+            "Arrival": "오키나와",
+            "Mileage": "785"
+        },
+        {
+            "Arrival": "아오모리",
+            "Mileage": "791"
+        },
+        {
+            "Arrival": "우한",
+            "Mileage": "855"
+        },
+        {
+            "Arrival": "삿포로",
+            "Mileage": "870"
+        },
+        {
+            "Arrival": "타이베이",
+            "Mileage": "914"
+        },
+        {
+            "Arrival": "아사히카와",
+            "Mileage": "931"
+        },
+        {
+            "Arrival": "창사",
+            "Mileage": "1019"
+        },
+        {
+            "Arrival": "시안",
+            "Mileage": "1020"
+        },
+        {
+            "Arrival": "샤먼",
+            "Mileage": "1032"
+        },
+        {
+            "Arrival": "장자제",
+            "Mileage": "1098"
+        },
+        {
+            "Arrival": "울란바토르",
+            "Mileage": "1230"
+        },
+        {
+            "Arrival": "광저우",
+            "Mileage": "1269"
+        },
+        {
+            "Arrival": "선전",
+            "Mileage": "1281"
+        },
+        {
+            "Arrival": "홍콩",
+            "Mileage": "1295"
+        },
+        {
+            "Arrival": "구이양",
+            "Mileage": "1396"
+        },
+        {
+            "Arrival": "이르쿠츠크",
+            "Mileage": "1484"
+        },
+        {
+            "Arrival": "난닝",
+            "Mileage": "1487"
+        },
+        {
+            "Arrival": "클락",
+            "Mileage": "1587"
+        },
+        {
+            "Arrival": "마닐라",
+            "Mileage": "1627"
+        },
+        {
+            "Arrival": "쿤밍",
+            "Mileage": "1648"
+        },
+        {
+            "Arrival": "하노이",
+            "Mileage": "1684"
+        },
+        {
+            "Arrival": "다낭",
+            "Mileage": "1861"
+        },
+        {
+            "Arrival": "세부",
+            "Mileage": "1887"
+        },
+        {
+            "Arrival": "괌",
+            "Mileage": "2003"
+        },
+        {
+            "Arrival": "나트랑",
+            "Mileage": "2053"
+        },
+        {
+            "Arrival": "우루무치",
+            "Mileage": "2097"
+        },
+        {
+            "Arrival": "치앙마이",
+            "Mileage": "2109"
+        },
+        {
+            "Arrival": "팔라우",
+            "Mileage": "2141"
+        },
+        {
+            "Arrival": "호찌민",
+            "Mileage": "2223"
+        },
+        {
+            "Arrival": "프놈펜",
+            "Mileage": "2244"
+        },
+        {
+            "Arrival": "방콕",
+            "Mileage": "2286"
+        },
+        {
+            "Arrival": "양곤",
+            "Mileage": "2335"
+        },
+        {
+            "Arrival": "카트만두",
+            "Mileage": "2474"
+        },
+        {
+            "Arrival": "푸껫",
+            "Mileage": "2693"
+        },
+        {
+            "Arrival": "쿠알라룸푸르",
+            "Mileage": "2867"
+        },
+        {
+            "Arrival": "싱가포르",
+            "Mileage": "2883"
+        },
+        {
+            "Arrival": "델리",
+            "Mileage": "2900"
+        },
+        {
+            "Arrival": "타슈켄트",
+            "Mileage": "3013"
+        },
+        {
+            "Arrival": "자카르타",
+            "Mileage": "3281"
+        },
+        {
+            "Arrival": "발리",
+            "Mileage": "3282"
+        },
+        {
+            "Arrival": "뭄바이",
+            "Mileage": "3457"
+        },
+        {
+            "Arrival": "콜롬보",
+            "Mileage": "3594"
+        },
+        {
+            "Arrival": "말레",
+            "Mileage": "4056"
+        },
+        {
+            "Arrival": "모스크바",
+            "Mileage": "4096"
+        },
+        {
+            "Arrival": "두바이",
+            "Mileage": "4203"
+        },
+        {
+            "Arrival": "상트페테르부르크",
+            "Mileage": "4492"
+        },
+        {
+            "Arrival": "키예프",
+            "Mileage": "4507"
+        },
+        {
+            "Arrival": "호놀룰루",
+            "Mileage": "4560"
+        },
+        {
+            "Arrival": "바르샤바",
+            "Mileage": "4802"
+        },
+        {
+            "Arrival": "브리즈번",
+            "Mileage": "4804"
+        },
+        {
+            "Arrival": "텔아비브",
+            "Mileage": "5003"
+        },
+        {
+            "Arrival": "난디",
+            "Mileage": "5048"
+        },
+        {
+            "Arrival": "부다페스트",
+            "Mileage": "5058"
+        },
+        {
+            "Arrival": "밴쿠버",
+            "Mileage": "5088"
+        },
+        {
+            "Arrival": "비엔나",
+            "Mileage": "5131"
+        },
+        {
+            "Arrival": "프라하",
+            "Mileage": "5134"
+        },
+        {
+            "Arrival": "시드니",
+            "Mileage": "5184"
+        },
+        {
+            "Arrival": "이스탄불",
+            "Mileage": "5185"
+        },
+        {
+            "Arrival": "시애틀",
+            "Mileage": "5196"
+        },
+        {
+            "Arrival": "카이로",
+            "Mileage": "5240"
+        },
+        {
+            "Arrival": "자그레브",
+            "Mileage": "5260"
+        },
+        {
+            "Arrival": "프랑크푸르트",
+            "Mileage": "5360"
+        },
+        {
+            "Arrival": "브뤼셀",
+            "Mileage": "5394"
+        },
+        {
+            "Arrival": "암스테르담",
+            "Mileage": "5439"
+        },
+        {
+            "Arrival": "취리히",
+            "Mileage": "5456"
+        },
+        {
+            "Arrival": "밀라노",
+            "Mileage": "5509"
+        },
+        {
+            "Arrival": "로마",
+            "Mileage": "5579"
+        },
+        {
+            "Arrival": "파리",
+            "Mileage": "5626"
+        },
+        {
+            "Arrival": "샌프란시스코",
+            "Mileage": "5636"
+        },
+        {
+            "Arrival": "런던",
+            "Mileage": "5652"
+        },
+        {
+            "Arrival": "아디스아바바",
+            "Mileage": "5714"
+        },
+        {
+            "Arrival": "로스앤젤레스",
+            "Mileage": "5973"
+        },
+        {
+            "Arrival": "바르셀로나",
+            "Mileage": "5974"
+        },
+        {
+            "Arrival": "오클랜드",
+            "Mileage": "5998"
+        },
+        {
+            "Arrival": "라스베이거스",
+            "Mileage": "6009"
+        },
+        {
+            "Arrival": "이비자",
+            "Mileage": "6114"
+        },
+        {
+            "Arrival": "마드리드",
+            "Mileage": "6227"
+        },
+        {
+            "Arrival": "나이로비",
+            "Mileage": "6248"
+        },
+        {
+            "Arrival": "리스본",
+            "Mileage": "6462"
+        },
+        {
+            "Arrival": "시카고",
+            "Mileage": "6538"
+        },
+        {
+            "Arrival": "토론토",
+            "Mileage": "6602"
+        },
+        {
+            "Arrival": "댈러스",
+            "Mileage": "6824"
+        },
+        {
+            "Arrival": "뉴욕",
+            "Mileage": "6879"
+        },
+        {
+            "Arrival": "워싱턴D.C.",
+            "Mileage": "6944"
+        },
+        {
+            "Arrival": "보스턴",
+            "Mileage": "7047"
+        },
+        {
+            "Arrival": "애틀랜타",
+            "Mileage": "7132"
+        },
+        {
+            "Arrival": "멕시코시티",
+            "Mileage": "7517"
+        },
+        {
+            "Arrival": "리마",
+            "Mileage": "10155"
+        },
+        {
+            "Arrival": "리우데자네이루",
+            "Mileage": "11255"
+        },
+        {
+            "Arrival": "산티아고",
+            "Mileage": "11428"
+        },
+        {
+            "Arrival": "부에노스아이레스",
+            "Mileage": "12105"
         }
     ],
     "recipe": [
