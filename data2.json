@@ -421,7 +421,7 @@
         {
             "Id": "후드티라구",
             "Lv": "12",
-            "Job": "나무꾼",
+            "Job": "벌목공",
             "Address": "꽃말 언덕6",
             "Attendance": "0",
             "Contribution": "8554",
@@ -1175,476 +1175,828 @@
     ],
     "milege": [
         {
+            "region": "아시아",
             "Arrival": "평양",
-            "Mileage": "128"
+            "Mileage": "128",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "웨이하이",
-            "Mileage": "249"
+            "Mileage": "249",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "다롄",
-            "Mileage": "293"
+            "Mileage": "293",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "선양",
-            "Mileage": "338"
+            "Mileage": "338",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "후쿠오카",
-            "Mileage": "347"
+            "Mileage": "347",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "칭다오",
-            "Mileage": "363"
+            "Mileage": "363",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "옌지",
-            "Mileage": "386"
+            "Mileage": "386",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "오이타",
-            "Mileage": "401"
+            "Mileage": "401",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "오카야마",
-            "Mileage": "457"
+            "Mileage": "457",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "가고시마",
-            "Mileage": "459"
+            "Mileage": "459",
+            "cost": "1200"
         },
         {
+            "region": "유럽",
             "Arrival": "블라디보스토크",
-            "Mileage": "476"
+            "Mileage": "476",
+            "cost": "4800"
         },
         {
+            "region": "아시아",
             "Arrival": "무단장",
-            "Mileage": "512"
+            "Mileage": "512",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "톈진",
-            "Mileage": "515"
+            "Mileage": "515",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "오사카",
-            "Mileage": "525"
+            "Mileage": "525",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "상하이",
-            "Mileage": "525"
+            "Mileage": "525",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "지난",
-            "Mileage": "539"
+            "Mileage": "539",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "고마쓰",
-            "Mileage": "547"
+            "Mileage": "547",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "베이징",
-            "Mileage": "568"
+            "Mileage": "568",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "나고야",
-            "Mileage": "598"
+            "Mileage": "598",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "항저우",
-            "Mileage": "617"
+            "Mileage": "617",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "허페이",
-            "Mileage": "667"
+            "Mileage": "667",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "니가타",
-            "Mileage": "684"
+            "Mileage": "684",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "황산",
-            "Mileage": "721"
+            "Mileage": "721",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "정저우",
-            "Mileage": "744"
+            "Mileage": "744",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "도쿄",
-            "Mileage": "758"
+            "Mileage": "758",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "오키나와",
-            "Mileage": "785"
+            "Mileage": "785",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "아오모리",
-            "Mileage": "791"
+            "Mileage": "791",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "우한",
-            "Mileage": "855"
+            "Mileage": "855",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "삿포로",
-            "Mileage": "870"
+            "Mileage": "870",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "타이베이",
-            "Mileage": "914"
+            "Mileage": "914",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "아사히카와",
-            "Mileage": "931"
+            "Mileage": "931",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "창사",
-            "Mileage": "1019"
+            "Mileage": "1019",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "시안",
-            "Mileage": "1020"
+            "Mileage": "1020",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "샤먼",
-            "Mileage": "1032"
+            "Mileage": "1032",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "장자제",
-            "Mileage": "1098"
+            "Mileage": "1098",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "울란바토르",
-            "Mileage": "1230"
+            "Mileage": "1230",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "광저우",
-            "Mileage": "1269"
+            "Mileage": "1269",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "선전",
-            "Mileage": "1281"
+            "Mileage": "1281",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "홍콩",
-            "Mileage": "1295"
+            "Mileage": "1295",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "구이양",
-            "Mileage": "1396"
+            "Mileage": "1396",
+            "cost": "1200"
         },
         {
+            "region": "유럽",
             "Arrival": "이르쿠츠크",
-            "Mileage": "1484"
+            "Mileage": "1484",
+            "cost": "4800"
         },
         {
+            "region": "아시아",
             "Arrival": "난닝",
-            "Mileage": "1487"
+            "Mileage": "1487",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "클락",
-            "Mileage": "1587"
+            "Mileage": "1587",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "마닐라",
-            "Mileage": "1627"
+            "Mileage": "1627",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "쿤밍",
-            "Mileage": "1648"
+            "Mileage": "1648",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "하노이",
-            "Mileage": "1684"
+            "Mileage": "1684",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "다낭",
-            "Mileage": "1861"
+            "Mileage": "1861",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "세부",
-            "Mileage": "1887"
+            "Mileage": "1887",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "괌",
-            "Mileage": "2003"
+            "Mileage": "2003",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "나트랑",
-            "Mileage": "2053"
+            "Mileage": "2053",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "우루무치",
-            "Mileage": "2097"
+            "Mileage": "2097",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "치앙마이",
-            "Mileage": "2109"
+            "Mileage": "2109",
+            "cost": "1200"
         },
         {
+            "region": "오세아니아",
             "Arrival": "팔라우",
-            "Mileage": "2141"
+            "Mileage": "2141",
+            "cost": "4000"
         },
         {
+            "region": "아시아",
             "Arrival": "호찌민",
-            "Mileage": "2223"
+            "Mileage": "2223",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "프놈펜",
-            "Mileage": "2244"
+            "Mileage": "2244",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "방콕",
-            "Mileage": "2286"
+            "Mileage": "2286",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "양곤",
-            "Mileage": "2335"
+            "Mileage": "2335",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "카트만두",
-            "Mileage": "2474"
+            "Mileage": "2474",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "푸껫",
-            "Mileage": "2693"
+            "Mileage": "2693",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "쿠알라룸푸르",
-            "Mileage": "2867"
+            "Mileage": "2867",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "싱가포르",
-            "Mileage": "2883"
+            "Mileage": "2883",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "델리",
-            "Mileage": "2900"
+            "Mileage": "2900",
+            "cost": "1200"
         },
         {
+            "region": "유럽",
             "Arrival": "타슈켄트",
-            "Mileage": "3013"
+            "Mileage": "3013",
+            "cost": "4800"
         },
         {
+            "region": "아시아",
             "Arrival": "자카르타",
-            "Mileage": "3281"
+            "Mileage": "3281",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "발리",
-            "Mileage": "3282"
+            "Mileage": "3282",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "뭄바이",
-            "Mileage": "3457"
+            "Mileage": "3457",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "콜롬보",
-            "Mileage": "3594"
+            "Mileage": "3594",
+            "cost": "1200"
         },
         {
+            "region": "아시아",
             "Arrival": "말레",
-            "Mileage": "4056"
+            "Mileage": "4056",
+            "cost": "1200"
         },
         {
+            "region": "유럽",
             "Arrival": "모스크바",
-            "Mileage": "4096"
+            "Mileage": "4096",
+            "cost": "4800"
         },
         {
+            "region": "중동",
             "Arrival": "두바이",
-            "Mileage": "4203"
+            "Mileage": "4203",
+            "cost": "4500"
         },
         {
+            "region": "유럽",
             "Arrival": "상트페테르부르크",
-            "Mileage": "4492"
+            "Mileage": "4492",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "키예프",
-            "Mileage": "4507"
+            "Mileage": "4507",
+            "cost": "4800"
         },
         {
+            "region": "미주",
             "Arrival": "호놀룰루",
-            "Mileage": "4560"
+            "Mileage": "4560",
+            "cost": "6000"
         },
         {
+            "region": "유럽",
             "Arrival": "바르샤바",
-            "Mileage": "4802"
+            "Mileage": "4802",
+            "cost": "4800"
         },
         {
+            "region": "오세아니아",
             "Arrival": "브리즈번",
-            "Mileage": "4804"
+            "Mileage": "4804",
+            "cost": "4000"
         },
         {
+            "region": "중동",
             "Arrival": "텔아비브",
-            "Mileage": "5003"
+            "Mileage": "5003",
+            "cost": "4500"
         },
         {
+            "region": "오세아니아",
             "Arrival": "난디",
-            "Mileage": "5048"
+            "Mileage": "5048",
+            "cost": "4000"
         },
         {
+            "region": "유럽",
             "Arrival": "부다페스트",
-            "Mileage": "5058"
+            "Mileage": "5058",
+            "cost": "4800"
         },
         {
+            "region": "오세아니아",
             "Arrival": "밴쿠버",
-            "Mileage": "5088"
+            "Mileage": "5088",
+            "cost": "4000"
         },
         {
+            "region": "유럽",
             "Arrival": "비엔나",
-            "Mileage": "5131"
+            "Mileage": "5131",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "프라하",
-            "Mileage": "5134"
+            "Mileage": "5134",
+            "cost": "4800"
         },
         {
+            "region": "오세아니아",
             "Arrival": "시드니",
-            "Mileage": "5184"
+            "Mileage": "5184",
+            "cost": "4000"
         },
         {
+            "region": "유럽",
             "Arrival": "이스탄불",
-            "Mileage": "5185"
+            "Mileage": "5185",
+            "cost": "4800"
         },
         {
+            "region": "미주",
             "Arrival": "시애틀",
-            "Mileage": "5196"
+            "Mileage": "5196",
+            "cost": "6000"
         },
         {
+            "region": "아프리카",
             "Arrival": "카이로",
-            "Mileage": "5240"
+            "Mileage": "5240",
+            "cost": "5500"
         },
         {
+            "region": "유럽",
             "Arrival": "자그레브",
-            "Mileage": "5260"
+            "Mileage": "5260",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "프랑크푸르트",
-            "Mileage": "5360"
+            "Mileage": "5360",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "브뤼셀",
-            "Mileage": "5394"
+            "Mileage": "5394",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "암스테르담",
-            "Mileage": "5439"
+            "Mileage": "5439",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "취리히",
-            "Mileage": "5456"
+            "Mileage": "5456",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "밀라노",
-            "Mileage": "5509"
+            "Mileage": "5509",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "로마",
-            "Mileage": "5579"
+            "Mileage": "5579",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "파리",
-            "Mileage": "5626"
+            "Mileage": "5626",
+            "cost": "4800"
         },
         {
+            "region": "미주",
             "Arrival": "샌프란시스코",
-            "Mileage": "5636"
+            "Mileage": "5636",
+            "cost": "6000"
         },
         {
+            "region": "유럽",
             "Arrival": "런던",
-            "Mileage": "5652"
+            "Mileage": "5652",
+            "cost": "4800"
         },
         {
+            "region": "아프리카",
             "Arrival": "아디스아바바",
-            "Mileage": "5714"
+            "Mileage": "5714",
+            "cost": "5500"
         },
         {
+            "region": "미주",
             "Arrival": "로스앤젤레스",
-            "Mileage": "5973"
+            "Mileage": "5973",
+            "cost": "6000"
         },
         {
+            "region": "유럽",
             "Arrival": "바르셀로나",
-            "Mileage": "5974"
+            "Mileage": "5974",
+            "cost": "4800"
         },
         {
+            "region": "오세아니아",
             "Arrival": "오클랜드",
-            "Mileage": "5998"
+            "Mileage": "5998",
+            "cost": "4000"
         },
         {
+            "region": "미주",
             "Arrival": "라스베이거스",
-            "Mileage": "6009"
+            "Mileage": "6009",
+            "cost": "6000"
         },
         {
+            "region": "유럽",
             "Arrival": "이비자",
-            "Mileage": "6114"
+            "Mileage": "6114",
+            "cost": "4800"
         },
         {
+            "region": "유럽",
             "Arrival": "마드리드",
-            "Mileage": "6227"
+            "Mileage": "6227",
+            "cost": "4800"
         },
         {
+            "region": "아프리카",
             "Arrival": "나이로비",
-            "Mileage": "6248"
+            "Mileage": "6248",
+            "cost": "5500"
         },
         {
+            "region": "유럽",
             "Arrival": "리스본",
-            "Mileage": "6462"
+            "Mileage": "6462",
+            "cost": "4800"
         },
         {
+            "region": "미주",
             "Arrival": "시카고",
-            "Mileage": "6538"
+            "Mileage": "6538",
+            "cost": "6000"
         },
         {
+            "region": "미주",
             "Arrival": "토론토",
-            "Mileage": "6602"
+            "Mileage": "6602",
+            "cost": "6000"
         },
         {
+            "region": "미주",
             "Arrival": "댈러스",
-            "Mileage": "6824"
+            "Mileage": "6824",
+            "cost": "6000"
         },
         {
+            "region": "미주",
             "Arrival": "뉴욕",
-            "Mileage": "6879"
+            "Mileage": "6879",
+            "cost": "6000"
         },
         {
+            "region": "미주",
             "Arrival": "워싱턴D.C.",
-            "Mileage": "6944"
+            "Mileage": "6944",
+            "cost": "6000"
         },
         {
+            "region": "미주",
             "Arrival": "보스턴",
-            "Mileage": "7047"
+            "Mileage": "7047",
+            "cost": "6000"
         },
         {
+            "region": "미주",
             "Arrival": "애틀랜타",
-            "Mileage": "7132"
+            "Mileage": "7132",
+            "cost": "6000"
         },
         {
+            "region": "중남미",
             "Arrival": "멕시코시티",
-            "Mileage": "7517"
+            "Mileage": "7517",
+            "cost": "10000"
         },
         {
+            "region": "중남미",
             "Arrival": "리마",
-            "Mileage": "10155"
+            "Mileage": "10155",
+            "cost": "10000"
         },
         {
+            "region": "중남미",
             "Arrival": "리우데자네이루",
-            "Mileage": "11255"
+            "Mileage": "11255",
+            "cost": "10000"
         },
         {
+            "region": "중남미",
             "Arrival": "산티아고",
-            "Mileage": "11428"
+            "Mileage": "11428",
+            "cost": "10000"
         },
         {
+            "region": "중남미",
             "Arrival": "부에노스아이레스",
-            "Mileage": "12105"
+            "Mileage": "12105",
+            "cost": "10000"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "카사블랑카",
+            "Mileage": "6721",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "튀니스",
+            "Mileage": "5886",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "요하네스버그",
+            "Mileage": "7717",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "트리폴리",
+            "Mileage": "5966",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "모리셔스",
+            "Mileage": "4550",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "다카",
+            "Mileage": "5137",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "마헤",
+            "Mileage": "5361",
+            "cost": "5500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "아순시온",
+            "Mileage": "11562",
+            "cost": "10000"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "상파울루",
+            "Mileage": "11382",
+            "cost": "10000"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "생스터",
+            "Mileage": "8259",
+            "cost": "10000"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "보고타",
+            "Mileage": "9238",
+            "cost": "10000"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "아바나",
+            "Mileage": "7858",
+            "cost": "10000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "퍼스",
+            "Mileage": "4842",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "포트모르즈비",
+            "Mileage": "3508",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "팔라우",
+            "Mileage": "2140",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "팔라우",
+            "Mileage": "2140",
+            "cost": "4000"
         }
     ],
     "recipe": [
+        {
+            "food": "가오리구이",
+            "recipe": "가오리2, 고추2",
+            "buff": "치명타 5%, 인간,감염,야생 10%",
+            "registerer": "햄토리"
+        },
+        {
+            "food": "간장뱀장어조림",
+            "recipe": "뱀장어/3개(꿀,복어,등심등)",
+            "buff": "버프:메인채광치명10/2차채광치명10/채광속10",
+            "registerer": "빛나는혜빈"
+        },
         {
             "food": "감주찰떡",
             "recipe": "쌀1, 밀가루1, 조미료1, 기타1(과일x)",
             "buff": "메인자원벌목치명타율 8%, 늪지저항8%",
             "registerer": "Lynd"
+        },
+        {
+            "food": "고추 기름 물만두",
+            "recipe": "고기1/밀가루3",
+            "buff": "탄약소모감소4%/탄약휴대량4%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "나시르막",
+            "recipe": "1야자/1알/1쌀/1양념",
+            "buff": "감피10/발속5/전숙10",
+            "registerer": "빛나는혜빈"
         },
         {
             "food": "냉국수",
@@ -1659,64 +2011,22 @@
             "registerer": "Lynd"
         },
         {
+            "food": "달걀 딤섬",
+            "recipe": "고기1/달걀2/조미료1",
+            "buff": "이속3%/기력상한추가6%/공속증가6%",
+            "registerer": "Lynd"
+        },
+        {
             "food": "달걀볶음밥",
             "recipe": "쌀1 달걀1 +기타 2",
             "buff": "생명력 지속회복2,전숙10%",
             "registerer": "Lynd"
         },
         {
-            "food": "바삭바삭한전병과자",
-            "recipe": "쌀2, 양념1, 조미료1",
-            "buff": "생명력지속회복 1.5, 이동속도상승 5%, 늪지저항10%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "시원한과일빙수",
-            "recipe": "쌀1, 과일1, 얼음1, 기타1",
-            "buff": "이동속도상승4%, 채광속도증가8%, 모래폭풍저항 8%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "오므라이스",
-            "recipe": "쌀1, 양념1, 달걀1, 기타1",
-            "buff": "생명력지속회복1.5, 치명타면역률 5%, 발속5%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "우유증편",
-            "recipe": "우유2, 쌀1, 조미료1",
-            "buff": "생명력지속회복 2.0, 메인자원 채광치명타율 10%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "우유치즈미음",
-            "recipe": "쌀2, 우유2",
-            "buff": "메인자원벌목치명타율 15%, 뇌우저항10%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "우유푸딩",
-            "recipe": "밀가루1, 우유1, 얼음1, 기타1(우유, 밀가루, 얼음 중1)",
-            "buff": "메인자원벌목치명타율 8%, 2차자원벌목치명타율 8%, 질주기력소모감소 8%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "찹쌀푸딩",
-            "recipe": "밀가루3, 조미료1",
-            "buff": "메인자원벌목치명타율 8%, 벌목속도증가8%, 뇌우저항8%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "고추 기름 물만두",
-            "recipe": "고기1/밀가루3",
-            "buff": "탄약소모감소4%/탄약휴대량4%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "달걀 딤섬",
-            "recipe": "고기1/달걀2/조미료1",
-            "buff": "이속3%/기력상한추가6%/공속증가6%",
-            "registerer": "Lynd"
+            "food": "대추찰떡",
+            "recipe": "대추2, 밀가루2",
+            "buff": "이동속도 5%, 인간형, 감염, 야생동물 10%",
+            "registerer": "햄토리"
         },
         {
             "food": "돌솥밥",
@@ -1737,34 +2047,22 @@
             "registerer": "Lynd"
         },
         {
-            "food": "삼겹살 두루치기",
-            "recipe": "고기1/파생강마늘1/양념1/기타1(쌀X)",
-            "buff": "생명지속회복0.8/치명타면역4%/헤드샷피해증가4%/질주기력소모감소4%",
-            "registerer": "Lynd"
+            "food": "땅콩찰떡",
+            "recipe": "땅콩2, 밀가루2,",
+            "buff": "메인채광, 2차자원채광 10% 채광속도 5%",
+            "registerer": "햄토리"
         },
         {
-            "food": "생각맛 우유 푸딩",
-            "recipe": "파생강마늘1/우유1/꿀1/기타1(육류X,어류X,달걀X)",
-            "buff": "이속4%/메인벌목치명8%/2차벌목치명8%",
-            "registerer": "Lynd"
+            "food": "레인보우캔디",
+            "recipe": "복귀자이벤트",
+            "buff": "인간형, 감염, 야생 5%, 치면 10%",
+            "registerer": "햄토리"
         },
         {
-            "food": "솥뚜껑 전병",
-            "recipe": "고기1/조미료1/밀가루1/기타1(양념X)",
-            "buff": "헤드샷피해증가2%/질주기력소모감소4%/전숙4%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "치즈 소시지밥",
-            "recipe": "고기1/쌀1/우유1/기타1",
-            "buff": "생명지속회복1.2/채광치명8%/전숙8%",
-            "registerer": "Lynd"
-        },
-        {
-            "food": "파인애플 빵",
-            "recipe": "꿀2/밀가루2",
-            "buff": "기력회복속도10%/채속10%",
-            "registerer": "Lynd"
+            "food": "말쥐치구이",
+            "recipe": "말쥐치/3개(꿀,복어등)",
+            "buff": "메인채집치명5/2차채집치명10/채집속5",
+            "registerer": "빛나는혜빈"
         },
         {
             "food": "망고 꿀주스",
@@ -1809,124 +2107,22 @@
             "registerer": "간지용"
         },
         {
+            "food": "무지개찰떡",
+            "recipe": "팥, 대추, 땅콩,참깨",
+            "buff": "생명지속회복",
+            "registerer": "햄토리"
+        },
+        {
+            "food": "바삭바삭한전병과자",
+            "recipe": "쌀2, 양념1, 조미료1",
+            "buff": "생명력지속회복 1.5, 이동속도상승 5%, 늪지저항10%",
+            "registerer": "Lynd"
+        },
+        {
             "food": "바싹 튀긴 사과조각",
             "recipe": "사과3/레몬1",
             "buff": "이속10/채광치명10",
             "registerer": "간지용"
-        },
-        {
-            "food": "사과 프라이",
-            "recipe": "사과2/식용유1/양념1",
-            "buff": "마치명10/마속10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "사과잼",
-            "recipe": "사과4",
-            "buff": "벌속10, 채속10, 마속10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "사과튀김",
-            "recipe": "사과2/밀가루1/식용유1",
-            "buff": "채광치명10/채속10/최대호흡5",
-            "registerer": "간지용"
-        },
-        {
-            "food": "사과파이",
-            "recipe": "사과1/밀가루1/달걀1/설탕1",
-            "buff": "헤피증10/사정거리10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "쇠고기 사과 샌드위치",
-            "recipe": "사과1 밀가루1 고기2",
-            "buff": "인피증10, 헤피증10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "쉘터전용음식",
-            "recipe": "쉘터전용자원1 아무거나3",
-            "buff": "치명5, 감인동피증10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "오렌지 달걀찜",
-            "recipe": "오렌지1 달걀3",
-            "buff": "감피증10, 헤피증10, 발속5, 안정성25",
-            "registerer": "간지용"
-        },
-        {
-            "food": "오렌지 쉬폰 케이크",
-            "recipe": "오렌지1/밀가루1/달걀1/설탕1",
-            "buff": "기력상한10/마치명10/마속10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "오렌지사탕",
-            "recipe": "오렌지2/설탕2",
-            "buff": "이속10/기력소모/감소10/안정성50",
-            "registerer": "간지용"
-        },
-        {
-            "food": "오렌지잼",
-            "recipe": "오렌지4",
-            "buff": "인피10/사정거리10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "오렌지주스",
-            "recipe": "오렌지3/얼음1",
-            "buff": "기력상한/10/벌목치명10/벌속10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "오렌지쿠키",
-            "recipe": "오렌지2/밀가루1/설탕1",
-            "buff": "기력상한10/벌목치명10/벌속10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "장미꽃 사과파이",
-            "recipe": "사과2/밀가루1/달걀1",
-            "buff": "치명5/감피10/탄약휴대10/안정성25",
-            "registerer": "간지용"
-        },
-        {
-            "food": "코코넛 망고 찹쌀밥",
-            "recipe": "망고1/야자1/쌀2",
-            "buff": "치명5/감피10/장속10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "코코넛 망고젤리",
-            "recipe": "망고1/야자1/우유1/설탕1",
-            "buff": "치명5/인피10/치면10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "호박 양고기 볶음밥",
-            "recipe": "호박2/쌀2",
-            "buff": "벌목치명15/늪지저항/10",
-            "registerer": "간지용"
-        },
-        {
-            "food": "간장뱀장어조림",
-            "recipe": "뱀장어/3개(꿀,복어,등심등)",
-            "buff": "버프:메인채광치명10/2차채광치명10/채광속10",
-            "registerer": "빛나는혜빈"
-        },
-        {
-            "food": "나시르막",
-            "recipe": "1야자/1알/1쌀/1양념",
-            "buff": "감피10/발속5/전숙10",
-            "registerer": "빛나는혜빈"
-        },
-        {
-            "food": "말쥐치구이",
-            "recipe": "말쥐치/3개(꿀,복어등)",
-            "buff": "메인채집치명5/2차채집치명10/채집속5",
-            "registerer": "빛나는혜빈"
         },
         {
             "food": "벌꿀사탕",
@@ -1953,10 +2149,70 @@
             "registerer": "빛나는혜빈"
         },
         {
+            "food": "사과 프라이",
+            "recipe": "사과2/식용유1/양념1",
+            "buff": "마치명10/마속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과잼",
+            "recipe": "사과4",
+            "buff": "벌속10, 채속10, 마속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과튀김",
+            "recipe": "사과2/밀가루1/식용유1",
+            "buff": "채광치명10/채속10/최대호흡5",
+            "registerer": "간지용"
+        },
+        {
+            "food": "사과파이",
+            "recipe": "사과1/밀가루1/달걀1/설탕1",
+            "buff": "헤피증10/사정거리10",
+            "registerer": "간지용"
+        },
+        {
             "food": "사랑의도시락",
             "recipe": "사랑의벼/아무거나3개",
             "buff": "생명지속회복/치명10/감피10",
             "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "삼겹살 두루치기",
+            "recipe": "고기1/파생강마늘1/양념1/기타1(쌀X)",
+            "buff": "생명지속회복0.8/치명타면역4%/헤드샷피해증가4%/질주기력소모감소4%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "생각맛 우유 푸딩",
+            "recipe": "파생강마늘1/우유1/꿀1/기타1(육류X,어류X,달걀X)",
+            "buff": "이속4%/메인벌목치명8%/2차벌목치명8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "솥뚜껑 전병",
+            "recipe": "고기1/조미료1/밀가루1/기타1(양념X)",
+            "buff": "헤드샷피해증가2%/질주기력소모감소4%/전숙4%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "쇠고기 사과 샌드위치",
+            "recipe": "사과1 밀가루1 고기2",
+            "buff": "인피증10, 헤피증10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "쉘터전용음식",
+            "recipe": "쉘터전용자원1 아무거나3",
+            "buff": "치명5, 감인동피증10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "시원한과일빙수",
+            "recipe": "쌀1, 과일1, 얼음1, 기타1",
+            "buff": "이동속도상승4%, 채광속도증가8%, 모래폭풍저항 8%",
+            "registerer": "Lynd"
         },
         {
             "food": "아주개운한새우탕",
@@ -1965,10 +2221,126 @@
             "registerer": "빛나는혜빈"
         },
         {
+            "food": "오렌지 달걀찜",
+            "recipe": "오렌지1 달걀3",
+            "buff": "감피증10, 헤피증10, 발속5, 안정성25",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지 쉬폰 케이크",
+            "recipe": "오렌지1/밀가루1/달걀1/설탕1",
+            "buff": "기력상한10/마치명10/마속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지사탕",
+            "recipe": "오렌지2/설탕2",
+            "buff": "이속10/기력소모/감소10/안정성50",
+            "registerer": "간지용",
+            "undefined": "864"
+        },
+        {
+            "food": "오렌지잼",
+            "recipe": "오렌지4",
+            "buff": "인피10/사정거리10",
+            "registerer": "간지용",
+            "undefined": "45"
+        },
+        {
+            "food": "오렌지주스",
+            "recipe": "오렌지3/얼음1",
+            "buff": "기력상한/10/벌목치명10/벌속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오렌지쿠키",
+            "recipe": "오렌지2/밀가루1/설탕1",
+            "buff": "기력상한10/벌목치명10/벌속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "오므라이스",
+            "recipe": "쌀1, 양념1, 달걀1, 기타1",
+            "buff": "생명력지속회복1.5, 치명타면역률 5%, 발속5%",
+            "registerer": "Lynd"
+        },
+        {
             "food": "오이말이",
             "recipe": "오이/고추/양념/파생강마늘",
             "buff": "인피8/발속8",
             "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "우유증편",
+            "recipe": "우유2, 쌀1, 조미료1",
+            "buff": "생명력지속회복 2.0, 메인자원 채광치명타율 10%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "우유치즈미음",
+            "recipe": "쌀2, 우유2",
+            "buff": "메인자원벌목치명타율 15%, 뇌우저항10%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "우유푸딩",
+            "recipe": "밀가루1, 우유1, 얼음1, 기타1(우유, 밀가루, 얼음 중1)",
+            "buff": "메인자원벌목치명타율 8%, 2차자원벌목치명타율 8%, 질주기력소모감소 8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "유과",
+            "recipe": "이벤트",
+            "buff": "이동속도상승 5%, 감염 15%, 질주기력소모 10%감소",
+            "registerer": "햄토리"
+        },
+        {
+            "food": "장미꽃 사과파이",
+            "recipe": "사과2/밀가루1/달걀1",
+            "buff": "치명5/감피10/탄약휴대10/안정성25",
+            "registerer": "간지용"
+        },
+        {
+            "food": "죽순 고기볶음",
+            "recipe": "죽순1/고기1/고추1/식용유1",
+            "buff": "치명10/감피10/치명면역10",
+            "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "찹쌀푸딩",
+            "recipe": "밀가루3, 조미료1",
+            "buff": "메인자원벌목치명타율 8%, 벌목속도증가8%, 뇌우저항8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "춘권",
+            "recipe": "이벤트",
+            "buff": "공격력 2 방어력1",
+            "registerer": "햄토리"
+        },
+        {
+            "food": "치즈 소시지밥",
+            "recipe": "고기1/쌀1/우유1/기타1",
+            "buff": "생명지속회복1.2/채광치명8%/전숙8%",
+            "registerer": "Lynd"
+        },
+        {
+            "food": "코코넛 망고 찹쌀밥",
+            "recipe": "망고1/야자1/쌀2",
+            "buff": "치명5/감피10/장속10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "코코넛 망고젤리",
+            "recipe": "망고1/야자1/우유1/설탕1",
+            "buff": "치명5/인피10/치면10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "파인애플 빵",
+            "recipe": "꿀2/밀가루2",
+            "buff": "기력회복속도10%/채속10%",
+            "registerer": "Lynd"
         },
         {
             "food": "파인애플밥",
@@ -1987,6 +2359,24 @@
             "recipe": "2고기/1설탕/1파인애플",
             "buff": "이속5/최대호흡10/헤피5/안정성50",
             "registerer": "빛나는혜빈"
+        },
+        {
+            "food": "호박 양고기 볶음밥",
+            "recipe": "호박2/쌀2",
+            "buff": "벌목치명15/늪지저항/10",
+            "registerer": "간지용"
+        },
+        {
+            "food": "화이트초콜릿",
+            "recipe": "이벤트",
+            "buff": "생명력지속회복 0.5, 치면 10%, 안정성 25",
+            "registerer": "햄토리"
+        },
+        {
+            "food": "흰동가리호박파이",
+            "recipe": "흰동가리,밀가루2, 호박",
+            "buff": "메인채광, 2차자원채광 10% 채광속도 10%, 채집숙련도 5%",
+            "registerer": "햄토리"
         },
         {
             "food": "흰쌀밥",
