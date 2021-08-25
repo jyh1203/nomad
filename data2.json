@@ -58,7 +58,7 @@
         {
             "Id": "클로버",
             "Lv": "18",
-            "Job": "저격수",
+            "Job": "바학",
             "Address": "센터 정원4",
             "Attendance": "3",
             "Contribution": "552812",
@@ -222,7 +222,7 @@
         {
             "Id": "도와주십시오",
             "Lv": "15",
-            "Job": "소총수",
+            "Job": "기계공",
             "Address": "꽃말 언덕2",
             "Attendance": "0",
             "Contribution": "55906",
