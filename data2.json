@@ -5,8 +5,8 @@
             "Lv": "20",
             "Job": "벌목공",
             "Address": "센터 정원9",
-            "Attendance": "13",
-            "Contribution": "2390891",
+            "Attendance": "15",
+            "Contribution": "2446291",
             "Rank": "7",
             "Rankname": "화스등급",
             "Grade": "0%"
@@ -16,110 +16,154 @@
             "Lv": "19",
             "Job": "바학",
             "Address": "센터 정원10",
-            "Attendance": "14",
-            "Contribution": "3186162",
+            "Attendance": "16",
+            "Contribution": "3251942",
             "Rank": "4",
             "Rankname": "스철등급",
-            "Grade": "7%"
+            "Grade": "6%"
         },
         {
             "Id": "세리닝",
             "Lv": "19",
             "Job": "마채집가",
-            "Address": "써니 랜드4",
-            "Attendance": "3",
-            "Contribution": "183005",
-            "Rank": "22",
+            "Address": "스톰 포레스트22",
+            "Attendance": "5",
+            "Contribution": "165486",
+            "Rank": "21",
             "Rankname": "크아등급",
-            "Grade": "7%"
+            "Grade": "6%"
         },
         {
             "Id": "Witty",
             "Lv": "19",
             "Job": "바학",
             "Address": "그린 호수23",
-            "Attendance": "2",
-            "Contribution": "244856",
-            "Rank": "19",
+            "Attendance": "3",
+            "Contribution": "312822",
+            "Rank": "17",
             "Rankname": "크아등급",
-            "Grade": "7%"
+            "Grade": "6%"
         },
         {
             "Id": "햄토리",
             "Lv": "18",
             "Job": "바학",
             "Address": "센터 정원12",
-            "Attendance": "2",
-            "Contribution": "1300484",
-            "Rank": "14",
-            "Rankname": "블아등급",
-            "Grade": "18%"
-        },
-        {
-            "Id": "클로버",
-            "Lv": "18",
-            "Job": "바학",
-            "Address": "센터 정원4",
-            "Attendance": "4",
-            "Contribution": "1461575",
-            "Rank": "12",
-            "Rankname": "블아등급",
-            "Grade": "18%"
-        },
-        {
-            "Id": "괴도해일",
-            "Lv": "18",
-            "Job": "바학",
-            "Address": "센터 정원6",
-            "Attendance": "5",
-            "Contribution": "1204088",
-            "Rank": "15",
-            "Rankname": "블아등급",
-            "Grade": "18%"
-        },
-        {
-            "Id": "아자토스",
-            "Lv": "18",
-            "Job": "바학",
-            "Address": "그린 호수11",
-            "Attendance": "18",
-            "Contribution": "3733344",
-            "Rank": "3",
-            "Rankname": "백금등급",
-            "Grade": "18%"
+            "Attendance": "3",
+            "Contribution": "106095",
+            "Rank": "26",
+            "Rankname": "크아등급",
+            "Grade": "21%"
         },
         {
             "Id": "깨꿍이",
             "Lv": "18",
             "Job": "바학",
             "Address": "센터 정원11",
-            "Attendance": "15",
-            "Contribution": "2637265",
+            "Attendance": "16",
+            "Contribution": "2685815",
             "Rank": "6",
             "Rankname": "화스등급",
-            "Grade": "18%"
+            "Grade": "21%"
         },
         {
             "Id": "바바방",
             "Lv": "17",
             "Job": "바학",
             "Address": "센터 정원7",
-            "Attendance": "25",
-            "Contribution": "1644436",
-            "Rank": "10",
+            "Attendance": "27",
+            "Contribution": "1716006",
+            "Rank": "9",
             "Rankname": "화스등급",
-            "Grade": "34%"
+            "Grade": "36%"
+        },
+        {
+            "Id": "괴도해일",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "센터 정원6",
+            "Attendance": "6",
+            "Contribution": "1215518",
+            "Rank": "14",
+            "Rankname": "블아등급",
+            "Grade": "21%"
+        },
+        {
+            "Id": "클로버",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "센터 정원4",
+            "Attendance": "5",
+            "Contribution": "1507988",
+            "Rank": "12",
+            "Rankname": "블아등급",
+            "Grade": "21%"
+        },
+        {
+            "Id": "주연's",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "그린 호수24",
+            "Attendance": "0",
+            "Contribution": "30575",
+            "Rank": "37",
+            "Rankname": "크아등급",
+            "Grade": "21%"
+        },
+        {
+            "Id": "아자토스",
+            "Lv": "18",
+            "Job": "바학",
+            "Address": "그린 호수11",
+            "Attendance": "19",
+            "Contribution": "3899281",
+            "Rank": "3",
+            "Rankname": "백금등급",
+            "Grade": "21%"
+        },
+        {
+            "Id": "빛나는혜빈",
+            "Lv": "18",
+            "Job": "벌목공",
+            "Address": "선샤인 베이7",
+            "Attendance": "22",
+            "Contribution": "6121285",
+            "Rank": "2",
+            "Rankname": "백금등급",
+            "Grade": "21%"
+        },
+        {
+            "Id": "간지용",
+            "Lv": "17",
+            "Job": "마채집가",
+            "Address": "센터 정원5",
+            "Attendance": "21",
+            "Contribution": "1845912",
+            "Rank": "8",
+            "Rankname": "화스등급",
+            "Grade": "36%"
         },
         {
             "Id": "유설민",
             "Lv": "17",
             "Job": "바학",
             "Address": "센터 정원1",
-            "Attendance": "26",
-            "Contribution": "7224098",
+            "Attendance": "28",
+            "Contribution": "7372058",
             "Rank": "1",
             "Rankname": "백금등급",
-            "Grade": "34%"
+            "Grade": "36%"
+        },
+        {
+            "Id": "Lynd",
+            "Lv": "17",
+            "Job": "광부",
+            "Address": "스톰 포레스트20",
+            "Attendance": "20",
+            "Contribution": "3091225",
+            "Rank": "5",
+            "Rankname": "스철등급",
+            "Grade": "36%"
         },
         {
             "Id": "환상동화",
@@ -127,10 +171,10 @@
             "Job": "소총수",
             "Address": "그린 호수16",
             "Attendance": "3",
-            "Contribution": "80175",
-            "Rank": "29",
+            "Contribution": "80475",
+            "Rank": "28",
             "Rankname": "크아등급",
-            "Grade": "34%"
+            "Grade": "36%"
         },
         {
             "Id": "라온",
@@ -138,32 +182,10 @@
             "Job": "소총수",
             "Address": "그린 호수6",
             "Attendance": "5",
-            "Contribution": "1662539",
-            "Rank": "9",
+            "Contribution": "1715184",
+            "Rank": "10",
             "Rankname": "화스등급",
-            "Grade": "34%"
-        },
-        {
-            "Id": "빛나는혜빈",
-            "Lv": "17",
-            "Job": "벌목공",
-            "Address": "선샤인 베이7",
-            "Attendance": "20",
-            "Contribution": "6039856",
-            "Rank": "2",
-            "Rankname": "백금등급",
-            "Grade": "34%"
-        },
-        {
-            "Id": "간지용",
-            "Lv": "17",
-            "Job": "마채집가",
-            "Address": "센터 정원5",
-            "Attendance": "20",
-            "Contribution": "1801462",
-            "Rank": "8",
-            "Rankname": "화스등급",
-            "Grade": "34%"
+            "Grade": "36%"
         },
         {
             "Id": "루카치",
@@ -171,32 +193,21 @@
             "Job": "바학",
             "Address": "꽃말 언덕3",
             "Attendance": "0",
-            "Contribution": "300",
-            "Rank": "44",
+            "Contribution": "10775",
+            "Rank": "43",
             "Rankname": "크아등급",
-            "Grade": "34%"
-        },
-        {
-            "Id": "Lynd",
-            "Lv": "16",
-            "Job": "광부",
-            "Address": "써니 랜드13",
-            "Attendance": "19",
-            "Contribution": "3059496",
-            "Rank": "5",
-            "Rankname": "스철등급",
-            "Grade": "41%"
+            "Grade": "36%"
         },
         {
             "Id": "큐블리",
             "Lv": "16",
             "Job": "바학",
             "Address": "센터 정원3",
-            "Attendance": "14",
-            "Contribution": "1436256",
+            "Attendance": "15",
+            "Contribution": "1465981",
             "Rank": "13",
             "Rankname": "블아등급",
-            "Grade": "41%"
+            "Grade": "45%"
         },
         {
             "Id": "추카",
@@ -204,10 +215,32 @@
             "Job": "광부",
             "Address": "그린 호수12",
             "Attendance": "6",
-            "Contribution": "191521",
-            "Rank": "21",
+            "Contribution": "201818",
+            "Rank": "20",
             "Rankname": "크아등급",
-            "Grade": "41%"
+            "Grade": "45%"
+        },
+        {
+            "Id": "도와주십시오",
+            "Lv": "16",
+            "Job": "기계공",
+            "Address": "꽃말 언덕11",
+            "Attendance": "2",
+            "Contribution": "68206",
+            "Rank": "30",
+            "Rankname": "크아등급",
+            "Grade": "45%"
+        },
+        {
+            "Id": "규비",
+            "Lv": "16",
+            "Job": "바학",
+            "Address": "꽃말 언덕2",
+            "Attendance": "0",
+            "Contribution": "0",
+            "Rank": "47",
+            "Rankname": "크아등급",
+            "Grade": "45%"
         },
         {
             "Id": "봄느님",
@@ -215,21 +248,21 @@
             "Job": "광부",
             "Address": "그린 호수14",
             "Attendance": "11",
-            "Contribution": "906094",
-            "Rank": "16",
-            "Rankname": "크아등급",
-            "Grade": "50%"
+            "Contribution": "1151234",
+            "Rank": "15",
+            "Rankname": "블아등급",
+            "Grade": "51%"
         },
         {
-            "Id": "도와주십시오",
+            "Id": "Kidor",
             "Lv": "15",
-            "Job": "기계공",
-            "Address": "꽃말 언덕2",
-            "Attendance": "1",
-            "Contribution": "61406",
-            "Rank": "30",
+            "Job": "저격수",
+            "Address": "그린 호수5",
+            "Attendance": "6",
+            "Contribution": "255890",
+            "Rank": "18",
             "Rankname": "크아등급",
-            "Grade": "50%"
+            "Grade": "51%"
         },
         {
             "Id": "폭주",
@@ -238,31 +271,42 @@
             "Address": "선샤인 베이19",
             "Attendance": "0",
             "Contribution": "45569",
-            "Rank": "33",
+            "Rank": "34",
             "Rankname": "크아등급",
-            "Grade": "50%"
-        },
-        {
-            "Id": "Kidor",
-            "Lv": "15",
-            "Job": "저격수",
-            "Address": "그린 호수5",
-            "Attendance": "6",
-            "Contribution": "241615",
-            "Rank": "20",
-            "Rankname": "크아등급",
-            "Grade": "50%"
+            "Grade": "51%"
         },
         {
             "Id": "yeoyuu",
             "Lv": "14",
             "Job": "바학",
             "Address": "그린 호수2",
-            "Attendance": "16",
-            "Contribution": "1624489",
+            "Attendance": "17",
+            "Contribution": "1658501",
             "Rank": "11",
             "Rankname": "블아등급",
-            "Grade": "59%"
+            "Grade": "60%"
+        },
+        {
+            "Id": "이승준대왕",
+            "Lv": "14",
+            "Job": "광부",
+            "Address": "선샤인 베이10",
+            "Attendance": "4",
+            "Contribution": "745654",
+            "Rank": "16",
+            "Rankname": "크아등급",
+            "Grade": "60%"
+        },
+        {
+            "Id": "흰여울",
+            "Lv": "14",
+            "Job": "목수",
+            "Address": "선샤인 베이2",
+            "Attendance": "3",
+            "Contribution": "150928",
+            "Rank": "22",
+            "Rankname": "크아등급",
+            "Grade": "60%"
         },
         {
             "Id": "아이",
@@ -271,31 +315,20 @@
             "Address": "꽃말 언덕5",
             "Attendance": "0",
             "Contribution": "0",
-            "Rank": "45",
+            "Rank": "47",
             "Rankname": "크아등급",
-            "Grade": "59%"
+            "Grade": "60%"
         },
         {
-            "Id": "이승준대왕",
-            "Lv": "14",
-            "Job": "광부",
-            "Address": "선샤인 베이10",
-            "Attendance": "4",
-            "Contribution": "729033",
-            "Rank": "17",
+            "Id": "빵크티",
+            "Lv": "13",
+            "Job": "보탐가",
+            "Address": "스톰 포레스트10",
+            "Attendance": "0",
+            "Contribution": "114569",
+            "Rank": "25",
             "Rankname": "크아등급",
-            "Grade": "59%"
-        },
-        {
-            "Id": "흰여울",
-            "Lv": "14",
-            "Job": "목수",
-            "Address": "선샤인 베이2",
-            "Attendance": "3",
-            "Contribution": "127823",
-            "Rank": "24",
-            "Rankname": "크아등급",
-            "Grade": "59%"
+            "Grade": "68%"
         },
         {
             "Id": "버미느님",
@@ -303,21 +336,10 @@
             "Job": "벌목공",
             "Address": "선샤인 베이23",
             "Attendance": "2",
-            "Contribution": "144075",
+            "Contribution": "141559",
             "Rank": "23",
             "Rankname": "크아등급",
-            "Grade": "66%"
-        },
-        {
-            "Id": "후드티라구",
-            "Lv": "13",
-            "Job": "광부",
-            "Address": "꽃말 언덕6",
-            "Attendance": "0",
-            "Contribution": "24455",
-            "Rank": "39",
-            "Rankname": "크아등급",
-            "Grade": "66%"
+            "Grade": "68%"
         },
         {
             "Id": "한진범",
@@ -325,10 +347,43 @@
             "Job": "저격수",
             "Address": "선샤인 베이9",
             "Attendance": "1",
-            "Contribution": "245071",
-            "Rank": "18",
+            "Contribution": "249711",
+            "Rank": "19",
             "Rankname": "크아등급",
-            "Grade": "66%"
+            "Grade": "68%"
+        },
+        {
+            "Id": "후드티라구",
+            "Lv": "13",
+            "Job": "광부",
+            "Address": "꽃말 언덕6",
+            "Attendance": "0",
+            "Contribution": "42017",
+            "Rank": "35",
+            "Rankname": "크아등급",
+            "Grade": "68%"
+        },
+        {
+            "Id": "대현",
+            "Lv": "12",
+            "Job": "벌목공",
+            "Address": "스톰 포레스트9",
+            "Attendance": "0",
+            "Contribution": "58105",
+            "Rank": "31",
+            "Rankname": "크아등급",
+            "Grade": "74%"
+        },
+        {
+            "Id": "Tmel",
+            "Lv": "12",
+            "Job": "보탐가",
+            "Address": "선샤인 베이21",
+            "Attendance": "0",
+            "Contribution": "9711",
+            "Rank": "44",
+            "Rankname": "크아등급",
+            "Grade": "74%"
         },
         {
             "Id": "라꾸",
@@ -339,51 +394,40 @@
             "Contribution": "50600",
             "Rank": "32",
             "Rankname": "크아등급",
-            "Grade": "70%"
+            "Grade": "74%"
         },
         {
-            "Id": "빵크티",
-            "Lv": "12",
-            "Job": "보탐가",
-            "Address": "스톰 포레스트10",
-            "Attendance": "0",
-            "Contribution": "97689",
-            "Rank": "26",
-            "Rankname": "크아등급",
-            "Grade": "70%"
-        },
-        {
-            "Id": "Tmel",
+            "Id": "깨꽁이",
             "Lv": "11",
             "Job": "보탐가",
-            "Address": "선샤인 베이21",
+            "Address": "꽃말 언덕8",
             "Attendance": "0",
-            "Contribution": "9030",
-            "Rank": "43",
+            "Contribution": "19760",
+            "Rank": "40",
             "Rankname": "크아등급",
-            "Grade": "75%"
+            "Grade": "77%"
         },
         {
-            "Id": "대현",
-            "Lv": "11",
-            "Job": "벌목공",
-            "Address": "스톰 포레스트9",
-            "Attendance": "0",
-            "Contribution": "43569",
-            "Rank": "34",
-            "Rankname": "크아등급",
-            "Grade": "75%"
-        },
-        {
-            "Id": "비월가",
+            "Id": "광부조아",
             "Lv": "10",
-            "Job": "보탐가",
-            "Address": "그린 호수13",
+            "Job": "광부",
+            "Address": "꽃말 언덕12",
             "Attendance": "0",
-            "Contribution": "85302",
-            "Rank": "28",
+            "Contribution": "2750",
+            "Rank": "46",
             "Rankname": "크아등급",
-            "Grade": "82%"
+            "Grade": "83%"
+        },
+        {
+            "Id": "연영",
+            "Lv": "10",
+            "Job": "저격수",
+            "Address": "꽃말 언덕9",
+            "Attendance": "0",
+            "Contribution": "9510",
+            "Rank": "45",
+            "Rankname": "크아등급",
+            "Grade": "83%"
         },
         {
             "Id": "희미한빛",
@@ -392,20 +436,20 @@
             "Address": "꽃말 언덕4",
             "Attendance": "0",
             "Contribution": "24915",
-            "Rank": "38",
+            "Rank": "39",
             "Rankname": "크아등급",
-            "Grade": "82%"
+            "Grade": "83%"
         },
         {
-            "Id": "깨꽁이",
-            "Lv": "10",
+            "Id": "큐윈터",
+            "Lv": "9",
             "Job": "보탐가",
-            "Address": "써니 랜드1",
+            "Address": "선샤인 베이24",
             "Attendance": "0",
-            "Contribution": "17010",
-            "Rank": "40",
+            "Contribution": "69925",
+            "Rank": "29",
             "Rankname": "크아등급",
-            "Grade": "82%"
+            "Grade": "87%"
         },
         {
             "Id": "Eunoia",
@@ -414,40 +458,28 @@
             "Address": "선샤인 베이5",
             "Attendance": "0",
             "Contribution": "115796",
-            "Rank": "25",
+            "Rank": "24",
             "Rankname": "크아등급",
-            "Grade": "86%"
-        },
-        {
-            "Id": "큐윈터",
-            "Lv": "9",
-            "Job": "보탐가",
-            "Address": "선샤인 베이24",
-            "Attendance": "0",
-            "Contribution": "58925",
-            "Rank": "31",
-            "Rankname": "크아등급",
-            "Grade": "86%"
+            "Grade": "87%"
         },
         {
             "Id": "ZOE",
             "Lv": "6",
             "Job": "벌목공",
-            "Address": "그린 호수24",
+            "Address": "그린 호수8",
             "Attendance": "0",
-            "Contribution": "33195",
-            "Rank": "36",
+            "Contribution": "49054",
+            "Rank": "33",
             "Rankname": "크아등급",
             "Grade": "91%"
         },
         {
             "Id": "소녀",
             "Lv": "6",
-            "Job": "무직",
             "Address": "꽃말 언덕7",
             "Attendance": "0",
-            "Contribution": "9790",
-            "Rank": "42",
+            "Contribution": "17150",
+            "Rank": "41",
             "Rankname": "크아등급",
             "Grade": "91%"
         },
@@ -458,9 +490,9 @@
             "Address": "그린 호수15",
             "Attendance": "0",
             "Contribution": "13230",
-            "Rank": "41",
+            "Rank": "42",
             "Rankname": "크아등급",
-            "Grade": "93%"
+            "Grade": "96%"
         },
         {
             "Id": "라온힐조",
@@ -475,14 +507,14 @@
         },
         {
             "Id": "옥 동 자",
-            "Lv": "4",
+            "Lv": "5",
             "Job": "벌목공",
             "Address": "선샤인 베이1",
             "Attendance": "0",
-            "Contribution": "26760",
-            "Rank": "37",
+            "Contribution": "30155",
+            "Rank": "38",
             "Rankname": "크아등급",
-            "Grade": "98%"
+            "Grade": "96%"
         },
         {
             "Id": "란타나",
@@ -491,7 +523,7 @@
             "Address": "꽃말 언덕1",
             "Attendance": "0",
             "Contribution": "39652",
-            "Rank": "35",
+            "Rank": "36",
             "Rankname": "크아등급",
             "Grade": "100%"
         }
@@ -499,133 +531,133 @@
     "rank": [
         {
             "Rank": "1",
-            "Contribution": "7224098",
+            "Contribution": "7372058",
             "Id": "유설민"
         },
         {
             "Rank": "2",
-            "Contribution": "6039856",
+            "Contribution": "6121285",
             "Id": "빛나는혜빈"
         },
         {
             "Rank": "3",
-            "Contribution": "3733344",
+            "Contribution": "3899281",
             "Id": "아자토스"
         },
         {
             "Rank": "4",
-            "Contribution": "3186162",
+            "Contribution": "3251942",
             "Id": "새롬"
         },
         {
             "Rank": "5",
-            "Contribution": "3059496",
+            "Contribution": "3091225",
             "Id": "Lynd"
         },
         {
             "Rank": "6",
-            "Contribution": "2637265",
+            "Contribution": "2685815",
             "Id": "깨꿍이"
         },
         {
             "Rank": "7",
-            "Contribution": "2390891",
+            "Contribution": "2446291",
             "Id": "새봄"
         },
         {
             "Rank": "8",
-            "Contribution": "1801462",
+            "Contribution": "1845912",
             "Id": "간지용"
         },
         {
             "Rank": "9",
-            "Contribution": "1662539",
-            "Id": "라온"
-        },
-        {
-            "Rank": "10",
-            "Contribution": "1644436",
+            "Contribution": "1716006",
             "Id": "바바방"
         },
         {
+            "Rank": "10",
+            "Contribution": "1715184",
+            "Id": "라온"
+        },
+        {
             "Rank": "11",
-            "Contribution": "1624489",
+            "Contribution": "1658501",
             "Id": "yeoyuu"
         },
         {
             "Rank": "12",
-            "Contribution": "1461575",
+            "Contribution": "1507988",
             "Id": "클로버"
         },
         {
             "Rank": "13",
-            "Contribution": "1436256",
+            "Contribution": "1465981",
             "Id": "큐블리"
         },
         {
             "Rank": "14",
-            "Contribution": "1300484",
-            "Id": "햄토리"
-        },
-        {
-            "Rank": "15",
-            "Contribution": "1204088",
+            "Contribution": "1215518",
             "Id": "괴도해일"
         },
         {
-            "Rank": "16",
-            "Contribution": "906094",
+            "Rank": "15",
+            "Contribution": "1151234",
             "Id": "봄느님"
         },
         {
-            "Rank": "17",
-            "Contribution": "729033",
+            "Rank": "16",
+            "Contribution": "745654",
             "Id": "이승준대왕"
         },
         {
-            "Rank": "18",
-            "Contribution": "245071",
-            "Id": "한진범"
-        },
-        {
-            "Rank": "19",
-            "Contribution": "244856",
+            "Rank": "17",
+            "Contribution": "312822",
             "Id": "Witty"
         },
         {
-            "Rank": "20",
-            "Contribution": "241615",
+            "Rank": "18",
+            "Contribution": "255890",
             "Id": "Kidor"
         },
         {
-            "Rank": "21",
-            "Contribution": "191521",
+            "Rank": "19",
+            "Contribution": "249711",
+            "Id": "한진범"
+        },
+        {
+            "Rank": "20",
+            "Contribution": "201818",
             "Id": "추카"
         },
         {
-            "Rank": "22",
-            "Contribution": "183005",
+            "Rank": "21",
+            "Contribution": "165486",
             "Id": "세리닝"
         },
         {
+            "Rank": "22",
+            "Contribution": "150928",
+            "Id": "흰여울"
+        },
+        {
             "Rank": "23",
-            "Contribution": "144075",
+            "Contribution": "141559",
             "Id": "버미느님"
         },
         {
             "Rank": "24",
-            "Contribution": "127823",
-            "Id": "흰여울"
-        },
-        {
-            "Rank": "25",
             "Contribution": "115796",
             "Id": "Eunoia"
         },
         {
-            "Rank": "26",
-            "Contribution": "97689",
+            "Rank": "25",
+            "Contribution": "114569",
             "Id": "빵크티"
+        },
+        {
+            "Rank": "26",
+            "Contribution": "106095",
+            "Id": "햄토리"
         },
         {
             "Rank": "27",
@@ -634,23 +666,23 @@
         },
         {
             "Rank": "28",
-            "Contribution": "85302",
-            "Id": "비월가"
-        },
-        {
-            "Rank": "29",
-            "Contribution": "80175",
+            "Contribution": "80475",
             "Id": "환상동화"
         },
         {
+            "Rank": "29",
+            "Contribution": "69925",
+            "Id": "큐윈터"
+        },
+        {
             "Rank": "30",
-            "Contribution": "61406",
+            "Contribution": "68206",
             "Id": "도와주십시오"
         },
         {
             "Rank": "31",
-            "Contribution": "58925",
-            "Id": "큐윈터"
+            "Contribution": "58105",
+            "Id": "대현"
         },
         {
             "Rank": "32",
@@ -659,66 +691,81 @@
         },
         {
             "Rank": "33",
+            "Contribution": "49054",
+            "Id": "ZOE"
+        },
+        {
+            "Rank": "34",
             "Contribution": "45569",
             "Id": "폭주"
         },
         {
-            "Rank": "34",
-            "Contribution": "43569",
-            "Id": "대현"
+            "Rank": "35",
+            "Contribution": "42017",
+            "Id": "후드티라구"
         },
         {
-            "Rank": "35",
+            "Rank": "36",
             "Contribution": "39652",
             "Id": "란타나"
         },
         {
-            "Rank": "36",
-            "Contribution": "33195",
-            "Id": "ZOE"
-        },
-        {
             "Rank": "37",
-            "Contribution": "26760",
-            "Id": "옥 동 자"
+            "Contribution": "30575",
+            "Id": "주연's"
         },
         {
             "Rank": "38",
+            "Contribution": "30155",
+            "Id": "옥 동 자"
+        },
+        {
+            "Rank": "39",
             "Contribution": "24915",
             "Id": "희미한빛"
         },
         {
-            "Rank": "39",
-            "Contribution": "24455",
-            "Id": "후드티라구"
-        },
-        {
             "Rank": "40",
-            "Contribution": "17010",
+            "Contribution": "19760",
             "Id": "깨꽁이"
         },
         {
             "Rank": "41",
+            "Contribution": "17150",
+            "Id": "소녀"
+        },
+        {
+            "Rank": "42",
             "Contribution": "13230",
             "Id": "해태"
         },
         {
-            "Rank": "42",
-            "Contribution": "9790",
-            "Id": "소녀"
-        },
-        {
             "Rank": "43",
-            "Contribution": "9030",
-            "Id": "Tmel"
-        },
-        {
-            "Rank": "44",
-            "Contribution": "300",
+            "Contribution": "10775",
             "Id": "루카치"
         },
         {
+            "Rank": "44",
+            "Contribution": "9711",
+            "Id": "Tmel"
+        },
+        {
             "Rank": "45",
+            "Contribution": "9510",
+            "Id": "연영"
+        },
+        {
+            "Rank": "46",
+            "Contribution": "2750",
+            "Id": "광부조아"
+        },
+        {
+            "Rank": "47",
+            "Contribution": "0",
+            "Id": "규비"
+        },
+        {
+            "Rank": "47",
             "Contribution": "0",
             "Id": "아이"
         }
