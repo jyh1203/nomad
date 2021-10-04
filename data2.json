@@ -536,7 +536,7 @@
             "Contribution": "0",
             "Rank": "49",
             "Rankname": "블아등급",
-            "Grade": "0.347"
+            "Grade": "35%"
         },
         {
             "Id": "제인",
@@ -547,7 +547,18 @@
             "Contribution": "0",
             "Rank": "49",
             "Rankname": "블아등급",
-            "Grade": "0.7143"
+            "Grade": "71%"
+        },
+        {
+            "Id": "임티",
+            "Lv": "20",
+            "Job": "소총수",
+            "Address": "그린 호수 14",
+            "Attendance": "0",
+            "Contribution": "0",
+            "Rank": "49",
+            "Rankname": "블아등급",
+            "Grade": "8%"
         }
     ],
     "rank": [
@@ -800,6 +811,11 @@
             "Rank": "49",
             "Contribution": "0",
             "Id": "제인"
+        },
+        {
+            "Rank": "49",
+            "Contribution": "0",
+            "Id": "임티"
         }
     ],
     "ranklv": [
