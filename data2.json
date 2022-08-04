@@ -1,81 +1,15 @@
 {
     "lifeafter": [
         {
-            "Id": "두부남편",
+            "Id": "\\게판\\",
             "Lv": "24",
-            "Job": "소총수",
-            "Address": "센터 정원6",
-            "Attendance": "32",
-            "Contribution": "1369664",
+            "Job": "바학",
+            "Address": "그린 호수13호",
+            "Attendance": "45",
+            "Contribution": "20471008",
             "Rank": "1",
-            "Rankname": "남정석등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "고칼슘우유",
-            "Lv": "24",
-            "Job": "소총수",
-            "Address": "센터 정원5",
-            "Attendance": "7",
-            "Contribution": "736533",
-            "Rank": "2",
-            "Rankname": "남정석등급",
-            "Grade": "17%"
-        },
-        {
-            "Id": "Dollar",
-            "Lv": "24",
-            "Job": "기계공",
-            "Address": "센터 정원5",
-            "Attendance": "12",
-            "Contribution": "325220",
-            "Rank": "3",
-            "Rankname": "남정석등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "와니",
-            "Lv": "24",
-            "Job": "소총수",
-            "Address": "센터 정원3",
-            "Attendance": "1",
-            "Contribution": "1087738",
-            "Rank": "4",
-            "Rankname": "금빛등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "메이",
-            "Lv": "24",
-            "Job": "소총수",
-            "Address": "센터 정원2",
-            "Attendance": "1",
-            "Contribution": "963770",
-            "Rank": "5",
-            "Rankname": "금빛등급",
-            "Grade": "56%"
-        },
-        {
-            "Id": "그샤",
-            "Lv": "24",
-            "Job": "소총수",
-            "Address": "센터 정원2",
-            "Attendance": "37",
-            "Contribution": "1245425",
-            "Rank": "6",
-            "Rankname": "금빛등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "휑이",
-            "Lv": "24",
-            "Job": "벌목공",
-            "Address": "푸른 강가7호",
-            "Attendance": "10",
-            "Contribution": "851700",
-            "Rank": "7",
-            "Rankname": "금빛등급",
-            "Grade": "56%"
+            "Rankname": "마정석등급",
+            "Grade": "0%"
         },
         {
             "Id": "루스커스",
@@ -83,10 +17,10 @@
             "Job": "바학",
             "Address": "그린 호수18호",
             "Attendance": "19",
-            "Contribution": "4526835",
-            "Rank": "8",
-            "Rankname": "금빛등급",
-            "Grade": "0%"
+            "Contribution": "4710483",
+            "Rank": "2",
+            "Rankname": "마정석등급",
+            "Grade": "10%"
         },
         {
             "Id": "홍비",
@@ -94,54 +28,10 @@
             "Job": "소총수",
             "Address": "그린 호수14호",
             "Attendance": "0",
-            "Contribution": "4194958",
-            "Rank": "9",
-            "Rankname": "금빛등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "간볼락",
-            "Lv": "24",
-            "Job": "벌목공",
-            "Address": "그린 호수6호",
-            "Attendance": "1",
-            "Contribution": "2607524",
-            "Rank": "10",
-            "Rankname": "금빛등급",
-            "Grade": "17%"
-        },
-        {
-            "Id": "Yaco",
-            "Lv": "24",
-            "Job": "바학ㅇㅈㄹ",
-            "Address": "그린 호수5호",
-            "Attendance": "31",
-            "Contribution": "907055",
-            "Rank": "11",
-            "Rankname": "백금등급",
-            "Grade": "41%"
-        },
-        {
-            "Id": "루나",
-            "Lv": "24",
-            "Job": "소총수",
-            "Address": "선샤인 베이7호",
-            "Attendance": "13",
-            "Contribution": "1188345",
-            "Rank": "12",
-            "Rankname": "백금등급",
-            "Grade": "66%"
-        },
-        {
-            "Id": "간지용",
-            "Lv": "23",
-            "Job": "바학",
-            "Address": "써니 랜드 23호",
-            "Attendance": "11",
-            "Contribution": "887356",
-            "Rank": "13",
-            "Rankname": "백금등급",
-            "Grade": "36%"
+            "Contribution": "4381558",
+            "Rank": "3",
+            "Rankname": "마정석등급",
+            "Grade": "10%"
         },
         {
             "Id": "조안페레로",
@@ -149,186 +39,32 @@
             "Job": "바학",
             "Address": "써니 랜드9호",
             "Attendance": "37",
-            "Contribution": "4269387",
-            "Rank": "14",
-            "Rankname": "백금등급",
-            "Grade": "56%"
+            "Contribution": "4368041",
+            "Rank": "4",
+            "Rankname": "붉은올빼미등급",
+            "Grade": "10%"
         },
         {
-            "Id": "\\게판\\",
-            "Lv": "23",
-            "Job": "바학",
-            "Address": "그린 호수13호",
-            "Attendance": "45",
-            "Contribution": "19076488",
-            "Rank": "15",
-            "Rankname": "백금등급",
-            "Grade": "8%"
-        },
-        {
-            "Id": "카르초오",
-            "Lv": "23",
-            "Job": "바학",
-            "Address": "그린 호수4호",
-            "Attendance": "40",
-            "Contribution": "684828",
-            "Rank": "16",
-            "Rankname": "스철등급",
-            "Grade": "41%"
-        },
-        {
-            "Id": "유나",
-            "Lv": "23",
-            "Job": "바학",
-            "Address": "꼬마 언덕9호",
-            "Attendance": "12",
-            "Contribution": "26133",
-            "Rank": "17",
-            "Rankname": "스철등급",
-            "Grade": "17%"
-        },
-        {
-            "Id": "홀로롤로롤롤",
-            "Lv": "22",
-            "Job": "바학",
-            "Address": "센터 정원4호",
-            "Attendance": "3",
-            "Contribution": "145275",
-            "Rank": "18",
-            "Rankname": "스철등급",
-            "Grade": "8%"
-        },
-        {
-            "Id": "세리닝",
-            "Lv": "22",
-            "Job": "마채집가",
-            "Address": "써니 랜드 24호",
-            "Attendance": "35",
-            "Contribution": "431362",
-            "Rank": "19",
-            "Rankname": "스철등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "앤하루",
-            "Lv": "22",
-            "Job": "바학",
-            "Address": "써니 랜드11호",
-            "Attendance": "0",
-            "Contribution": "346847",
-            "Rank": "20",
-            "Rankname": "스철등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "ㅋㅎ",
-            "Lv": "22",
-            "Job": "광부",
-            "Address": "그린 호수3호",
-            "Attendance": "0",
-            "Contribution": "301533",
-            "Rank": "21",
-            "Rankname": "화스등급",
-            "Grade": "56%"
-        },
-        {
-            "Id": "앙농",
-            "Lv": "22",
-            "Job": "바학",
-            "Address": "그린 호수1호",
-            "Attendance": "24",
-            "Contribution": "631500",
-            "Rank": "22",
-            "Rankname": "화스등급",
-            "Grade": "8%"
+            "Id": "간볼락",
+            "Lv": "25",
+            "Job": "벌목공",
+            "Address": "그린 호수6호",
+            "Attendance": "1",
+            "Contribution": "3061083",
+            "Rank": "5",
+            "Rankname": "붉은올빼미등급",
+            "Grade": "10%"
         },
         {
             "Id": "유설민",
-            "Lv": "22",
+            "Lv": "23",
             "Job": "바학",
             "Address": "선샤인 베이22호",
             "Attendance": "17",
-            "Contribution": "1264151",
-            "Rank": "23",
-            "Rankname": "화스등급",
-            "Grade": "80%"
-        },
-        {
-            "Id": "봄느님",
-            "Lv": "22",
-            "Job": "바학",
-            "Address": "선샤인 베이8호",
-            "Attendance": "0",
-            "Contribution": "0",
-            "Rank": "24",
-            "Rankname": "화스등급",
-            "Grade": "80%"
-        },
-        {
-            "Id": "뚯-뚜루",
-            "Lv": "21",
-            "Job": "바학",
-            "Address": "센터 정원6호",
-            "Attendance": "24",
-            "Contribution": "345050",
-            "Rank": "25",
-            "Rankname": "화스등급",
-            "Grade": "56%"
-        },
-        {
-            "Id": "LRN",
-            "Lv": "21",
-            "Job": "바학",
-            "Address": "센터 정원4호",
-            "Attendance": "7",
-            "Contribution": "261487",
-            "Rank": "26",
-            "Rankname": "블아등급",
-            "Grade": "41%"
-        },
-        {
-            "Id": "_MINA_",
-            "Lv": "21",
-            "Job": "바학",
-            "Address": "센터 정원1호",
-            "Attendance": "6",
-            "Contribution": "1184923",
-            "Rank": "27",
-            "Rankname": "블아등급",
-            "Grade": "90%"
-        },
-        {
-            "Id": "보조걔",
-            "Lv": "21",
-            "Job": "바학",
-            "Address": "그린 호수12호",
-            "Attendance": "14",
-            "Contribution": "1347986",
-            "Rank": "28",
-            "Rankname": "블아등급",
-            "Grade": "17%"
-        },
-        {
-            "Id": "여유",
-            "Lv": "21",
-            "Job": "무사",
-            "Address": "꽃말 언덕17호",
-            "Attendance": "26",
-            "Contribution": "13225",
-            "Rank": "29",
-            "Rankname": "블아등급",
-            "Grade": "90%"
-        },
-        {
-            "Id": "NEO",
-            "Lv": "20",
-            "Job": "바학",
-            "Address": "푸른 강가16호",
-            "Attendance": "11",
-            "Contribution": "370783",
-            "Rank": "30",
-            "Rankname": "블아등급",
-            "Grade": "61%"
+            "Contribution": "2549006",
+            "Rank": "6",
+            "Rankname": "붉은올빼미등급",
+            "Grade": "22%"
         },
         {
             "Id": "4나2",
@@ -336,87 +72,10 @@
             "Job": "바학",
             "Address": "푸른 강가15호",
             "Attendance": "0",
-            "Contribution": "2345304",
-            "Rank": "31",
-            "Rankname": "블아등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "끝나면파탈2",
-            "Lv": "20",
-            "Job": "순찰자",
-            "Address": "그린 호수23호",
-            "Attendance": "5",
-            "Contribution": "1786471",
-            "Rank": "32",
-            "Rankname": "블아등급",
-            "Grade": "56%"
-        },
-        {
-            "Id": "몽실",
-            "Lv": "20",
-            "Job": "바학",
-            "Address": "그린 호수 15호",
-            "Attendance": "2",
-            "Contribution": "755175",
-            "Rank": "33",
-            "Rankname": "블아등급",
-            "Grade": "56%"
-        },
-        {
-            "Id": "징징",
-            "Lv": "20",
-            "Job": "기계공",
-            "Address": "그린 호수11호",
-            "Attendance": "1",
-            "Contribution": "323126",
-            "Rank": "34",
-            "Rankname": "블아등급",
-            "Grade": "80%"
-        },
-        {
-            "Id": "옥기",
-            "Lv": "20",
-            "Job": "소총수",
-            "Address": "그린 호수8호",
-            "Attendance": "5",
-            "Contribution": "642565",
-            "Rank": "35",
-            "Rankname": "블아등급",
-            "Grade": "64%"
-        },
-        {
-            "Id": "부빈",
-            "Lv": "20",
-            "Job": "소총수",
-            "Address": "그린 호수7호",
-            "Attendance": "2",
-            "Contribution": "542583",
-            "Rank": "36",
-            "Rankname": "블아등급",
-            "Grade": "36%"
-        },
-        {
-            "Id": "구미베어",
-            "Lv": "20",
-            "Job": "바학",
-            "Address": "선샤인 베이24호",
-            "Attendance": "1",
-            "Contribution": "364055",
-            "Rank": "37",
-            "Rankname": "블아등급",
-            "Grade": "56%"
-        },
-        {
-            "Id": "Belita",
-            "Lv": "20",
-            "Job": "기계공",
-            "Address": "선샤인 베이16호",
-            "Attendance": "1",
-            "Contribution": "144268",
-            "Rank": "38",
-            "Rankname": "블아등급",
-            "Grade": "80%"
+            "Contribution": "2427150",
+            "Rank": "7",
+            "Rankname": "붉은올빼미등급",
+            "Grade": "22%"
         },
         {
             "Id": "바보녀석",
@@ -425,9 +84,20 @@
             "Address": "꽃말 언덕 21호",
             "Attendance": "18",
             "Contribution": "1884067",
-            "Rank": "39",
-            "Rankname": "블아등급",
-            "Grade": "80%"
+            "Rank": "8",
+            "Rankname": "붉은올빼미등급",
+            "Grade": "22%"
+        },
+        {
+            "Id": "끝나면파탈2",
+            "Lv": "20",
+            "Job": "순찰자",
+            "Address": "그린 호수23호",
+            "Attendance": "5",
+            "Contribution": "1811042",
+            "Rank": "9",
+            "Rankname": "붉은올빼미등급",
+            "Grade": "22%"
         },
         {
             "Id": "끝나면파탈2",
@@ -435,10 +105,358 @@
             "Job": "순찰자",
             "Address": "꽃말 언덕 14호",
             "Attendance": "1",
-            "Contribution": "1782700",
+            "Contribution": "1807840",
+            "Rank": "10",
+            "Rankname": "남정석등급",
+            "Grade": "22%"
+        },
+        {
+            "Id": "그샤",
+            "Lv": "24",
+            "Job": "소총수",
+            "Address": "센터 정원2",
+            "Attendance": "37",
+            "Contribution": "1428752",
+            "Rank": "11",
+            "Rankname": "남정석등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "보조걔",
+            "Lv": "21",
+            "Job": "바학",
+            "Address": "그린 호수12호",
+            "Attendance": "14",
+            "Contribution": "1398798",
+            "Rank": "12",
+            "Rankname": "남정석등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "두부남편",
+            "Lv": "24",
+            "Job": "소총수",
+            "Address": "센터 정원6",
+            "Attendance": "32",
+            "Contribution": "1370264",
+            "Rank": "13",
+            "Rankname": "남정석등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "루나",
+            "Lv": "24",
+            "Job": "소총수",
+            "Address": "선샤인 베이7호",
+            "Attendance": "13",
+            "Contribution": "1346580",
+            "Rank": "14",
+            "Rankname": "남정석등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "와니",
+            "Lv": "25",
+            "Job": "소총수",
+            "Address": "센터 정원3",
+            "Attendance": "1",
+            "Contribution": "1277493",
+            "Rank": "15",
+            "Rankname": "남정석등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "_MINA_",
+            "Lv": "21",
+            "Job": "바학",
+            "Address": "센터 정원1호",
+            "Attendance": "6",
+            "Contribution": "1193028",
+            "Rank": "16",
+            "Rankname": "금빛등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "메이",
+            "Lv": "24",
+            "Job": "소총수",
+            "Address": "센터 정원2",
+            "Attendance": "1",
+            "Contribution": "1142250",
+            "Rank": "17",
+            "Rankname": "금빛등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "Yaco",
+            "Lv": "25",
+            "Job": "바학ㅇㅈㄹ",
+            "Address": "그린 호수5호",
+            "Attendance": "31",
+            "Contribution": "1081988",
+            "Rank": "18",
+            "Rankname": "금빛등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "간지용",
+            "Lv": "23",
+            "Job": "바학",
+            "Address": "써니 랜드 23호",
+            "Attendance": "11",
+            "Contribution": "1000021",
+            "Rank": "19",
+            "Rankname": "금빛등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "휑이",
+            "Lv": "24",
+            "Job": "벌목공",
+            "Address": "푸른 강가7호",
+            "Attendance": "10",
+            "Contribution": "970467",
+            "Rank": "20",
+            "Rankname": "금빛등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "고칼슘우유",
+            "Lv": "25",
+            "Job": "소총수",
+            "Address": "센터 정원5",
+            "Attendance": "7",
+            "Contribution": "921530",
+            "Rank": "21",
+            "Rankname": "금빛등급",
+            "Grade": "49%"
+        },
+        {
+            "Id": "카르초오",
+            "Lv": "23",
+            "Job": "바학",
+            "Address": "그린 호수4호",
+            "Attendance": "40",
+            "Contribution": "815650",
+            "Rank": "22",
+            "Rankname": "백금등급",
+            "Grade": "57%"
+        },
+        {
+            "Id": "몽실",
+            "Lv": "20",
+            "Job": "바학",
+            "Address": "그린 호수 15호",
+            "Attendance": "2",
+            "Contribution": "758110",
+            "Rank": "23",
+            "Rankname": "백금등급",
+            "Grade": "57%"
+        },
+        {
+            "Id": "옥기",
+            "Lv": "20",
+            "Job": "소총수",
+            "Address": "그린 호수8호",
+            "Attendance": "5",
+            "Contribution": "642565",
+            "Rank": "24",
+            "Rankname": "백금등급",
+            "Grade": "57%"
+        },
+        {
+            "Id": "부빈",
+            "Lv": "20",
+            "Job": "소총수",
+            "Address": "그린 호수7호",
+            "Attendance": "2",
+            "Contribution": "542583",
+            "Rank": "25",
+            "Rankname": "백금등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "Dollar",
+            "Lv": "24",
+            "Job": "기계공",
+            "Address": "센터 정원5",
+            "Attendance": "12",
+            "Contribution": "483333",
+            "Rank": "26",
+            "Rankname": "백금등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "세리닝",
+            "Lv": "23",
+            "Job": "마채집가",
+            "Address": "써니 랜드 24호",
+            "Attendance": "35",
+            "Contribution": "463189",
+            "Rank": "27",
+            "Rankname": "백금등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "LRN",
+            "Lv": "22",
+            "Job": "바학",
+            "Address": "센터 정원4호",
+            "Attendance": "7",
+            "Contribution": "395647",
+            "Rank": "28",
+            "Rankname": "화염등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "구미베어",
+            "Lv": "21",
+            "Job": "바학",
+            "Address": "선샤인 베이24호",
+            "Attendance": "1",
+            "Contribution": "390505",
+            "Rank": "29",
+            "Rankname": "화염등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "ㅋㅎ",
+            "Lv": "22",
+            "Job": "광부",
+            "Address": "그린 호수3호",
+            "Attendance": "0",
+            "Contribution": "379993",
+            "Rank": "30",
+            "Rankname": "화염등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "앤하루",
+            "Lv": "22",
+            "Job": "바학",
+            "Address": "써니 랜드11호",
+            "Attendance": "0",
+            "Contribution": "378272",
+            "Rank": "31",
+            "Rankname": "화염등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "NEO",
+            "Lv": "20",
+            "Job": "바학",
+            "Address": "푸른 강가16호",
+            "Attendance": "11",
+            "Contribution": "372583",
+            "Rank": "32",
+            "Rankname": "화염등급",
+            "Grade": "79%"
+        },
+        {
+            "Id": "천개의바람",
+            "Lv": "20",
+            "Job": "바학",
+            "Address": "써니 랜드10호",
+            "Contribution": "363387",
+            "Rank": "33",
+            "Rankname": "화염등급",
+            "Grade": "0.79"
+        },
+        {
+            "Id": "뚯-뚜루",
+            "Lv": "21",
+            "Job": "바학",
+            "Address": "센터 정원6호",
+            "Attendance": "24",
+            "Contribution": "345050",
+            "Rank": "34",
+            "Rankname": "화염등급",
+            "Grade": "86%"
+        },
+        {
+            "Id": "징징",
+            "Lv": "20",
+            "Job": "기계공",
+            "Address": "그린 호수11호",
+            "Attendance": "1",
+            "Contribution": "339436",
+            "Rank": "35",
+            "Rankname": "화염등급",
+            "Grade": "86%"
+        },
+        {
+            "Id": "홀로롤로롤롤",
+            "Lv": "22",
+            "Job": "바학",
+            "Address": "센터 정원4호",
+            "Attendance": "3",
+            "Contribution": "255679",
+            "Rank": "36",
+            "Rankname": "화염등급",
+            "Grade": "86%"
+        },
+        {
+            "Id": "Belita",
+            "Lv": "20",
+            "Job": "기계공",
+            "Address": "선샤인 베이16호",
+            "Attendance": "1",
+            "Contribution": "167368",
+            "Rank": "37",
+            "Rankname": "화염등급",
+            "Grade": "91%"
+        },
+        {
+            "Id": "봄느님",
+            "Lv": "22",
+            "Job": "바학",
+            "Address": "선샤인 베이8호",
+            "Attendance": "0",
+            "Contribution": "47981",
+            "Rank": "38",
+            "Rankname": "화염등급",
+            "Grade": "91%"
+        },
+        {
+            "Id": "크림단팥빵",
+            "Lv": "20",
+            "Job": "마채집가",
+            "Address": "푸른 강가4호",
+            "Contribution": "39460",
+            "Rank": "39",
+            "Rankname": "화염등급",
+            "Grade": "0.93"
+        },
+        {
+            "Id": "여유",
+            "Lv": "21",
+            "Job": "무사",
+            "Address": "꽃말 언덕17호",
+            "Attendance": "26",
+            "Contribution": "13225",
             "Rank": "40",
-            "Rankname": "블아등급",
-            "Grade": "17%"
+            "Rankname": "화염등급",
+            "Grade": "100%"
+        },
+        {
+            "Id": "아무거난",
+            "Lv": "20",
+            "Job": "저격수",
+            "Address": "스톰 포레스트3호",
+            "Contribution": "10475",
+            "Rank": "41",
+            "Rankname": "화염등급",
+            "Grade": "1"
+        },
+        {
+            "Id": "맥스웰",
+            "Lv": "20",
+            "Job": "마채집가",
+            "Address": "꽃말언덕4호",
+            "Contribution": "0",
+            "Rank": "42",
+            "Rankname": "화염등급",
+            "Grade": "1"
         }
     ],
     "rank": [
@@ -6769,16 +6787,151 @@
     ],
     "quiz": [
         {
+            "quiz": "가오리구이"
+        },
+        {
+            "quiz": "가자미찜"
+        },
+        {
+            "quiz": "가죽"
+        },
+        {
+            "quiz": "간이랜턴"
+        },
+        {
+            "quiz": "간장말뚝망둥어조림"
+        },
+        {
+            "quiz": "간장모샘치조림"
+        },
+        {
+            "quiz": "간장무조림"
+        },
+        {
+            "quiz": "간장뱀장어조림"
+        },
+        {
+            "quiz": "간장연자홍조림"
+        },
+        {
+            "quiz": "간장죽순찜"
+        },
+        {
+            "quiz": "갈비무탕"
+        },
+        {
+            "quiz": "갈비미역국"
+        },
+        {
+            "quiz": "갈치구이"
+        },
+        {
+            "quiz": "감염혈액"
+        },
+        {
+            "quiz": "감자고기볶음"
+        },
+        {
+            "quiz": "감자구이"
+        },
+        {
+            "quiz": "감자밥"
+        },
+        {
+            "quiz": "감자볶음"
+        },
+        {
+            "quiz": "감자부침"
+        },
+        {
+            "quiz": "감자전"
+        },
+        {
+            "quiz": "감자찜닭밥"
+        },
+        {
+            "quiz": "감자차돌박이덮밥"
+        },
+        {
+            "quiz": "감자채전"
+        },
+        {
+            "quiz": "감자채튀김"
+        },
+        {
+            "quiz": "감자튀김"
+        },
+        {
+            "quiz": "감주찰떡"
+        },
+        {
             "quiz": "강력한신체"
+        },
+        {
+            "quiz": "강철"
+        },
+        {
+            "quiz": "강철주먹"
+        },
+        {
+            "quiz": "개복치구이"
+        },
+        {
+            "quiz": "개운죽"
         },
         {
             "quiz": "거래의도시"
         },
         {
+            "quiz": "검은악마"
+        },
+        {
             "quiz": "게임의대가"
         },
         {
+            "quiz": "게찜"
+        },
+        {
+            "quiz": "견과류햄월병"
+        },
+        {
+            "quiz": "경질유리"
+        },
+        {
+            "quiz": "경찰용전투복"
+        },
+        {
+            "quiz": "계란말이"
+        },
+        {
+            "quiz": "계란와플"
+        },
+        {
+            "quiz": "고급보물지도"
+        },
+        {
             "quiz": "고급장원패키지"
+        },
+        {
+            "quiz": "고기계란만두"
+        },
+        {
+            "quiz": "고기꼬치"
+        },
+        {
+            "quiz": "고기무침"
+        },
+        {
+            "quiz": "고기빈대떡"
+        },
+        {
+            "quiz": "고기야채볶음"
+        },
+        {
+            "quiz": "고기완자"
+        },
+        {
+            "quiz": "고기찹쌀만두"
         },
         {
             "quiz": "고붕만좌"
@@ -6787,7 +6940,85 @@
             "quiz": "고압화로"
         },
         {
+            "quiz": "고추계란볶음"
+        },
+        {
+            "quiz": "고추기름물만두"
+        },
+        {
+            "quiz": "고추머리찜"
+        },
+        {
+            "quiz": "고추장"
+        },
+        {
+            "quiz": "골든콘샐러드"
+        },
+        {
+            "quiz": "과일막대사탕"
+        },
+        {
+            "quiz": "과일맛아이스바"
+        },
+        {
+            "quiz": "과일빙수"
+        },
+        {
+            "quiz": "과일샐러드"
+        },
+        {
+            "quiz": "과일약과"
+        },
+        {
+            "quiz": "과일우유"
+        },
+        {
+            "quiz": "과일잼"
+        },
+        {
+            "quiz": "과일잼빵"
+        },
+        {
+            "quiz": "과일주스"
+        },
+        {
+            "quiz": "과일차"
+        },
+        {
+            "quiz": "과일케이크"
+        },
+        {
+            "quiz": "과일파이"
+        },
+        {
+            "quiz": "과일화채"
+        },
+        {
+            "quiz": "광어구이"
+        },
+        {
+            "quiz": "구문룡"
+        },
+        {
+            "quiz": "구운멜론칩"
+        },
+        {
+            "quiz": "구운버섯"
+        },
+        {
+            "quiz": "구운빵"
+        },
+        {
+            "quiz": "구운옥수수"
+        },
+        {
             "quiz": "귀여운고질라쇼파"
+        },
+        {
+            "quiz": "귀여운주먹밥"
+        },
+        {
+            "quiz": "귀여운페페등롱"
         },
         {
             "quiz": "그레인평원"
@@ -6799,22 +7030,223 @@
             "quiz": "그림의신"
         },
         {
+            "quiz": "극저온용강"
+        },
+        {
+            "quiz": "금빛아머"
+        },
+        {
             "quiz": "기술개발장치"
+        },
+        {
+            "quiz": "기습의칼"
+        },
+        {
+            "quiz": "꼬치구이"
+        },
+        {
+            "quiz": "꽁치구이"
+        },
+        {
+            "quiz": "꽃게구이"
+        },
+        {
+            "quiz": "꽃등"
+        },
+        {
+            "quiz": "꿀레몬"
+        },
+        {
+            "quiz": "꿀맛바베큐"
+        },
+        {
+            "quiz": "꿀물"
+        },
+        {
+            "quiz": "나노섬유"
+        },
+        {
+            "quiz": "나무펜스"
+        },
+        {
+            "quiz": "나사못"
+        },
+        {
+            "quiz": "나시고랭"
+        },
+        {
+            "quiz": "나시르막"
+        },
+        {
+            "quiz": "나일론"
+        },
+        {
+            "quiz": "나일론천"
+        },
+        {
+            "quiz": "날치생선회"
+        },
+        {
+            "quiz": "남정석아머"
+        },
+        {
+            "quiz": "내열합금"
+        },
+        {
+            "quiz": "내후성강"
         },
         {
             "quiz": "낸시시티미니게임"
         },
         {
+            "quiz": "냉국수"
+        },
+        {
+            "quiz": "냉동레몬슬라이스"
+        },
+        {
+            "quiz": "너클"
+        },
+        {
+            "quiz": "노란연밥월병"
+        },
+        {
+            "quiz": "노랑가오리구이"
+        },
+        {
+            "quiz": "녹두고기찹쌀밥"
+        },
+        {
+            "quiz": "녹두햄찹쌀밥"
+        },
+        {
+            "quiz": "녹차물밥"
+        },
+        {
+            "quiz": "놀래기구이"
+        },
+        {
             "quiz": "놀이공원자전거"
+        },
+        {
+            "quiz": "농산물제작기"
+        },
+        {
+            "quiz": "농어구이"
+        },
+        {
+            "quiz": "늑대아머"
+        },
+        {
+            "quiz": "늑대헬멧"
         },
         {
             "quiz": "다이나믹트렌드"
         },
         {
+            "quiz": "다크나이트철갑"
+        },
+        {
+            "quiz": "단단면"
+        },
+        {
+            "quiz": "단호박계란찜"
+        },
+        {
+            "quiz": "단호박튀김"
+        },
+        {
+            "quiz": "달걀감자샐러드"
+        },
+        {
+            "quiz": "달걀고기볶음"
+        },
+        {
+            "quiz": "달걀딤섬"
+        },
+        {
+            "quiz": "달걀볶음밥"
+        },
+        {
+            "quiz": "달걀찜"
+        },
+        {
+            "quiz": "달걀찹쌀만두"
+        },
+        {
             "quiz": "달빛보리밭"
         },
         {
+            "quiz": "달콤계란탕"
+        },
+        {
+            "quiz": "달콤한버섯"
+        },
+        {
+            "quiz": "달콤한야채죽"
+        },
+        {
+            "quiz": "달콤한찹쌀밥"
+        },
+        {
+            "quiz": "당근고기전병"
+        },
+        {
+            "quiz": "당근사과주스"
+        },
+        {
+            "quiz": "당근옥수수주스"
+        },
+        {
+            "quiz": "당근풍선"
+        },
+        {
+            "quiz": "대구찜"
+        },
+        {
+            "quiz": "대짜은행게찜"
+        },
+        {
+            "quiz": "대창국수"
+        },
+        {
+            "quiz": "대창볶음"
+        },
+        {
+            "quiz": "대포인절미"
+        },
+        {
             "quiz": "도로시하비"
+        },
+        {
+            "quiz": "돌솥밥"
+        },
+        {
+            "quiz": "돌솥비빔밥"
+        },
+        {
+            "quiz": "돼지고기당면볶음"
+        },
+        {
+            "quiz": "돼지고기덮밥"
+        },
+        {
+            "quiz": "돼지고기버거"
+        },
+        {
+            "quiz": "돼지고기찜"
+        },
+        {
+            "quiz": "돼지내장찹쌀만두"
+        },
+        {
+            "quiz": "두부돼지고기볶음"
+        },
+        {
+            "quiz": "두부조림"
+        },
+        {
+            "quiz": "드렁허리구이"
         },
         {
             "quiz": "등지느러미"
@@ -6823,19 +7255,106 @@
             "quiz": "따끈한디저트"
         },
         {
+            "quiz": "따뜻한물"
+        },
+        {
+            "quiz": "따뜻한우유"
+        },
+        {
+            "quiz": "딸기레몬에이드"
+        },
+        {
+            "quiz": "딸기와플"
+        },
+        {
+            "quiz": "딸기요거트아이스크림"
+        },
+        {
+            "quiz": "딸기젤리"
+        },
+        {
+            "quiz": "딸기주먹밥"
+        },
+        {
+            "quiz": "떡밥"
+        },
+        {
+            "quiz": "똠얌꿍"
+        },
+        {
+            "quiz": "똠양꿍"
+        },
+        {
+            "quiz": "뜨거운차"
+        },
+        {
             "quiz": "라우드러스트"
+        },
+        {
+            "quiz": "라유국수"
+        },
+        {
+            "quiz": "라유만두국"
         },
         {
             "quiz": "라이프애프터"
         },
         {
+            "quiz": "라임생선찜"
+        },
+        {
             "quiz": "래브라도"
+        },
+        {
+            "quiz": "레드닷산탄총"
+        },
+        {
+            "quiz": "레드레이서"
         },
         {
             "quiz": "레드우드다과회"
         },
         {
             "quiz": "레드우드호위대"
+        },
+        {
+            "quiz": "레모네이드"
+        },
+        {
+            "quiz": "레몬꿀차"
+        },
+        {
+            "quiz": "레몬마들렌"
+        },
+        {
+            "quiz": "레몬맛막대사탕"
+        },
+        {
+            "quiz": "레몬보리새우찜"
+        },
+        {
+            "quiz": "레몬새우"
+        },
+        {
+            "quiz": "레몬생선탕"
+        },
+        {
+            "quiz": "레몬소스감자"
+        },
+        {
+            "quiz": "레몬시폰케이크"
+        },
+        {
+            "quiz": "레몬아이스크림"
+        },
+        {
+            "quiz": "레몬오렌지주스"
+        },
+        {
+            "quiz": "레몬잼"
+        },
+        {
+            "quiz": "레몬치즈케이크"
         },
         {
             "quiz": "레빈시교외"
@@ -6847,28 +7366,205 @@
             "quiz": "레인보우헤븐"
         },
         {
+            "quiz": "레토산탄총"
+        },
+        {
+            "quiz": "리볼버식산탄총"
+        },
+        {
             "quiz": "리브섬"
+        },
+        {
+            "quiz": "마라고기볶음"
+        },
+        {
+            "quiz": "마라뚝배기쌀국수"
+        },
+        {
+            "quiz": "마라샹궈"
         },
         {
             "quiz": "마라웨지감자"
         },
         {
+            "quiz": "마라탕"
+        },
+        {
             "quiz": "마채집전문가"
+        },
+        {
+            "quiz": "마파두부"
+        },
+        {
+            "quiz": "말쥐치구이"
+        },
+        {
+            "quiz": "말차케이크"
+        },
+        {
+            "quiz": "말차푸딩"
+        },
+        {
+            "quiz": "맑은국물바닷가재"
+        },
+        {
+            "quiz": "맑은생선탕"
+        },
+        {
+            "quiz": "맑은쏘가리탕"
+        },
+        {
+            "quiz": "맑은짬뽕"
+        },
+        {
+            "quiz": "망고밀크셰이크"
+        },
+        {
+            "quiz": "망고빙수"
+        },
+        {
+            "quiz": "망고우유푸딩"
+        },
+        {
+            "quiz": "망고잼"
+        },
+        {
+            "quiz": "망고타르트"
+        },
+        {
+            "quiz": "망고팬케이크"
+        },
+        {
+            "quiz": "망고푸딩"
+        },
+        {
+            "quiz": "망고허니주스"
+        },
+        {
+            "quiz": "매시포테이토"
+        },
+        {
+            "quiz": "매시포테이토(특별)"
+        },
+        {
+            "quiz": "매운꽃게볶음"
+        },
+        {
+            "quiz": "매운오징어볶음"
+        },
+        {
+            "quiz": "매운옥수수수프"
+        },
+        {
+            "quiz": "매운탕"
+        },
+        {
+            "quiz": "매콤달콤완자"
+        },
+        {
+            "quiz": "매콤수박껍질볶음"
+        },
+        {
+            "quiz": "매콤한국수"
+        },
+        {
+            "quiz": "매콤한무절임"
+        },
+        {
+            "quiz": "매콤한비빔면"
+        },
+        {
+            "quiz": "메기구이"
         },
         {
             "quiz": "메로베크성"
         },
         {
+            "quiz": "멜론밀크셰이크"
+        },
+        {
+            "quiz": "멜론아이스바"
+        },
+        {
+            "quiz": "멜론아이스크림"
+        },
+        {
+            "quiz": "멜론잼"
+        },
+        {
+            "quiz": "멜론주스"
+        },
+        {
+            "quiz": "멜론케이크"
+        },
+        {
+            "quiz": "멜론코코넛푸딩"
+        },
+        {
+            "quiz": "멸치튀김"
+        },
+        {
+            "quiz": "모둠딤섬"
+        },
+        {
+            "quiz": "모둠세트"
+        },
+        {
+            "quiz": "모듬과일"
+        },
+        {
+            "quiz": "모직"
+        },
+        {
             "quiz": "몬드라곤소총"
+        },
+        {
+            "quiz": "무기부속품"
         },
         {
             "quiz": "무기상점점장"
         },
         {
+            "quiz": "무기실리콘"
+        },
+        {
+            "quiz": "무떡"
+        },
+        {
+            "quiz": "무버섯탕"
+        },
+        {
+            "quiz": "무쇠"
+        },
+        {
             "quiz": "무역연맹"
         },
         {
+            "quiz": "무연화약"
+        },
+        {
+            "quiz": "무지개유니콘"
+        },
+        {
+            "quiz": "무채고기밥"
+        },
+        {
+            "quiz": "무채달걀탕"
+        },
+        {
+            "quiz": "무채전"
+        },
+        {
+            "quiz": "무채탕"
+        },
+        {
             "quiz": "문명보호자"
+        },
+        {
+            "quiz": "물만두"
+        },
+        {
+            "quiz": "물총"
         },
         {
             "quiz": "미래용사"
@@ -6877,43 +7573,322 @@
             "quiz": "미식마스터"
         },
         {
+            "quiz": "미트소스스파게티"
+        },
+        {
+            "quiz": "민물새우찜"
+        },
+        {
+            "quiz": "밀리터리전투복"
+        },
+        {
+            "quiz": "밀림아머"
+        },
+        {
+            "quiz": "밀크크로아상"
+        },
+        {
             "quiz": "바다의풍경"
+        },
+        {
+            "quiz": "바닷가재요리"
+        },
+        {
+            "quiz": "바로크"
+        },
+        {
+            "quiz": "바베큐"
+        },
+        {
+            "quiz": "바삭바삭한전병과자"
+        },
+        {
+            "quiz": "바삭한사과칩"
+        },
+        {
+            "quiz": "바삭한사과튀김"
+        },
+        {
+            "quiz": "반곡활"
+        },
+        {
+            "quiz": "반딧불이사육상자"
+        },
+        {
+            "quiz": "밤고기찹쌀밥"
+        },
+        {
+            "quiz": "밤새우찹쌀밥"
+        },
+        {
+            "quiz": "방탄무장"
+        },
+        {
+            "quiz": "방폭경찰"
         },
         {
             "quiz": "방한모자"
         },
         {
+            "quiz": "백금아머"
+        },
+        {
             "quiz": "백발노인"
+        },
+        {
+            "quiz": "백의천사"
+        },
+        {
+            "quiz": "백화부레"
+        },
+        {
+            "quiz": "버섯계란찜"
+        },
+        {
+            "quiz": "버섯고기꼬치"
+        },
+        {
+            "quiz": "버섯고추볶음"
+        },
+        {
+            "quiz": "버섯국"
+        },
+        {
+            "quiz": "버섯수프"
+        },
+        {
+            "quiz": "버섯우동"
+        },
+        {
+            "quiz": "벌꿀사탕"
         },
         {
             "quiz": "벚꽃이야기"
         },
         {
+            "quiz": "베리치즈케이크"
+        },
+        {
+            "quiz": "베이컨감자밥"
+        },
+        {
+            "quiz": "베이컨감자빵"
+        },
+        {
+            "quiz": "베테랑경찰"
+        },
+        {
             "quiz": "별의아이"
+        },
+        {
+            "quiz": "복덩이"
+        },
+        {
+            "quiz": "복어구이"
         },
         {
             "quiz": "불사의병사"
         },
         {
+            "quiz": "붉은메탈아머"
+        },
+        {
             "quiz": "붉은석림"
+        },
+        {
+            "quiz": "블루길구이"
+        },
+        {
+            "quiz": "블루메탈아머"
+        },
+        {
+            "quiz": "블루베리야자쿠키"
+        },
+        {
+            "quiz": "블루베리쿠키"
+        },
+        {
+            "quiz": "비늘돔구이"
         },
         {
             "quiz": "비단잉어"
         },
         {
+            "quiz": "비단잉어회"
+        },
+        {
+            "quiz": "비정질합금"
+        },
+        {
             "quiz": "비취나무내음"
+        },
+        {
+            "quiz": "비타민열매찹쌀푸딩"
+        },
+        {
+            "quiz": "빙극어부침개"
+        },
+        {
+            "quiz": "빨간색알약"
+        },
+        {
+            "quiz": "빨간색풍선"
+        },
+        {
+            "quiz": "뿌팟퐁커리"
+        },
+        {
+            "quiz": "사과감자튀김"
+        },
+        {
+            "quiz": "사과바닐라와플"
+        },
+        {
+            "quiz": "사과잼"
+        },
+        {
+            "quiz": "사과파이"
+        },
+        {
+            "quiz": "사랑의도시락"
+        },
+        {
+            "quiz": "사막갑옷"
+        },
+        {
+            "quiz": "사막무장"
+        },
+        {
+            "quiz": "사막스파이"
+        },
+        {
+            "quiz": "산천어구이"
+        },
+        {
+            "quiz": "산초소금갯가재"
+        },
+        {
+            "quiz": "산호벨벳"
+        },
+        {
+            "quiz": "살치회"
+        },
+        {
+            "quiz": "삶은달걀"
+        },
+        {
+            "quiz": "삼겹살두루치기"
+        },
+        {
+            "quiz": "삼색새우"
+        },
+        {
+            "quiz": "삼치구이"
         },
         {
             "quiz": "상단후방지원대원"
         },
         {
+            "quiz": "새우감자오믈렛"
+        },
+        {
+            "quiz": "새우계란찜"
+        },
+        {
+            "quiz": "새우알국수"
+        },
+        {
+            "quiz": "새우완탕"
+        },
+        {
+            "quiz": "새우찹쌀만두"
+        },
+        {
             "quiz": "새하얀길"
+        },
+        {
+            "quiz": "샌드위치"
+        },
+        {
+            "quiz": "생강맛우유푸딩"
+        },
+        {
+            "quiz": "생강탕"
+        },
+        {
+            "quiz": "생새우카레볶음밥"
+        },
+        {
+            "quiz": "생선튀김"
         },
         {
             "quiz": "생존자서비스센터"
         },
         {
+            "quiz": "생존전문가"
+        },
+        {
+            "quiz": "생체공학갑편"
+        },
+        {
+            "quiz": "서대부침개"
+        },
+        {
+            "quiz": "석줄돔구이"
+        },
+        {
+            "quiz": "설퍼러스아머"
+        },
+        {
+            "quiz": "섬유직물"
+        },
+        {
+            "quiz": "소고기감자찜"
+        },
+        {
+            "quiz": "소고기무채볶음"
+        },
+        {
+            "quiz": "소내장볶음"
+        },
+        {
+            "quiz": "소재변환기"
+        },
+        {
+            "quiz": "송어구이"
+        },
+        {
+            "quiz": "송이버섯버터구이"
+        },
+        {
+            "quiz": "솥뚜껑전병"
+        },
+        {
+            "quiz": "쇠고기사과샌드위치"
+        },
+        {
+            "quiz": "쇠고기치즈햄버거"
+        },
+        {
             "quiz": "수묵의의미"
+        },
+        {
+            "quiz": "수박레몬소다수"
+        },
+        {
+            "quiz": "수육"
+        },
+        {
+            "quiz": "수육냉채"
+        },
+        {
+            "quiz": "수정새우교자"
+        },
+        {
+            "quiz": "수정족발"
+        },
+        {
+            "quiz": "수조기구이"
         },
         {
             "quiz": "숙명의수호자"
@@ -6922,10 +7897,73 @@
             "quiz": "순백의항로"
         },
         {
+            "quiz": "술귀신땅콩"
+        },
+        {
+            "quiz": "스카이철갑"
+        },
+        {
             "quiz": "스타장원랭킹"
         },
         {
+            "quiz": "스테이크코스요리"
+        },
+        {
+            "quiz": "스파이더활"
+        },
+        {
+            "quiz": "스프링"
+        },
+        {
+            "quiz": "시바견"
+        },
+        {
+            "quiz": "시원한과일빙수"
+        },
+        {
+            "quiz": "신경안정제"
+        },
+        {
             "quiz": "신데렐라의꿈"
+        },
+        {
+            "quiz": "신비의보물지도"
+        },
+        {
+            "quiz": "실버코뿔소헬맷"
+        },
+        {
+            "quiz": "심야갑옷"
+        },
+        {
+            "quiz": "심야스파이"
+        },
+        {
+            "quiz": "싱어찜"
+        },
+        {
+            "quiz": "쌀"
+        },
+        {
+            "quiz": "쌀국수"
+        },
+        {
+            "quiz": "쌀밥고기완자"
+        },
+        {
+            "quiz": "썬더볼트엔진"
+        },
+        {
+            "quiz": "쏘가리구이"
+        },
+        {
+            "quiz": "아말감"
+        },
+        {
+            "quiz": "아이스야자월병"
+        },
+        {
+            "quiz": "아주개운한새우탕"
         },
         {
             "quiz": "알루미늄합금"
@@ -6934,13 +7972,85 @@
             "quiz": "암초의섬"
         },
         {
+            "quiz": "애저아머"
+        },
+        {
+            "quiz": "앵무새"
+        },
+        {
+            "quiz": "야구모자"
+        },
+        {
+            "quiz": "야생전문가"
+        },
+        {
+            "quiz": "야자계란찜"
+        },
+        {
+            "quiz": "야자빵"
+        },
+        {
+            "quiz": "야자젤리"
+        },
+        {
+            "quiz": "야자주스"
+        },
+        {
+            "quiz": "야자찜밥"
+        },
+        {
+            "quiz": "야자케이크"
+        },
+        {
+            "quiz": "야자향바비큐"
+        },
+        {
+            "quiz": "야채계란전병"
+        },
+        {
+            "quiz": "야채빈대떡"
+        },
+        {
+            "quiz": "양날도끼"
+        },
+        {
+            "quiz": "어묵"
+        },
+        {
+            "quiz": "어묵채소탕"
+        },
+        {
+            "quiz": "어묵칼국수"
+        },
+        {
+            "quiz": "어향육사"
+        },
+        {
             "quiz": "언덕의공장"
+        },
+        {
+            "quiz": "에그타르트"
         },
         {
             "quiz": "에이스공중전"
         },
         {
+            "quiz": "엔지니어링플라스틱"
+        },
+        {
             "quiz": "연맹스토어"
+        },
+        {
+            "quiz": "연어구이"
+        },
+        {
+            "quiz": "연어회"
+        },
+        {
+            "quiz": "연자성합금"
+        },
+        {
+            "quiz": "염황아머"
         },
         {
             "quiz": "영광의순간"
@@ -6949,7 +8059,100 @@
             "quiz": "영국탐정"
         },
         {
+            "quiz": "영양스튜"
+        },
+        {
             "quiz": "영원한청춘"
+        },
+        {
+            "quiz": "오렌지게찜"
+        },
+        {
+            "quiz": "오렌지껍질절임"
+        },
+        {
+            "quiz": "오렌지달걀찜"
+        },
+        {
+            "quiz": "오렌지맛막대사탕"
+        },
+        {
+            "quiz": "오렌지쉬폰케이크"
+        },
+        {
+            "quiz": "오렌지우유푸딩"
+        },
+        {
+            "quiz": "오렌지잼"
+        },
+        {
+            "quiz": "오렌지주스"
+        },
+        {
+            "quiz": "오렌지쿠키"
+        },
+        {
+            "quiz": "오르간포테이토"
+        },
+        {
+            "quiz": "오리선지탕"
+        },
+        {
+            "quiz": "오므라이스"
+        },
+        {
+            "quiz": "오믈렛"
+        },
+        {
+            "quiz": "오색빛깔원형유리"
+        },
+        {
+            "quiz": "오이고기볶음"
+        },
+        {
+            "quiz": "오이달걀볶음"
+        },
+        {
+            "quiz": "오이말이"
+        },
+        {
+            "quiz": "오이무침"
+        },
+        {
+            "quiz": "오이지"
+        },
+        {
+            "quiz": "오징어구이"
+        },
+        {
+            "quiz": "오징어링튀김"
+        },
+        {
+            "quiz": "옥수수고기볶음"
+        },
+        {
+            "quiz": "옥수수비스킷"
+        },
+        {
+            "quiz": "옥수수사골탕"
+        },
+        {
+            "quiz": "옥수수야자스튜"
+        },
+        {
+            "quiz": "옥수수전"
+        },
+        {
+            "quiz": "옥수수케이크"
+        },
+        {
+            "quiz": "옥수수푸딩"
+        },
+        {
+            "quiz": "옥수수호박죽"
+        },
+        {
+            "quiz": "왕고기찹쌀밥"
         },
         {
             "quiz": "요동치는장비"
@@ -6958,19 +8161,103 @@
             "quiz": "용비봉무"
         },
         {
+            "quiz": "용안육수프"
+        },
+        {
+            "quiz": "우럭구이"
+        },
+        {
+            "quiz": "우어튀김"
+        },
+        {
+            "quiz": "우유고기찜"
+        },
+        {
+            "quiz": "우유젤리푸딩"
+        },
+        {
+            "quiz": "우유증편"
+        },
+        {
+            "quiz": "우유치즈미음"
+        },
+        {
+            "quiz": "우유푸딩"
+        },
+        {
+            "quiz": "웅어구이"
+        },
+        {
+            "quiz": "유기농오디잼"
+        },
+        {
+            "quiz": "유기농크랜베리쿠키"
+        },
+        {
+            "quiz": "육각못"
+        },
+        {
+            "quiz": "은빛야생마아머"
+        },
+        {
+            "quiz": "은어구이"
+        },
+        {
             "quiz": "은행나무묘목"
         },
         {
             "quiz": "음악알람시계"
         },
         {
+            "quiz": "일반방충제"
+        },
+        {
+            "quiz": "일반방한제"
+        },
+        {
+            "quiz": "일반보물지도"
+        },
+        {
+            "quiz": "일반영양액"
+        },
+        {
+            "quiz": "잉어구이"
+        },
+        {
+            "quiz": "자라구이"
+        },
+        {
             "quiz": "자유로운청춘"
+        },
+        {
+            "quiz": "장검"
+        },
+        {
+            "quiz": "장미꽃사과파이"
         },
         {
             "quiz": "장비제작대"
         },
         {
+            "quiz": "장어구이"
+        },
+        {
+            "quiz": "재봉실"
+        },
+        {
+            "quiz": "전기방사"
+        },
+        {
+            "quiz": "전기봉"
+        },
+        {
+            "quiz": "전기저항합금"
+        },
+        {
             "quiz": "전력공급소"
+        },
+        {
+            "quiz": "전용주철"
         },
         {
             "quiz": "전장엘리트"
@@ -6979,7 +8266,25 @@
             "quiz": "전장종결"
         },
         {
+            "quiz": "전통등롱"
+        },
+        {
             "quiz": "전투민족"
+        },
+        {
+            "quiz": "전투엘리트"
+        },
+        {
+            "quiz": "절단칼"
+        },
+        {
+            "quiz": "절인오리알햄버그"
+        },
+        {
+            "quiz": "정교한탄약함"
+        },
+        {
+            "quiz": "정제밀가루"
         },
         {
             "quiz": "제육볶음"
@@ -6997,16 +8302,100 @@
             "quiz": "주말조각보급"
         },
         {
+            "quiz": "주황무장"
+        },
+        {
+            "quiz": "죽순고기볶음"
+        },
+        {
+            "quiz": "죽순고추절임"
+        },
+        {
+            "quiz": "죽순달걀만두"
+        },
+        {
+            "quiz": "죽순달걀볶음"
+        },
+        {
+            "quiz": "죽순볶음"
+        },
+        {
+            "quiz": "죽순찜"
+        },
+        {
+            "quiz": "죽순탕"
+        },
+        {
+            "quiz": "준치찜"
+        },
+        {
+            "quiz": "중탄소강"
+        },
+        {
+            "quiz": "중형무장"
+        },
+        {
+            "quiz": "쥐돌이"
+        },
+        {
+            "quiz": "진압외투"
+        },
+        {
             "quiz": "진홍의의상"
         },
         {
             "quiz": "질풍의격돌"
         },
         {
+            "quiz": "짧은유탄기관단총"
+        },
+        {
+            "quiz": "참깨단팥월병"
+        },
+        {
+            "quiz": "참깨죽"
+        },
+        {
+            "quiz": "참돔구이"
+        },
+        {
+            "quiz": "참마도"
+        },
+        {
+            "quiz": "참치밥말이"
+        },
+        {
+            "quiz": "참치회"
+        },
+        {
+            "quiz": "찹쌀푸딩"
+        },
+        {
             "quiz": "창공의꿈"
         },
         {
+            "quiz": "채소김밥"
+        },
+        {
+            "quiz": "채소찜구이"
+        },
+        {
+            "quiz": "천"
+        },
+        {
+            "quiz": "천마헬맷"
+        },
+        {
+            "quiz": "철근"
+        },
+        {
+            "quiz": "철사배트"
+        },
+        {
             "quiz": "청소년법칙"
+        },
+        {
+            "quiz": "청어구이"
         },
         {
             "quiz": "청춘의원칙"
@@ -7015,10 +8404,37 @@
             "quiz": "체력단련"
         },
         {
+            "quiz": "초급전자충전기"
+        },
+        {
+            "quiz": "초밥"
+        },
+        {
             "quiz": "최고의파트너"
         },
         {
+            "quiz": "축포"
+        },
+        {
+            "quiz": "치즈매시포테이토"
+        },
+        {
+            "quiz": "치즈소시지밥"
+        },
+        {
             "quiz": "친절한접대"
+        },
+        {
+            "quiz": "칠면조구이"
+        },
+        {
+            "quiz": "카레어묵"
+        },
+        {
+            "quiz": "캐러멜"
+        },
+        {
+            "quiz": "캐주얼모자"
         },
         {
             "quiz": "캠프순찰임무"
@@ -7030,10 +8446,70 @@
             "quiz": "컨트롤빌딩"
         },
         {
+            "quiz": "컬러풀토끼"
+        },
+        {
+            "quiz": "코브라"
+        },
+        {
+            "quiz": "코코넛망고젤리"
+        },
+        {
+            "quiz": "코코넛망고찹쌀밥"
+        },
+        {
+            "quiz": "코코넛타피오카"
+        },
+        {
+            "quiz": "코코넛후르츠밀크"
+        },
+        {
+            "quiz": "코팅천"
+        },
+        {
+            "quiz": "콘쉬림프피자"
+        },
+        {
             "quiz": "콜라보이쿠키"
         },
         {
+            "quiz": "콤파운드활"
+        },
+        {
+            "quiz": "쿠크리"
+        },
+        {
+            "quiz": "크림수프"
+        },
+        {
+            "quiz": "크림슨아머"
+        },
+        {
+            "quiz": "타보르돌격소총"
+        },
+        {
+            "quiz": "탄소강철"
+        },
+        {
             "quiz": "탄약보급상자"
+        },
+        {
+            "quiz": "탐험전문가"
+        },
+        {
+            "quiz": "토스트김밥"
+        },
+        {
+            "quiz": "톰슨기관단총"
+        },
+        {
+            "quiz": "톱니칼"
+        },
+        {
+            "quiz": "튀김"
+        },
+        {
+            "quiz": "특급고글"
         },
         {
             "quiz": "특수감염체토벌"
@@ -7045,73 +8521,235 @@
             "quiz": "특수지역작전"
         },
         {
+            "quiz": "특제피자"
+        },
+        {
+            "quiz": "티타늄합금"
+        },
+        {
+            "quiz": "티티"
+        },
+        {
+            "quiz": "틸라피아구이"
+        },
+        {
+            "quiz": "파감자"
+        },
+        {
             "quiz": "파도타기"
+        },
+        {
+            "quiz": "파이프"
+        },
+        {
+            "quiz": "파인애플밥"
+        },
+        {
+            "quiz": "파인애플빵"
+        },
+        {
+            "quiz": "파인애플케이크"
+        },
+        {
+            "quiz": "파인애플탕수육"
+        },
+        {
+            "quiz": "파초피라미요리"
         },
         {
             "quiz": "파플래닛"
         },
         {
+            "quiz": "팟타이"
+        },
+        {
+            "quiz": "패션자켓"
+        },
+        {
+            "quiz": "펑크자켓"
+        },
+        {
             "quiz": "페가수스자리"
+        },
+        {
+            "quiz": "평직"
+        },
+        {
+            "quiz": "포레스트철갑"
         },
         {
             "quiz": "포스트공업시대리더"
         },
         {
-            "quiz": "헬로이스"
+            "quiz": "폭죽"
         },
         {
-            "quiz": "화산쉘터"
+            "quiz": "폭죽점화기"
         },
         {
-            "quiz": "황금밀림"
+            "quiz": "폴리"
         },
         {
-            "quiz": "희망의골짜기"
+            "quiz": "표고버섯감자다진고기밥"
         },
         {
-            "quiz": "생새우카레볶음밥"
+            "quiz": "표고버섯돼지고기덮밥"
         },
         {
-            "quiz": "시원한과일빙수"
+            "quiz": "표고버섯새우찹쌀밥"
         },
         {
-            "quiz": "맑은국물바닷가재"
+            "quiz": "표고버섯죽순탕"
         },
         {
-            "quiz": "백화부레"
+            "quiz": "표고버섯햄찹쌀밥"
         },
         {
-            "quiz": "비단잉어회"
+            "quiz": "푸른메탈아머"
         },
         {
-            "quiz": "흑당찹쌀떡"
+            "quiz": "푸른호박아머"
         },
         {
-            "quiz": "수정새우교자"
+            "quiz": "푸팟퐁커리"
         },
         {
-            "quiz": "뿌팟퐁커리"
+            "quiz": "풀스틸방패"
+        },
+        {
+            "quiz": "풍등"
+        },
+        {
+            "quiz": "프렌치토스트"
+        },
+        {
+            "quiz": "프로펠러헬기"
+        },
+        {
+            "quiz": "플라스틱"
+        },
+        {
+            "quiz": "플란넬"
+        },
+        {
+            "quiz": "피단죽"
         },
         {
             "quiz": "피시앤드칩스"
         },
         {
-            "quiz": "귀여운주먹밥"
+            "quiz": "피아노"
         },
         {
-            "quiz": "라유국수"
-        },
-        {
-            "quiz": "헬레나베인"
+            "quiz": "하급밀가루"
         },
         {
             "quiz": "하이데르"
         },
         {
-            "quiz": "바로크"
+            "quiz": "학꽁치구이"
         },
         {
-            "quiz": "구문룡"
+            "quiz": "합금방패"
+        },
+        {
+            "quiz": "해물마라샹궈"
+        },
+        {
+            "quiz": "해물볶음밥"
+        },
+        {
+            "quiz": "해물볶음우동"
+        },
+        {
+            "quiz": "해물죽"
+        },
+        {
+            "quiz": "해산물스파게티"
+        },
+        {
+            "quiz": "햄달걀죽"
+        },
+        {
+            "quiz": "허니크로아상"
+        },
+        {
+            "quiz": "허니호박파이"
+        },
+        {
+            "quiz": "허름한천조각"
+        },
+        {
+            "quiz": "허브바베큐"
+        },
+        {
+            "quiz": "허브스크램블에그"
+        },
+        {
+            "quiz": "헬레나베인"
+        },
+        {
+            "quiz": "헬로이스"
+        },
+        {
+            "quiz": "호박랜턴"
+        },
+        {
+            "quiz": "호박양고기볶음밥"
+        },
+        {
+            "quiz": "호화대리석수족관"
+        },
+        {
+            "quiz": "혼방직물재료"
+        },
+        {
+            "quiz": "혼합과일차"
+        },
+        {
+            "quiz": "화목한푸딩"
+        },
+        {
+            "quiz": "화산쉘터"
+        },
+        {
+            "quiz": "화서어요리"
+        },
+        {
+            "quiz": "화염갑옷"
+        },
+        {
+            "quiz": "화염벤가드"
+        },
+        {
+            "quiz": "화염스파이"
+        },
+        {
+            "quiz": "환상의여지주스"
+        },
+        {
+            "quiz": "황금밀림"
+        },
+        {
+            "quiz": "훈제삼겹살"
+        },
+        {
+            "quiz": "흑당찹쌀떡"
+        },
+        {
+            "quiz": "흑색화약"
+        },
+        {
+            "quiz": "흑요석아머"
+        },
+        {
+            "quiz": "희망의골짜기"
+        },
+        {
+            "quiz": "흰동가리호박파이"
+        },
+        {
+            "quiz": "흰쌀밥"
         }
     ]
 }
