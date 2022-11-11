@@ -33,8 +33,9 @@
             "audience": "0,1,2",
             "best": "미스터리,서사",
             "best2": "공포,액션",
-            "best3": "멜로,애니메이션",
+            "best3": "멜로",
             "best4": "뮤지컬,코미디",
+            "best5": "애니메이션",
             "scenario1": "어드벤처물",
             "scenario2": "혼령",
             "scenario3": "전설",
@@ -821,7 +822,7 @@
             "star": "5",
             "audience": "3,2,2",
             "best": "액션",
-            "best2": "서사",
+            "best2": "서사,애니메이션",
             "scenario1": "SF물",
             "scenario2": "영웅",
             "scenario3": "로봇",
@@ -2088,8 +2089,8 @@
             "movie": "백 번째 거절",
             "star": "1",
             "audience": "1,2,0",
-            "best": "멜로",
-            "best2": "뮤지컬,코미디",
+            "best": "멜로,코미디",
+            "best2": "뮤지컬",
             "best3": "서사",
             "best4": "액션,미스터리,공포,애니메이션",
             "scenario1": "현대물",
@@ -2609,9 +2610,9 @@
             "talent3": "범죄자,영특한,청춘,터프가이",
             "talent4": "격투,범죄자,잔인,악당",
             "talent5": "비쥬얼,일편단심,청춘",
-            "con1": "남성,한국,청춘",
-            "con2": "남성,한국",
-            "con3": "남성,한국"
+            "con1": "남성,중국,청춘,예술",
+            "con2": "남성,중국",
+            "con3": "남성,중국"
         },
         {
             "picid": "105",
@@ -3195,7 +3196,8 @@
             "star": "2",
             "audience": "2,1,1",
             "best": "미스터리",
-            "best3": "서사,코미디",
+            "best3": "서사",
+            "best4": "코미디",
             "best5": "공포",
             "scenario1": "사극물",
             "scenario2": "역사",
@@ -3716,10 +3718,10 @@
             "movie": "몽키킹의 전설",
             "star": "4",
             "audience": "3,1,2",
-            "best": "애니메이션,액션,멜로",
+            "best": "애니메이션,액션",
             "best2": "서사",
             "best3": "코미디",
-            "best4": "공포,뮤지컬",
+            "best4": "공포,뮤지컬,멜로",
             "best5": "미스터리",
             "scenario1": "판타지물",
             "scenario2": "혼령",
@@ -3783,8 +3785,8 @@
             "name5": "늑대인간",
             "name6": "카에",
             "talent1": "건장한,격투,초능력,시련",
-            "talent2": "격투,초능력,비쥬얼,섹시,협객",
-            "talent3": "잔인,일편단심,악당,광기,음모가",
+            "talent2": "격투,비쥬얼,섹시,초능력,협객",
+            "talent3": "광기,악당,음모가,일편단심,잔인",
             "talent4": "건장한,격투,범죄자,악당,잔인",
             "talent5": "건장한,격투,악당,잔인,초능력",
             "talent6": "건장한,격투,터프가이,악당",
@@ -3821,6 +3823,7 @@
             "audience": "4,4,0",
             "best": "미스터리,서사",
             "best2": "액션",
+            "best5": "뮤지컬",
             "scenario1": "SF물",
             "scenario2": "타임슬립",
             "scenario3": "예술",
@@ -3833,7 +3836,7 @@
             "name4": "에밀리",
             "name5": "아세",
             "talent1": "주연,천재,총잡이,터프가이",
-            "talent2": "조연",
+            "talent2": "잔인,조연",
             "talent3": "격투,조연",
             "talent4": "비쥬얼,입담,주연",
             "talent5": "격투,범죄자,조연,터프가이",
@@ -4852,7 +4855,8 @@
             "movie": "벌집 구출작전",
             "star": "3",
             "audience": "4,1,0",
-            "best": "공포,액션",
+            "best": "공포,액션,서사",
+            "best2": "애니메이션",
             "scenario1": "SF물",
             "scenario2": "정치",
             "scenario3": "윤리",
@@ -5166,8 +5170,9 @@
             "movie": "뮤지컬의 세계로",
             "star": "3",
             "audience": "2,2,1",
-            "best": "뮤지컬",
-            "best3": "서사,애니메이션",
+            "best": "뮤지컬,멜로,코미디",
+            "best2": "애니메이션",
+            "best3": "서사",
             "best4": "코미디,미스터리,애니메이션",
             "best5": "액션,멜로",
             "scenario1": "드라마물",
@@ -7472,7 +7477,7 @@
             "talent2": "비쥬얼,청춘,우울,퇴폐미",
             "talent3": "건장한,영특한,충성심,입담",
             "talent4": "시련,충성심,터프가이,레이서",
-            "talent5": "정치인,시련",
+            "talent5": "시련,어르신,정치인",
             "talent6": "비쥬얼,학자",
             "con1": "중국,연기",
             "con2": "여성,청춘",
@@ -7484,7 +7489,7 @@
             "movie": "식인 상어",
             "star": "4",
             "audience": "3,2,1",
-            "best": "공포",
+            "best": "공포,액션",
             "best2": "미스터리",
             "best3": "서사",
             "scenario1": "어드벤처물",
@@ -7703,7 +7708,7 @@
             "name3": "캐어리",
             "talent1": "격투,군인,터프가이",
             "talent2": "비쥬얼,영특한,일편단심,청춘",
-            "talent3": "리더",
+            "talent3": "리더,악당",
             "con1": "남성,서양,연기",
             "con2": "외모,성숙,예술"
         },
@@ -7762,7 +7767,7 @@
             "talent2": "광기,무술,영특한,우울,주연",
             "talent3": "무술,시련,어르신,조연,천재",
             "talent4": "광기,격투,무술,악당,잔인,음모가",
-            "talent5": "섹시,순수,입담,조연,배금주의",
+            "talent5": "격투,섹시,순수,입담,조연,배금주의",
             "talent6": "무술,잔인",
             "con1": "남성",
             "con2": "중국,연기,예술",
@@ -7904,6 +7909,7 @@
             "audience": "3,2,1",
             "best": "액션,미스터리,서사",
             "best3": "공포",
+            "best4": "코미디,애니메이션",
             "best5": "뮤지컬,멜로",
             "scenario1": "범죄물",
             "scenario2": "총격전",
@@ -9545,6 +9551,7 @@
             "star": "4",
             "audience": "2,1,3",
             "best": "애니메이션,액션",
+            "best2": "코미디",
             "scenario1": "판타지물",
             "scenario2": "로봇",
             "scenario3": "영웅",
@@ -10942,7 +10949,9 @@
             "star": "4",
             "audience": "3,2,1",
             "best": "서사,코미디",
-            "best2": "액션",
+            "best2": "액션,미스터리",
+            "best4": "애니메이션",
+            "best5": "멜로",
             "scenario1": "범죄물",
             "scenario2": "영웅",
             "scenario3": "복수",
@@ -12982,19 +12991,22 @@
             "scenario1": "전쟁 영화",
             "scenario2": "정치",
             "scenario3": "영웅",
-            "actorcount": "4",
+            "actorcount": "5",
             "name1": "매상소",
             "name2": "봉황군주",
             "name3": "소혁",
             "name4": "맹지",
+            "name5": "비류",
             "talent1": "무술,비쥬얼,영특한,정치인,주연,청춘",
             "talent2": "리더,비쥬얼,일편단심,영특한,청춘",
             "talent3": "리더,무술,영특한,조연,청춘",
             "talent4": "건장한,리더,무술,시련,조연",
+            "talent5": "무술,비쥬얼,청춘",
             "con1": "남성,중국",
             "con2": "여성,중국",
             "con3": "남성,외모,예술",
-            "con4": "예능"
+            "con4": "예능",
+            "con5": "중국,외모,청춘"
         },
         {
             "picid": "608",
@@ -13060,8 +13072,8 @@
             "name5": "다리우스",
             "talent1": "격투,리더,터프가이",
             "talent2": "격투,영특한,입담",
-            "talent3": "리더,시련,악당",
-            "talent4": "건장한,격투,잔인,코믹",
+            "talent3": "리더,시련,악당,잔인",
+            "talent4": "건장한,격투,잔인,천재,코믹,터프가이",
             "talent5": "건장한",
             "con1": "남성",
             "con2": "서양,외모,예술",
@@ -13197,7 +13209,7 @@
             "talent1": "군인,터프가이,주연,천재,학자",
             "talent2": "비쥬얼,영특한,충성심,섹시,주연",
             "talent3": "비쥬얼,영특한,조연,청춘,순수,아역스타",
-            "talent4": "악당,천재,음모가,스파이,시련",
+            "talent4": "스파이,시련,악당,음모가,천재",
             "talent5": "시련,악당,잔인,음모가",
             "talent6": "학자,영특한,천재"
         },
@@ -13223,6 +13235,24 @@
             "con3": "성숙,예술",
             "con4": "예술",
             "con5": "한국,예능"
+        },
+        {
+            "picid": "619",
+            "movie": "아저씨",
+            "star": "5",
+            "actorcount": "0"
+        },
+        {
+            "picid": "620",
+            "movie": "독립군",
+            "star": "5",
+            "actorcount": "0"
+        },
+        {
+            "picid": "621",
+            "movie": "암살 작전",
+            "star": "5",
+            "actorcount": "0"
         },
         {
             "picid": "622",
@@ -13824,7 +13854,8 @@
             "movie": "폭발하기 전의 지구",
             "star": "5",
             "audience": "4,1,2",
-            "best": "서사",
+            "best": "서사,미스터리",
+            "best2": "액션",
             "scenario1": "SF물",
             "scenario2": "우주",
             "scenario3": "영웅",
@@ -15046,7 +15077,7 @@
         },
         {
             "picid": "736",
-            "movie": "하룻사이에 백발로",
+            "movie": "검은 머리가 백발이 되기까지",
             "star": "3",
             "audience": "2,3,0",
             "best": "서사,멜로",
@@ -15137,7 +15168,7 @@
             "movie": "세기의 약속",
             "star": "1",
             "audience": "2,1,0",
-            "best": "서사",
+            "best": "서사,멜로",
             "best2": "뮤지컬,액션",
             "best4": "코미디",
             "scenario1": "현대물",
@@ -15621,26 +15652,41 @@
             "name5": "사이먼"
         },
         {
+            "picid": "797",
+            "movie": "아이스하키 전쟁",
+            "star": "5",
+            "actorcount": "0"
+        },
+        {
             "picid": "798",
             "movie": "7공주",
             "star": "5",
             "audience": "1,3,3",
-            "best": "코미디",
+            "best": "멜로,뮤지컬",
+            "best2": "서사,코미디",
+            "best3": "액션",
             "scenario1": "드라마물",
             "scenario2": "학원",
             "scenario3": "예술",
             "scenario4": "역사",
-            "actorcount": "5",
+            "actorcount": "6",
             "name1": "나미",
             "name2": "춘화",
             "name3": "장미",
             "name4": "진희",
             "name5": "금옥",
+            "name6": "복희",
+            "talent1": "비쥬얼,순수",
+            "talent2": "충성심",
+            "talent3": "청춘",
+            "talent4": "천재",
+            "talent5": "비쥬얼,천재",
             "con1": "여성,외모,청춘,예능",
             "con2": "한국,예술",
             "con3": "여성,한국",
             "con4": "예술",
-            "con5": "청춘"
+            "con5": "청춘",
+            "con6": "여성,예능"
         },
         {
             "picid": "799",
@@ -15690,7 +15736,8 @@
             "star": "5",
             "audience": "4,3,0",
             "best": "미스터리,공포",
-            "best3": "서사,액션",
+            "best3": "액션",
+            "best4": "서사",
             "scenario1": "현대물",
             "scenario2": "윤리",
             "scenario3": "복수",
@@ -15802,7 +15849,8 @@
             "star": "5",
             "audience": "4,2,1",
             "best": "액션,서사",
-            "best3": "멜로",
+            "best2": "멜로",
+            "best5": "애니메이션",
             "scenario1": "전쟁 영화",
             "scenario2": "영웅",
             "scenario3": "전설",
@@ -18110,6 +18158,18 @@
             "name": "비밀 임무"
         },
         {
+            "picid": "619",
+            "name": "아저씨"
+        },
+        {
+            "picid": "620",
+            "name": "독립군"
+        },
+        {
+            "picid": "621",
+            "name": "암살 작전"
+        },
+        {
             "picid": "622",
             "name": "유행천왕"
         },
@@ -18399,7 +18459,7 @@
         },
         {
             "picid": "736",
-            "name": "하룻사이에 백발로"
+            "name": "검은 머리가 백발이 되기까지"
         },
         {
             "picid": "737",
@@ -18496,6 +18556,10 @@
         {
             "picid": "796",
             "name": "향기 수업"
+        },
+        {
+            "picid": "797",
+            "name": "아이스하키 전쟁"
         },
         {
             "picid": "798",
@@ -20775,7 +20839,7 @@
         },
         {
             "picid": "736",
-            "name": "검은 머리가 백발이 되기까지"
+            "name": "하룻사이에 백발로"
         },
         {
             "picid": "737",
@@ -20822,6 +20886,10 @@
             "name": "진나라의 난세"
         },
         {
+            "picid": "761",
+            "name": "수호전"
+        },
+        {
             "picid": "767",
             "name": "조몽지장"
         },
@@ -20860,6 +20928,10 @@
         {
             "picid": "793",
             "name": "황성의 주인"
+        },
+        {
+            "picid": "798",
+            "name": "햇빛 아래"
         },
         {
             "picid": "1002",
@@ -23078,6 +23150,10 @@
             "name": "박의의 일생"
         },
         {
+            "picid": "798",
+            "name": "언니들"
+        },
+        {
             "picid": "1002",
             "name": "슛을 날리다"
         },
@@ -25231,6 +25307,15 @@
             "char1": "연기",
             "char2": "성숙",
             "stat1": "예술"
+        },
+        {
+            "star": "5",
+            "name": "브루스",
+            "sex": "남성",
+            "nat": "서양",
+            "char1": "외모",
+            "char2": "성숙",
+            "stat1": "예술"
         }
     ],
     "skill": [
@@ -25543,6 +25628,11 @@
             "category": "페어",
             "name": "유서니",
             "skill": "진요봉,엔젤라(전체매출증가)"
+        },
+        {
+            "category": "페어",
+            "name": "브루스",
+            "skill": "아놀드,제이슨(연출속성증가)"
         }
     ],
     "allactors": [
@@ -26196,6 +26286,15 @@
             "합계": "6"
         },
         {
+            "name": "설하",
+            "범죄물": "1",
+            "예술": "1",
+            "윤리": "1",
+            "전설": "1",
+            "판타지물": "1",
+            "혼령": "1"
+        },
+        {
             "name": "성",
             "드라마물": "1",
             "로맨스": "1",
@@ -26755,6 +26854,19 @@
             "전설": "1",
             "판타지물": "1",
             "합계": "7"
+        },
+        {
+            "name": "이광주",
+            "드라마물": "1",
+            "로맨스": "1",
+            "로봇": "1",
+            "예술": "1",
+            "윤리": "1",
+            "정치": "1",
+            "타임슬립": "1",
+            "판타지물": "1",
+            "현대물": "1",
+            "학원": "1"
         },
         {
             "name": "이문빈",
@@ -28156,6 +28268,15 @@
             "합계": "8"
         },
         {
+            "name": "설하",
+            "광기": "1",
+            "무술": "1",
+            "섹시": "1",
+            "일편단심": "1",
+            "코믹": "1",
+            "협객": "1"
+        },
+        {
             "name": "성",
             "격투": "1",
             "기억상실": "1",
@@ -28737,6 +28858,17 @@
             "청춘": "1",
             "협객": "1",
             "합계": "8"
+        },
+        {
+            "name": "이광주",
+            "몰상식": "1",
+            "비쥬얼": "1",
+            "성직자": "1",
+            "영특한": "1",
+            "일편단심": "1",
+            "청춘": "1",
+            "카사노바": "1",
+            "코믹": "1"
         },
         {
             "name": "이문빈",
@@ -30744,21 +30876,21 @@
         },
         {
             "star": "5",
-            "name": "손영채",
-            "sex": "남성",
+            "name": "설하",
+            "sex": "여성",
             "nat": "중국",
             "char1": "연기",
             "char2": "성숙",
             "stat1": "예능",
-            "stat": "남성/중국/연기/성숙",
+            "stat": "여성/중국/연기/성숙",
             "skill1": "전설 골드",
-            "skill2": "황실 도전",
-            "skill3": "백성구원",
-            "skill4": "죄악이 극에 달하다",
+            "skill2": "볼거리가 도래하다",
+            "skill3": "에드브치",
+            "skill4": "아름다운 자태",
             "skill1_desc": "금화속도증가:LV3",
-            "skill2_desc": "매출증가:with 우현",
-            "skill3_desc": "속성증가:경찰 역할",
-            "skill4_desc": "개봉매출증가:범죄물",
+            "skill2_desc": "개봉매출증가:with 우현",
+            "skill3_desc": "속성증가:with 에드",
+            "skill4_desc": "속성증가:섹시 역할",
             "skill5_desc": "",
             "skill6_desc": "",
             "fair_total": "우현,에드"
@@ -30892,21 +31024,21 @@
         },
         {
             "star": "5",
-            "name": "에비스",
+            "name": "손영채",
             "sex": "남성",
             "nat": "중국",
             "char1": "연기",
             "char2": "성숙",
-            "stat1": "예술",
+            "stat1": "예능",
             "stat": "남성/중국/연기/성숙",
-            "skill1": "죄악이 극에 달하다",
-            "skill2": "사생결단",
-            "skill3": "미소가득",
-            "skill4": "홍콩쌍용",
-            "skill1_desc": "개봉매출증가:범죄물",
-            "skill2_desc": "속성증가:with 격투역할",
-            "skill3_desc": "속성증가:코미디",
-            "skill4_desc": "매출증가:with 용",
+            "skill1": "전설 골드",
+            "skill2": "황실 도전",
+            "skill3": "백성구원",
+            "skill4": "죄악이 극에 달하다",
+            "skill1_desc": "금화속도증가:LV3",
+            "skill2_desc": "매출증가:with 우현",
+            "skill3_desc": "속성증가:경찰 역할",
+            "skill4_desc": "개봉매출증가:범죄물",
             "skill5_desc": "",
             "skill6_desc": "",
             "fair_total": "우현"
@@ -31063,19 +31195,19 @@
         },
         {
             "star": "5",
-            "name": "연할배",
-            "sex": "남성",
+            "name": "시운",
+            "sex": "여성",
             "nat": "중국",
             "char1": "외모",
-            "char2": "성숙",
-            "stat1": "예술",
-            "stat": "남성/중국/외모/성숙",
-            "skill1": "전설 골드",
-            "skill2": "난약고사",
-            "skill3": "모진 풍파",
-            "skill1_desc": "금화속도증가:LV3",
-            "skill2_desc": "개봉매출증가:with 소천,장국연",
-            "skill3_desc": "속성증가:시련 역할",
+            "char2": "청춘",
+            "stat1": "예능",
+            "stat": "여성/중국/외모/청춘",
+            "skill1": "고색창연하다",
+            "skill2": "총명함",
+            "skill3": "건강자립",
+            "skill1_desc": "개봉매출증가:사극물  ",
+            "skill2_desc": "속성증가:with 영특한역할",
+            "skill3_desc": "개봉매출증가:드라마물",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
@@ -31269,19 +31401,16 @@
         },
         {
             "star": "5",
-            "name": "오대장",
-            "sex": "남성",
+            "name": "양현진",
+            "sex": "여성",
             "nat": "중국",
             "char1": "연기",
-            "char2": "성숙",
-            "stat1": "예능",
-            "stat": "남성/중국/연기/성숙",
-            "skill1": "좌우로 서로 싸우다",
-            "skill2": "정무 사나이",
-            "skill3": "혈투",
-            "skill1_desc": "개봉매출증가:액션",
-            "skill2_desc": "개봉매출증가:with 걸,홍대보",
-            "skill3_desc": "속성증가:격투 역할",
+            "char2": "청춘",
+            "stat1": "예술",
+            "stat": "여성/중국/연기/청춘",
+            "skill1_desc": "",
+            "skill2_desc": "",
+            "skill3_desc": "",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
@@ -31351,20 +31480,21 @@
         },
         {
             "star": "5",
-            "name": "우현",
+            "name": "에비스",
             "sex": "남성",
             "nat": "중국",
             "char1": "연기",
-            "char2": "청춘",
-            "stat1": "예능",
-            "stat": "남성/중국/연기/청춘",
-            "skill1": "전설 골드",
-            "skill2": "태경인생",
-            "skill3": "만담가",
-            "skill1_desc": "금화속도증가:LV3",
-            "skill2_desc": "개봉매출증가:with 심철,서산성",
-            "skill3_desc": "속성증가:입담 역할",
-            "skill4_desc": "",
+            "char2": "성숙",
+            "stat1": "예술",
+            "stat": "남성/중국/연기/성숙",
+            "skill1": "죄악이 극에 달하다",
+            "skill2": "사생결단",
+            "skill3": "미소가득",
+            "skill4": "홍콩쌍용",
+            "skill1_desc": "개봉매출증가:범죄물",
+            "skill2_desc": "속성증가:with 격투역할",
+            "skill3_desc": "속성증가:코미디",
+            "skill4_desc": "매출증가:with 용",
             "skill5_desc": "",
             "skill6_desc": "",
             "fair_total": "격투역할,용"
@@ -31495,19 +31625,19 @@
         },
         {
             "star": "5",
-            "name": "유호석",
+            "name": "연할배",
             "sex": "남성",
             "nat": "중국",
             "char1": "외모",
-            "char2": "청춘",
+            "char2": "성숙",
             "stat1": "예술",
-            "stat": "남성/중국/외모/청춘",
-            "skill1": "수집대가",
-            "skill2": "바람 잘 날 없다",
-            "skill3": "추리신정",
-            "skill1_desc": "생산량증가:생산량 ",
-            "skill2_desc": "매출증가:with 진이,고연희",
-            "skill3_desc": "속성증가:천재 역할",
+            "stat": "남성/중국/외모/성숙",
+            "skill1": "전설 골드",
+            "skill2": "난약고사",
+            "skill3": "모진 풍파",
+            "skill1_desc": "금화속도증가:LV3",
+            "skill2_desc": "개봉매출증가:with 소천,장국연",
+            "skill3_desc": "속성증가:시련 역할",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
@@ -31558,19 +31688,19 @@
         },
         {
             "star": "5",
-            "name": "이문빈",
+            "name": "오대장",
             "sex": "남성",
             "nat": "중국",
             "char1": "연기",
             "char2": "성숙",
             "stat1": "예능",
             "stat": "남성/중국/연기/성숙",
-            "skill1": "슈퍼 금고",
-            "skill2": "암흑조직",
-            "skill3": "계략가",
-            "skill1_desc": "금화최대치증가:LV2",
-            "skill2_desc": "속성증가(스토리):with 다니엘킴,임대화",
-            "skill3_desc": "속성증가:리더 역할",
+            "skill1": "좌우로 서로 싸우다",
+            "skill2": "정무 사나이",
+            "skill3": "혈투",
+            "skill1_desc": "개봉매출증가:액션",
+            "skill2_desc": "개봉매출증가:with 걸,홍대보",
+            "skill3_desc": "속성증가:격투 역할",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
@@ -31643,16 +31773,19 @@
         },
         {
             "star": "5",
-            "name": "장국진",
+            "name": "우현",
             "sex": "남성",
             "nat": "중국",
             "char1": "연기",
-            "char2": "성숙",
-            "stat1": "예술",
-            "stat": "남성/중국/연기/성숙",
-            "skill1_desc": "",
-            "skill2_desc": "",
-            "skill3_desc": "",
+            "char2": "청춘",
+            "stat1": "예능",
+            "stat": "남성/중국/연기/청춘",
+            "skill1": "전설 골드",
+            "skill2": "태경인생",
+            "skill3": "만담가",
+            "skill1_desc": "금화속도증가:LV3",
+            "skill2_desc": "개봉매출증가:with 심철,서산성",
+            "skill3_desc": "속성증가:입담 역할",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
@@ -31756,7 +31889,7 @@
             "skill2": "와룡강호",
             "skill3": "인중여포",
             "skill1_desc": "개봉매출증가:with 아시아연기파",
-            "skill2_desc": "매출증가:with 윤발이,걸",
+            "skill2_desc": "개봉매출증가:with 토니 양,윤발이,걸",
             "skill3_desc": "속성증가:협객 역할",
             "skill4_desc": "",
             "skill5_desc": "",
@@ -31786,21 +31919,20 @@
         },
         {
             "star": "5",
-            "name": "천희",
+            "name": "유호석",
             "sex": "남성",
             "nat": "중국",
             "char1": "외모",
             "char2": "청춘",
-            "stat1": "예능",
+            "stat1": "예술",
             "stat": "남성/중국/외모/청춘",
-            "skill1": "소년영웅",
-            "skill2": "낯선바람",
-            "skill3": "전략가",
-            "skill4": "고색창연하다",
-            "skill1_desc": "매출증가:전쟁 영화",
-            "skill2_desc": "기대치증가:사극물  ",
-            "skill3_desc": "속성증가:with 리더역할",
-            "skill4_desc": "개봉매출증가:사극물  ",
+            "skill1": "수집대가",
+            "skill2": "바람 잘 날 없다",
+            "skill3": "추리신정",
+            "skill1_desc": "생산량증가:생산량 ",
+            "skill2_desc": "매출증가:with 진이,고연희",
+            "skill3_desc": "속성증가:천재 역할",
+            "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
             "fair_total": "진이,고연희"
@@ -31869,8 +32001,30 @@
             "fair_total": "이준구"
         },
         {
+            "star": "6",
+            "name": "이광주",
+            "sex": "남성",
+            "nat": "한국",
+            "char1": "연기",
+            "char2": "청춘",
+            "stat1": "예능",
+            "stat": "남성/한국/연기/청춘",
+            "skill1": "언론장악",
+            "skill2": "배신자",
+            "skill3": "가벼운 사랑",
+            "skill4": "순수바보",
+            "skill5": "어이없음",
+            "skill1_desc": "개봉매출증가:촬영시 언론평가",
+            "skill2_desc": "개봉매출증가:코믹 역할",
+            "skill3_desc": "매출증가:with 청춘형",
+            "skill4_desc": "속성증가:with 코믹역할",
+            "skill5_desc": "매출증가:<물고기인간>,<해적들:도깨비 깃발>,<나의 특별한 브라더>,<타짜:애꾸눈>촬영",
+            "skill6_desc": "",
+            "fair_total": "다니엘킴,임대화"
+        },
+        {
             "star": "5",
-            "name": "향수",
+            "name": "이문빈",
             "sex": "남성",
             "nat": "중국",
             "char1": "연기",
@@ -31878,16 +32032,15 @@
             "stat1": "예능",
             "stat": "남성/중국/연기/성숙",
             "skill1": "슈퍼 금고",
-            "skill2": "초류향수",
-            "skill3": "황제의 사랑",
-            "skill4": "인중여포",
+            "skill2": "암흑조직",
+            "skill3": "계략가",
             "skill1_desc": "금화최대치증가:LV2",
-            "skill2_desc": "속성증가(스토리):with 침민전,교홍정",
-            "skill3_desc": "휴식시매출증가:멜로",
-            "skill4_desc": "속성증가:협객 역할",
+            "skill2_desc": "속성증가(스토리):with 다니엘킴,임대화",
+            "skill3_desc": "속성증가:리더 역할",
+            "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "다니엘킴,임대화"
+            "fair_total": "비주얼역할,이정지,한일청춘형"
         },
         {
             "star": "5",
@@ -31908,7 +32061,7 @@
             "skill4_desc": "개봉매출증가:with 한일청춘형",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "비주얼역할,이정지,한일청춘형"
+            "fair_total": ""
         },
         {
             "star": "5",
@@ -31928,7 +32081,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": ""
+            "fair_total": "이순신"
         },
         {
             "star": "5",
@@ -31948,7 +32101,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "이순신"
+            "fair_total": "은자,주서진,다니엘킴"
         },
         {
             "star": "5",
@@ -31969,7 +32122,7 @@
             "skill4_desc": "속성증가:사극물  ",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "은자,주서진,다니엘킴"
+            "fair_total": "최은교,한일청춘형"
         },
         {
             "star": "5",
@@ -31989,7 +32142,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "최은교,한일청춘형"
+            "fair_total": "홍대보"
         },
         {
             "star": "5",
@@ -32011,7 +32164,7 @@
             "skill4_desc": "개봉매출증가:미스터리",
             "skill5_desc": "영화 첫날매출증가:공포 장르촬영",
             "skill6_desc": "",
-            "fair_total": "홍대보"
+            "fair_total": "토니양,김형사,아시아성숙형"
         },
         {
             "star": "5",
@@ -32032,7 +32185,7 @@
             "skill4_desc": "개봉매출증가:with 아시아성숙형 ",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "토니양,김형사,아시아성숙형"
+            "fair_total": "한국"
         },
         {
             "star": "5",
@@ -32053,7 +32206,7 @@
             "skill4_desc": "개봉매출증가:뮤지컬",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "한국"
+            "fair_total": "진명,귀족역할"
         },
         {
             "star": "5",
@@ -32073,7 +32226,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "진명,귀족역할"
+            "fair_total": "유진수,토니양,윤발이"
         },
         {
             "star": "6",
@@ -32095,7 +32248,7 @@
             "skill4_desc": "매출증가:with 유진수,토니양,윤발이",
             "skill5_desc": "매출증가:덧없는 인생, 부모의 멜로스토리, 궁정연회 혹은 유리의 일생 촬영",
             "skill6_desc": "",
-            "fair_total": "유진수,토니양,윤발이"
+            "fair_total": "소천,홍연토니양,다니엘킴"
         },
         {
             "star": "5",
@@ -32117,27 +32270,24 @@
             "skill4_desc": "속성증가:사극물  ",
             "skill5_desc": "휴식시속성증가(연기):소천이 촬영",
             "skill6_desc": "",
-            "fair_total": "소천,홍연토니양,다니엘킴"
+            "fair_total": ""
         },
         {
             "star": "5",
-            "name": "황천조",
+            "name": "장국진",
             "sex": "남성",
             "nat": "중국",
             "char1": "연기",
-            "char2": "청춘",
+            "char2": "성숙",
             "stat1": "예술",
-            "stat": "남성/중국/연기/청춘",
-            "skill1": "흥정달인",
-            "skill2": "약속",
-            "skill3": "굳센 의지",
-            "skill1_desc": "육성할인:배우 육성",
-            "skill2_desc": "속성증가(스토리):with 양현진,황천조,주기령",
-            "skill3_desc": "속성증가:일편단심 역할",
+            "stat": "남성/중국/연기/성숙",
+            "skill1_desc": "",
+            "skill2_desc": "",
+            "skill3_desc": "",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": ""
+            "fair_total": "황월지,자인"
         },
         {
             "star": "6",
@@ -32159,7 +32309,7 @@
             "skill4_desc": "속성증가:음모가 역할",
             "skill5_desc": "매출증가:하늘에서 내린 로또' '여름연풍' '가족 왜곡' '동지와 적' 촬영",
             "skill6_desc": "",
-            "fair_total": "황월지,자인"
+            "fair_total": "한국마서석"
         },
         {
             "star": "6",
@@ -32181,7 +32331,7 @@
             "skill4_desc": "속성증가:with 마서석",
             "skill5_desc": "매출증가:<임무 달성> , <사망 카운트다운> , <흑룡파> , <애정의 위기> 촬영",
             "skill6_desc": "",
-            "fair_total": "한국마서석"
+            "fair_total": "중국청춘형,유진수,여천명,곽천성"
         },
         {
             "star": "5",
@@ -32201,7 +32351,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형,유진수,여천명,곽천성"
+            "fair_total": "추생,토니양"
         },
         {
             "star": "5",
@@ -32222,7 +32372,7 @@
             "skill4_desc": "금화최대치증가:LV1",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "추생,토니양"
+            "fair_total": "조현아,왕욱"
         },
         {
             "star": "5",
@@ -32243,7 +32393,7 @@
             "skill4_desc": "개봉매출증가:사극물  ",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "조현아,왕욱"
+            "fair_total": "정이건,걸"
         },
         {
             "star": "5",
@@ -32263,7 +32413,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "정이건,걸"
+            "fair_total": ""
         },
         {
             "star": "5",
@@ -32283,7 +32433,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": ""
+            "fair_total": "주서진,양천상,소소혜"
         },
         {
             "star": "5",
@@ -32304,7 +32454,7 @@
             "skill4_desc": "개봉매출증가:범죄물",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "주서진,양천상,소소혜"
+            "fair_total": "자스민,최은교"
         },
         {
             "star": "5",
@@ -32324,7 +32474,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "자스민,최은교"
+            "fair_total": ""
         },
         {
             "star": "5",
@@ -32345,7 +32495,7 @@
             "skill4_desc": "휴식시매출증가:코미디",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": ""
+            "fair_total": "경찰역할"
         },
         {
             "star": "5",
@@ -32366,7 +32516,7 @@
             "skill4_desc": "개봉매출증가:첩보물",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "경찰역할"
+            "fair_total": "윤발이"
         },
         {
             "star": "5",
@@ -32386,7 +32536,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "윤발이"
+            "fair_total": "무술역할"
         },
         {
             "star": "5",
@@ -32406,28 +32556,24 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "무술역할"
+            "fair_total": ""
         },
         {
             "star": "5",
-            "name": "설하",
+            "name": "주기령",
             "sex": "여성",
             "nat": "중국",
-            "char1": "연기",
-            "char2": "성숙",
+            "char1": "외모",
+            "char2": "청춘",
             "stat1": "예능",
-            "stat": "여성/중국/연기/성숙",
-            "skill1": "전설 골드",
-            "skill2": "볼거리가 도래하다",
-            "skill3": "에드브치",
-            "skill4": "아름다운 자태",
-            "skill1_desc": "금화속도증가:LV3",
-            "skill2_desc": "개봉매출증가:with 우현",
-            "skill3_desc": "속성증가:with 에드",
-            "skill4_desc": "속성증가:섹시 역할",
+            "stat": "여성/중국/외모/청춘",
+            "skill1_desc": "",
+            "skill2_desc": "",
+            "skill3_desc": "",
+            "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": ""
+            "fair_total": "경찰역할"
         },
         {
             "star": "5",
@@ -32448,7 +32594,7 @@
             "skill4_desc": "금화최대치증가:LV1",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "경찰역할"
+            "fair_total": "주서진,여지명,전대원,보람,오신비"
         },
         {
             "star": "5",
@@ -32469,7 +32615,7 @@
             "skill4_desc": "개봉매출증가:멜로",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "주서진,여지명,전대원,보람,오신비"
+            "fair_total": "중국청춘형,성"
         },
         {
             "star": "5",
@@ -32484,12 +32630,12 @@
             "skill2": "이상형",
             "skill3": "굳센 의지",
             "skill1_desc": "개봉매출증가:with 중국청춘형",
-            "skill2_desc": "개봉매출증가:with 성",
+            "skill2_desc": "개봉매출증가:with 성,유진수",
             "skill3_desc": "속성증가:일편단심 역할",
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형,성"
+            "fair_total": "중국청춘형,묵자화"
         },
         {
             "star": "5",
@@ -32509,7 +32655,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형,묵자화"
+            "fair_total": "청춘역할"
         },
         {
             "star": "6",
@@ -32531,7 +32677,7 @@
             "skill4_desc": "매출증가:범죄물",
             "skill5_desc": "매출증가:검은돌풍, 신탐풍문, 탈출범언실, 진출자 촬영",
             "skill6_desc": "",
-            "fair_total": "청춘역할"
+            "fair_total": "맹달아재"
         },
         {
             "star": "5",
@@ -32553,7 +32699,7 @@
             "skill4_desc": "매출증가:with 맹달아재",
             "skill5_desc": "개봉매출증가:액션",
             "skill6_desc": "",
-            "fair_total": "맹달아재"
+            "fair_total": "소림사,황월지"
         },
         {
             "star": "5",
@@ -32573,7 +32719,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "소림사,황월지"
+            "fair_total": "퇴폐미역할,코믹역할"
         },
         {
             "star": "6",
@@ -32595,27 +32741,28 @@
             "skill4_desc": "속성증가:광기 역할",
             "skill5_desc": "매출증가:신문팔이 소녀, 연탄 캐는 사람, 아내에게 사기치는 자, 도망치는 독재자 촬영",
             "skill6_desc": "",
-            "fair_total": "퇴폐미역할,코믹역할"
+            "fair_total": "리더역할"
         },
         {
             "star": "5",
-            "name": "시운",
-            "sex": "여성",
+            "name": "천희",
+            "sex": "남성",
             "nat": "중국",
             "char1": "외모",
             "char2": "청춘",
             "stat1": "예능",
-            "stat": "여성/중국/외모/청춘",
-            "skill1": "고색창연하다",
-            "skill2": "총명함",
-            "skill3": "건강자립",
-            "skill1_desc": "개봉매출증가:사극물  ",
-            "skill2_desc": "속성증가:with 영특한역할",
-            "skill3_desc": "개봉매출증가:드라마물",
-            "skill4_desc": "",
+            "stat": "남성/중국/외모/청춘",
+            "skill1": "소년영웅",
+            "skill2": "낯선바람",
+            "skill3": "전략가",
+            "skill4": "고색창연하다",
+            "skill1_desc": "매출증가:전쟁 영화",
+            "skill2_desc": "기대치증가:사극물  ",
+            "skill3_desc": "속성증가:with 리더역할",
+            "skill4_desc": "개봉매출증가:사극물  ",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "리더역할"
+            "fair_total": "성,윤발이"
         },
         {
             "star": "6",
@@ -32637,7 +32784,7 @@
             "skill4_desc": "속성증가:경찰 역할로 촬영",
             "skill5_desc": "매출증가:최고의 순간, 전설의 경찰, 천 년의 사랑, 체포 작전, 혼자서 홍번구 돌파 촬영",
             "skill6_desc": "",
-            "fair_total": "성,윤발이"
+            "fair_total": "송정기"
         },
         {
             "star": "5",
@@ -32658,7 +32805,7 @@
             "skill4_desc": "개봉매출증가:멜로",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "송정기"
+            "fair_total": "전대원,주윤"
         },
         {
             "star": "5",
@@ -32678,7 +32825,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "전대원,주윤"
+            "fair_total": "스칼렛,토오르,스타크"
         },
         {
             "star": "5",
@@ -32699,7 +32846,7 @@
             "skill4_desc": "개봉매출증가:with 스타크",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "스칼렛,토오르,스타크"
+            "fair_total": "엠마"
         },
         {
             "star": "5",
@@ -32721,7 +32868,7 @@
             "skill4_desc": "속성증가:아역스타 역할",
             "skill5_desc": "휴식시매출증가:판타지물",
             "skill6_desc": "",
-            "fair_total": "엠마"
+            "fair_total": "키야,아카니시,예술가역할"
         },
         {
             "star": "5",
@@ -32742,7 +32889,7 @@
             "skill4_desc": "속성증가:with 예술가역할",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "키야,아카니시,예술가역할"
+            "fair_total": "청춘형"
         },
         {
             "star": "6",
@@ -32764,7 +32911,7 @@
             "skill4_desc": "매출증가:애니메이션",
             "skill5_desc": "매출증가:푸른 하늘 위, 대도 다카토 사건부, 숲의 딸, 외눈박이 모리타 촬영",
             "skill6_desc": "",
-            "fair_total": "청춘형"
+            "fair_total": "초능력역할,나오미"
         },
         {
             "star": "5",
@@ -32786,7 +32933,7 @@
             "skill4_desc": "매출증가:액션",
             "skill5_desc": "개봉매출증가:with 나오미",
             "skill6_desc": "",
-            "fair_total": "초능력역할,나오미"
+            "fair_total": "서양배우,데빌,에밀리아,메이지"
         },
         {
             "star": "5",
@@ -32807,7 +32954,7 @@
             "skill4_desc": "개봉매출증가:with 데빌,에밀리아,메이지",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "서양배우,데빌,에밀리아,메이지"
+            "fair_total": "나나코,오구라"
         },
         {
             "star": "5",
@@ -32827,7 +32974,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "나나코,오구라"
+            "fair_total": "예술가역할"
         },
         {
             "star": "5",
@@ -32848,7 +32995,7 @@
             "skill4_desc": "개봉매출증가:현대물",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "예술가역할"
+            "fair_total": "서양,남성배우"
         },
         {
             "star": "5",
@@ -32868,7 +33015,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "서양,남성배우"
+            "fair_total": "장천우,토니양,심유현"
         },
         {
             "star": "5",
@@ -32889,7 +33036,7 @@
             "skill4_desc": "개봉매출증가:with 토니양,심유현",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "장천우,토니양,심유현"
+            "fair_total": "총잡이역할"
         },
         {
             "star": "6",
@@ -32911,7 +33058,7 @@
             "skill4_desc": "매출증가:전쟁 영화",
             "skill5_desc": "매출증가:<혈노> , <챔피언이 나타나다> , <무명 챔피언> , <불사 용병> , <철혈 용병단> 촬영",
             "skill6_desc": "",
-            "fair_total": "총잡이역할"
+            "fair_total": "유진수,양가리"
         },
         {
             "star": "6",
@@ -32933,7 +33080,7 @@
             "skill4_desc": "속성증가:경찰 역할로 촬영",
             "skill5_desc": "속성증가:무간지로, 무술종사, 풍화지벽 촬영",
             "skill6_desc": "",
-            "fair_total": "유진수,양가리"
+            "fair_total": "스탠,스타크"
         },
         {
             "star": "5",
@@ -32954,7 +33101,7 @@
             "skill4_desc": "속성증가:비쥬얼 역할",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "스탠,스타크"
+            "fair_total": "블래터,제이레노"
         },
         {
             "star": "5",
@@ -32975,7 +33122,7 @@
             "skill4_desc": "속성증가:스파이 역할",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "블래터,제이레노"
+            "fair_total": "엔젤라"
         },
         {
             "star": "5",
@@ -32996,7 +33143,7 @@
             "skill4_desc": "개봉매출증가:드라마물",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "엔젤라"
+            "fair_total": "청용"
         },
         {
             "star": "5",
@@ -33016,7 +33163,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "청용"
+            "fair_total": "서양,청춘형배우"
         },
         {
             "star": "5",
@@ -33037,7 +33184,7 @@
             "skill4_desc": "개봉매출증가:with 서양,청춘형배우",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "서양,청춘형배우"
+            "fair_total": "서양연기파,스파이역할"
         },
         {
             "star": "5",
@@ -33058,24 +33205,28 @@
             "skill4_desc": "휴식시속성증가(연출):휴식시 여자배우 2명이상촬영",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "서양연기파,스파이역할"
+            "fair_total": "침민전,교홍정"
         },
         {
             "star": "5",
-            "name": "양현진",
-            "sex": "여성",
+            "name": "향수",
+            "sex": "남성",
             "nat": "중국",
             "char1": "연기",
-            "char2": "청춘",
-            "stat1": "예술",
-            "stat": "여성/중국/연기/청춘",
-            "skill1_desc": "",
-            "skill2_desc": "",
-            "skill3_desc": "",
-            "skill4_desc": "",
+            "char2": "성숙",
+            "stat1": "예능",
+            "stat": "남성/중국/연기/성숙",
+            "skill1": "슈퍼 금고",
+            "skill2": "초류향수",
+            "skill3": "황제의 사랑",
+            "skill4": "인중여포",
+            "skill1_desc": "금화최대치증가:LV2",
+            "skill2_desc": "속성증가(스토리):with 침민전,교홍정",
+            "skill3_desc": "휴식시매출증가:멜로",
+            "skill4_desc": "속성증가:협객 역할",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "침민전,교홍정"
+            "fair_total": "서양배우"
         },
         {
             "star": "6",
@@ -33097,7 +33248,7 @@
             "skill4_desc": "매출증가:로마에서의 만남, 사랑 사치품, 명문 숙녀 촬영",
             "skill5_desc": "개봉매출증가:with 서양배우",
             "skill6_desc": "",
-            "fair_total": "서양배우"
+            "fair_total": "유빈"
         },
         {
             "star": "5",
@@ -33117,7 +33268,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "유빈"
+            "fair_total": "비주얼역할,김무라,리미"
         },
         {
             "star": "5",
@@ -33138,7 +33289,7 @@
             "skill4_desc": "개봉매출증가:with 아시아성숙형 ",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "비주얼역할,김무라,리미"
+            "fair_total": "진사형,청용"
         },
         {
             "star": "6",
@@ -33160,7 +33311,7 @@
             "skill4_desc": "속성증가:액션",
             "skill5_desc": "매출증가:체포작전, 칠살영역, 쌍둥이 대도,칠무생 혹은 재신구출 촬영",
             "skill6_desc": "",
-            "fair_total": "진사형,청용"
+            "fair_total": "장국연,만건달"
         },
         {
             "star": "5",
@@ -33181,7 +33332,7 @@
             "skill4_desc": "개봉매출증가:코미디",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "장국연,만건달"
+            "fair_total": "청용,양표,홍대보"
         },
         {
             "star": "5",
@@ -33202,7 +33353,7 @@
             "skill4_desc": "속성증가:시련 역할",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "청용,양표,홍대보"
+            "fair_total": "성,진요봉"
         },
         {
             "star": "5",
@@ -33223,44 +33374,25 @@
             "skill4_desc": "금화최대치증가:LV1",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "성,진요봉"
-        },
-        {
-            "star": "5",
-            "name": "주기령",
-            "sex": "여성",
-            "nat": "중국",
-            "char1": "외모",
-            "char2": "청춘",
-            "stat1": "예능",
-            "stat": "여성/중국/외모/청춘",
-            "skill1_desc": "",
-            "skill2_desc": "",
-            "skill3_desc": "",
-            "skill4_desc": "",
-            "skill5_desc": "",
-            "skill6_desc": "",
             "fair_total": "양현진,황천조,주기령"
         },
         {
-            "star": "6",
-            "name": "이광주",
+            "star": "5",
+            "name": "황천조",
             "sex": "남성",
-            "nat": "한국",
+            "nat": "중국",
             "char1": "연기",
             "char2": "청춘",
-            "stat1": "예능",
-            "stat": "남성/한국/연기/청춘",
-            "skill1": "언론장악",
-            "skill2": "배신자",
-            "skill3": "가벼운 사랑",
-            "skill4": "순수바보",
-            "skill5": "어이없음",
-            "skill1_desc": "개봉매출증가:촬영시 언론평가",
-            "skill2_desc": "개봉매출증가:코믹 역할",
-            "skill3_desc": "매출증가:with 청춘형",
-            "skill4_desc": "속성증가:with 코믹역할",
-            "skill5_desc": "매출증가:<물고기인간>,<해적들:도깨비 깃발>,<나의 특별한 브라더>,<타짜:애꾸눈>촬영",
+            "stat1": "예술",
+            "stat": "남성/중국/연기/청춘",
+            "skill1": "흥정달인",
+            "skill2": "약속",
+            "skill3": "굳센 의지",
+            "skill1_desc": "육성할인:배우 육성",
+            "skill2_desc": "속성증가(스토리):with 양현진,황천조,주기령",
+            "skill3_desc": "속성증가:일편단심 역할",
+            "skill4_desc": "",
+            "skill5_desc": "",
             "skill6_desc": ""
         }
     ]
