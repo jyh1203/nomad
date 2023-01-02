@@ -842,8 +842,8 @@
             "name3": "오피완",
             "name4": "한슬로",
             "name5": "디스베이더",
-            "talent1": "주연",
-            "talent2": "비쥬얼,입담,주연,청춘",
+            "talent1": "군인,주연",
+            "talent2": "비쥬얼,입담,주연,천재,청춘",
             "talent3": "격투,조연,초능력",
             "talent4": "영특한,조연",
             "talent5": "잔인",
@@ -3349,6 +3349,7 @@
             "audience": "2,1,1",
             "best": "코미디",
             "best2": "서사",
+            "best3": "애니메이션",
             "best5": "미스터리,멜로,뮤지컬",
             "scenario1": "드라마물",
             "scenario2": "타임슬립",
@@ -4186,7 +4187,7 @@
             "best2": "액션",
             "best3": "애니메이션,미스터리",
             "best4": "코미디,공포",
-            "best5": "서사",
+            "best5": "서사,뮤지컬",
             "scenario1": "사극물",
             "scenario2": "로맨스",
             "scenario3": "윤리",
@@ -4328,7 +4329,7 @@
             "name3": "육명",
             "name4": "고유위",
             "name5": "장청",
-            "talent1": "영특한,시련,주연,코믹",
+            "talent1": "광기,영특한,시련,주연,코믹",
             "talent2": "비쥬얼,섹시,잔인,주연,충성심",
             "talent3": "광기,입담,조연,천재",
             "talent4": "의사,천재",
@@ -5582,6 +5583,7 @@
             "star": "2",
             "audience": "1,1,2",
             "best": "코미디,애니메이션",
+            "best2": "액션",
             "best4": "뮤지컬",
             "best5": "서사",
             "scenario1": "어드벤처물",
@@ -7467,7 +7469,8 @@
             "con2": "서양",
             "con3": "남성",
             "con4": "예술",
-            "con5": "여성,성숙"
+            "con5": "여성,성숙",
+            "con6": "서양,연기,예능"
         },
         {
             "picid": "298",
@@ -7476,9 +7479,8 @@
             "audience": "2,3,1",
             "best": "서사",
             "best2": "애니메이션,멜로",
-            "best3": "공포",
+            "best3": "공포,미스터리",
             "best4": "액션,코미디,뮤지컬",
-            "best5": "미스터리",
             "scenario1": "재난물",
             "scenario2": "윤리",
             "scenario3": "역사",
@@ -8765,7 +8767,8 @@
             "con1": "여성,청춘",
             "con2": "아시아,외모,예능",
             "con3": "남성",
-            "con4": "남성,아시아"
+            "con4": "남성,아시아",
+            "con6": "연기,성숙,예술"
         },
         {
             "picid": "355",
@@ -10240,7 +10243,11 @@
             "talent1": "배금주의,코믹,입담",
             "talent2": "순수,충성심,비쥬얼,일편단심",
             "talent3": "일편단심,초능력,청춘,비쥬얼",
-            "talent4": "악당,건장한,광기,초능력"
+            "talent4": "악당,건장한,광기,초능력",
+            "con1": "아시아,연기,예능",
+            "con2": "여성,아시아",
+            "con3": "예술",
+            "con4": "남성,아시아"
         },
         {
             "picid": "423",
@@ -10673,7 +10680,8 @@
             "best": "멜로,코미디",
             "best2": "서사",
             "best3": "애니메이션",
-            "best5": "공포,뮤지컬",
+            "best4": "액션",
+            "best5": "공포,뮤지컬,미스터리",
             "scenario1": "현대물",
             "scenario2": "윤리",
             "scenario3": "로맨스",
@@ -11477,11 +11485,12 @@
             "scenario2": "윤리",
             "scenario3": "로맨스",
             "scenario4": "예술",
-            "actorcount": "4",
+            "actorcount": "5",
             "name1": "노허",
             "name2": "노진",
             "name3": "허량",
             "name4": "실버타운 원장",
+            "name5": "성 이모",
             "talent1": "주연",
             "talent2": "주연",
             "talent3": "건장한,영특한,입담,조연,청춘",
@@ -11489,7 +11498,8 @@
             "con1": "아시아,연기,예술",
             "con2": "성숙,예능",
             "con3": "아시아,청춘",
-            "con4": "남성"
+            "con4": "남성",
+            "con5": "예술"
         },
         {
             "picid": "494",
@@ -12419,6 +12429,8 @@
             "star": "4",
             "audience": "3,3,1",
             "best": "서사,코미디,멜로",
+            "best3": "뮤지컬",
+            "best4": "미스터리,애니메이션",
             "scenario1": "현대물",
             "scenario2": "윤리",
             "scenario3": "로맨스",
@@ -12442,6 +12454,7 @@
             "star": "4",
             "audience": "1,4,1",
             "best": "멜로",
+            "best2": "애니메이션",
             "best3": "공포",
             "scenario1": "현대물",
             "scenario2": "윤리",
@@ -13680,6 +13693,7 @@
             "star": "3",
             "audience": "3,2,0",
             "best": "공포,미스터리",
+            "best2": "서사",
             "scenario1": "어드벤처물",
             "scenario2": "혼령",
             "scenario3": "윤리",
@@ -13754,6 +13768,7 @@
             "best2": "서사",
             "best3": "공포",
             "best4": "코미디",
+            "best5": "애니메이션",
             "scenario1": "범죄물",
             "scenario2": "영웅",
             "scenario3": "복수",
@@ -13764,7 +13779,7 @@
             "name3": "인사인",
             "name4": "베르나르도",
             "talent1": "건장한,격투,주연,터프가이",
-            "talent2": "격투,주연,터프가이",
+            "talent2": "건장한,격투,주연,터프가이",
             "talent3": "조연,터프가이",
             "talent4": "건장한,범죄자,조연,터프가이",
             "con1": "아시아,연기",
@@ -14268,8 +14283,9 @@
             "movie": "뿌리내리다",
             "star": "5",
             "audience": "2,5,0",
-            "best": "멜로",
+            "best": "멜로,서사",
             "best2": "코미디",
+            "best4": "뮤지컬",
             "best5": "애니메이션",
             "scenario1": "현대물",
             "scenario2": "윤리",
@@ -14282,9 +14298,9 @@
             "name4": "장청천",
             "name5": "조산산",
             "talent1": "입담",
-            "talent2": "우울,입담,충성심",
+            "talent2": "우울,입담,잔인,충성심",
             "talent3": "입담,충성심,학자",
-            "talent4": "비쥬얼",
+            "talent4": "배금주의,비쥬얼",
             "talent5": "영특한,순수,충성심",
             "con1": "여성,아시아,예술",
             "con2": "청춘",
@@ -14413,6 +14429,7 @@
             "audience": "2,2,1",
             "best": "멜로,서사",
             "best2": "애니메이션",
+            "best4": "코미디",
             "best5": "뮤지컬",
             "scenario1": "사극물",
             "scenario2": "윤리",
@@ -15226,6 +15243,7 @@
             "best": "멜로,코미디",
             "best2": "미스터리,서사",
             "best3": "액션,공포",
+            "best4": "공포",
             "best5": "뮤지컬,애니메이션",
             "scenario1": "판타지물",
             "scenario2": "로맨스",
@@ -16056,8 +16074,8 @@
             "best": "멜로,뮤지컬",
             "best2": "코미디",
             "best3": "서사",
-            "best4": "미스터리",
-            "best5": "애니메이션",
+            "best4": "미스터리,공포",
+            "best5": "애니메이션,액션",
             "scenario1": "현대물",
             "scenario2": "예술",
             "scenario3": "윤리",
@@ -16090,6 +16108,7 @@
             "best": "서사,미스터리",
             "best2": "액션",
             "best3": "공포",
+            "best4": "애니메이션,뮤지컬",
             "scenario1": "범죄물",
             "scenario2": "윤리",
             "scenario3": "전설",
@@ -16101,7 +16120,7 @@
             "name4": "박승찬",
             "name5": "이선미",
             "name6": "김경호",
-            "talent2": "비쥬얼,순수,청춘,예술가",
+            "talent2": "광기,비쥬얼,순수,영특한,청춘,예술가",
             "talent3": "광기,시련",
             "talent4": "시련,잔인",
             "talent5": "비쥬얼",
@@ -16139,6 +16158,9 @@
             "movie": "탐험자의 나라",
             "star": "5",
             "audience": "3,1,3",
+            "best": "공포,애니메이션",
+            "best3": "뮤지컬",
+            "best4": "미스터리,멜로",
             "scenario1": "어드벤처물",
             "scenario2": "괴물",
             "scenario3": "영웅",
@@ -16149,6 +16171,7 @@
             "name3": "하야토",
             "name4": "사세",
             "name5": "치나",
+            "talent2": "비쥬얼,천재",
             "con1": "남성,청춘",
             "con2": "한국,예술",
             "con3": "외모,예능",
@@ -16436,6 +16459,7 @@
             "movie": "난세기이록",
             "star": "5",
             "audience": "4,3,0",
+            "best": "액션",
             "best2": "서사",
             "scenario1": "판타지물",
             "scenario2": "영웅",
@@ -23703,6 +23727,10 @@
             "name": "비현실적인"
         },
         {
+            "picid": "683",
+            "name": "장화음"
+        },
+        {
             "picid": "684",
             "name": "취경강요전"
         },
@@ -24037,6 +24065,14 @@
         {
             "picid": "731",
             "name": "신기한 꿈"
+        },
+        {
+            "picid": "731",
+            "name": "벼락부자"
+        },
+        {
+            "picid": "731",
+            "name": "공돈쓰기 프로젝트"
         },
         {
             "picid": "732",
@@ -24423,6 +24459,10 @@
             "name": "지연된 사랑열차"
         },
         {
+            "picid": "807",
+            "name": "일과 사랑의 저울"
+        },
+        {
             "picid": "810",
             "name": "여름연풍"
         },
@@ -24459,8 +24499,20 @@
             "name": "우수한 사병"
         },
         {
+            "picid": "812",
+            "name": "동지와 적"
+        },
+        {
             "picid": "813",
             "name": "탐험자의 나라"
+        },
+        {
+            "picid": "813",
+            "name": "푸른 하늘 위"
+        },
+        {
+            "picid": "813",
+            "name": "아무도 없는 깊은 하늘"
         },
         {
             "picid": "1006",
@@ -26217,10 +26269,28 @@
             "fair2": "주상치"
         },
         {
+            "category": "멜로",
+            "name": "강천예",
+            "skill": "개봉매출",
+            "per": "8.8"
+        },
+        {
+            "category": "코미디",
+            "name": "강천예",
+            "skill": "개봉매출",
+            "per": "6.6"
+        },
+        {
             "category": "현대물",
             "name": "명록효과",
             "skill": "개봉매출",
             "per": "13.5"
+        },
+        {
+            "category": "전쟁 영화",
+            "name": "고선영",
+            "skill": "휴식시총매출",
+            "per": "5"
         },
         {
             "category": "페어",
@@ -26231,70 +26301,28 @@
             "fair2": "윤발이"
         },
         {
-            "category": "사극물",
-            "name": "명록효과",
-            "skill": "개봉매출",
-            "per": "10.4"
-        },
-        {
-            "category": "판타지물",
-            "name": "드레이크",
-            "skill": "개봉매출",
-            "per": "9.6"
-        },
-        {
-            "category": "뮤지컬",
-            "name": "마구",
-            "skill": "개봉매출",
-            "per": "9.2"
-        },
-        {
-            "category": "멜로",
-            "name": "강천예",
-            "skill": "개봉매출",
-            "per": "8.8"
-        },
-        {
-            "category": "멜로",
-            "name": "최은교",
-            "skill": "개봉매출",
-            "per": "8.8"
-        },
-        {
-            "category": "SF물",
-            "name": "명록효과",
-            "skill": "개봉매출",
-            "per": "8.2"
-        },
-        {
-            "category": "사극물",
-            "name": "소랑",
-            "skill": "개봉매출",
-            "per": "8.2"
-        },
-        {
-            "category": "어드벤처물",
-            "name": "명록효과",
-            "skill": "개봉매출",
-            "per": "8.1"
-        },
-        {
-            "category": "재난물",
-            "name": "명록효과",
-            "skill": "개봉매출",
-            "per": "8.1"
-        },
-        {
-            "category": "판타지물",
-            "name": "사라",
-            "skill": "개봉매출",
-            "per": "8"
-        },
-        {
             "category": "현대물",
             "name": "전효림",
             "skill": "개봉매출",
             "per": "8"
+        },
+        {
+            "category": "애니메이션",
+            "name": "김전일",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
+            "category": "미스터리",
+            "name": "김전일",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
+            "category": "애니메이션",
+            "name": "김전일",
+            "skill": "휴식시총매출",
+            "per": "1"
         },
         {
             "category": "페어",
@@ -26304,22 +26332,46 @@
             "fair1": "언론 평가"
         },
         {
-            "category": "액션",
-            "name": "로컨",
+            "category": "사극물",
+            "name": "도교수",
+            "skill": "개봉매출",
+            "per": "6.6"
+        },
+        {
+            "category": "SF물",
+            "name": "도교수",
+            "skill": "개봉매출",
+            "per": "5.8"
+        },
+        {
+            "category": "판타지물",
+            "name": "드레이크",
+            "skill": "개봉매출",
+            "per": "9.6"
+        },
+        {
+            "category": "어드벤처물",
+            "name": "드레이크",
+            "skill": "개봉매출",
+            "per": "6.8"
+        },
+        {
+            "category": "서사",
+            "name": "레반트",
             "skill": "개봉매출",
             "per": "7.8"
         },
         {
-            "category": "공포",
-            "name": "마구",
+            "category": "미스터리",
+            "name": "레반트",
             "skill": "개봉매출",
-            "per": "7.8"
+            "per": "5.2"
         },
         {
-            "category": "범죄물",
-            "name": "명록효과",
+            "category": "멜로",
+            "name": "레오",
             "skill": "개봉매출",
-            "per": "7.7"
+            "per": "5.2"
         },
         {
             "category": "페어",
@@ -26329,12 +26381,6 @@
             "fair1": "아시아연기파"
         },
         {
-            "category": "SF물",
-            "name": "스타크",
-            "skill": "개봉매출",
-            "per": "7.2"
-        },
-        {
             "category": "페어",
             "name": "이은서",
             "skill": "개봉매출",
@@ -26342,10 +26388,46 @@
             "fair1": "한국연기파"
         },
         {
-            "category": "사극물",
-            "name": "정이건",
+            "category": "액션",
+            "name": "로컨",
             "skill": "개봉매출",
-            "per": "7.2"
+            "per": "7.8"
+        },
+        {
+            "category": "공포",
+            "name": "로컨",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
+            "category": "첩보물",
+            "name": "리오",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
+            "category": "SF물",
+            "name": "리오",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
+            "category": "첩보물",
+            "name": "리오",
+            "skill": "휴식시총매출",
+            "per": "1"
+        },
+        {
+            "category": "뮤지컬",
+            "name": "마구",
+            "skill": "개봉매출",
+            "per": "9.2"
+        },
+        {
+            "category": "공포",
+            "name": "마구",
+            "skill": "개봉매출",
+            "per": "7.8"
         },
         {
             "category": "페어",
@@ -26353,30 +26435,6 @@
             "skill": "개봉매출",
             "per": "7.2",
             "fair1": "아시아청춘형"
-        },
-        {
-            "category": "서사",
-            "name": "레반트",
-            "skill": "개봉매출",
-            "per": "7"
-        },
-        {
-            "category": "어드벤처물",
-            "name": "드레이크",
-            "skill": "개봉매출",
-            "per": "6.8"
-        },
-        {
-            "category": "코미디",
-            "name": "강천예",
-            "skill": "개봉매출",
-            "per": "6.6"
-        },
-        {
-            "category": "사극물",
-            "name": "도교수",
-            "skill": "개봉매출",
-            "per": "6.6"
         },
         {
             "category": "페어",
@@ -26393,20 +26451,45 @@
             "fair1": "스타크"
         },
         {
-            "category": "어드벤처물",
-            "name": "사라",
+            "category": "페어",
+            "name": "키자키",
             "skill": "개봉매출",
-            "per": "6.2"
+            "per": "6",
+            "fair1": "나오미"
+        },
+        {
+            "category": "사극물",
+            "name": "명록효과",
+            "skill": "개봉매출",
+            "per": "10.4"
+        },
+        {
+            "category": "SF물",
+            "name": "명록효과",
+            "skill": "개봉매출",
+            "per": "8.2"
+        },
+        {
+            "category": "어드벤처물",
+            "name": "명록효과",
+            "skill": "개봉매출",
+            "per": "8.1"
+        },
+        {
+            "category": "재난물",
+            "name": "명록효과",
+            "skill": "개봉매출",
+            "per": "8.1"
+        },
+        {
+            "category": "범죄물",
+            "name": "명록효과",
+            "skill": "개봉매출",
+            "per": "7.7"
         },
         {
             "category": "전쟁 영화",
             "name": "명록효과",
-            "skill": "개봉매출",
-            "per": "6"
-        },
-        {
-            "category": "코미디",
-            "name": "스톤",
             "skill": "개봉매출",
             "per": "6"
         },
@@ -26417,40 +26500,16 @@
             "per": "5.9"
         },
         {
-            "category": "SF물",
-            "name": "도교수",
+            "category": "첩보물",
+            "name": "명록효과",
             "skill": "개봉매출",
-            "per": "5.8"
+            "per": "5.2"
         },
         {
-            "category": "미스터리",
-            "name": "임도장",
+            "category": "드라마물",
+            "name": "명록효과",
             "skill": "개봉매출",
-            "per": "5.8"
-        },
-        {
-            "category": "공포",
-            "name": "임도장",
-            "skill": "개봉매출",
-            "per": "5.8"
-        },
-        {
-            "category": "코미디",
-            "name": "임운아",
-            "skill": "개봉매출",
-            "per": "5.8"
-        },
-        {
-            "category": "사극물",
-            "name": "장국연",
-            "skill": "개봉매출",
-            "per": "5.8"
-        },
-        {
-            "category": "범죄물",
-            "name": "정이건",
-            "skill": "개봉매출",
-            "per": "5.8"
+            "per": "4.6"
         },
         {
             "category": "서사",
@@ -26459,16 +26518,28 @@
             "per": "5.8"
         },
         {
-            "category": "사극물",
-            "name": "전효림",
+            "category": "현대물",
+            "name": "타하라",
             "skill": "개봉매출",
-            "per": "5.6"
+            "per": "5.8"
         },
         {
-            "category": "뮤지컬",
-            "name": "스톤",
+            "category": "판타지물",
+            "name": "사라",
             "skill": "개봉매출",
-            "per": "5.3"
+            "per": "8"
+        },
+        {
+            "category": "어드벤처물",
+            "name": "사라",
+            "skill": "개봉매출",
+            "per": "6.2"
+        },
+        {
+            "category": "사극물",
+            "name": "상아",
+            "skill": "총매출",
+            "per": "2.6"
         },
         {
             "category": "페어",
@@ -26480,26 +26551,50 @@
             "fair3": "동소언"
         },
         {
-            "category": "애니메이션",
-            "name": "김전일",
+            "category": "사극물",
+            "name": "소랑",
+            "skill": "개봉매출",
+            "per": "8.2"
+        },
+        {
+            "category": "전쟁 영화",
+            "name": "소랑",
             "skill": "개봉매출",
             "per": "5.2"
         },
         {
-            "category": "미스터리",
-            "name": "김전일",
+            "category": "SF물",
+            "name": "스타크",
+            "skill": "개봉매출",
+            "per": "7.2"
+        },
+        {
+            "category": "재난물",
+            "name": "스타크",
             "skill": "개봉매출",
             "per": "5.2"
         },
         {
-            "category": "미스터리",
-            "name": "레반트",
+            "category": "첩보물",
+            "name": "스텔라",
             "skill": "개봉매출",
             "per": "5.2"
         },
         {
-            "category": "멜로",
-            "name": "레오",
+            "category": "SF물",
+            "name": "스텔라",
+            "skill": "총매출",
+            "per": "2.6"
+        },
+        {
+            "category": "코미디",
+            "name": "스톤",
+            "skill": "개봉매출",
+            "per": "7"
+        },
+        {
+            "category": "뮤지컬",
+            "name": "스톤",
             "skill": "개봉매출",
             "per": "5.2"
         },
@@ -26510,22 +26605,10 @@
             "per": "5.2"
         },
         {
-            "category": "공포",
-            "name": "로컨",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "첩보물",
-            "name": "리오",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "SF물",
-            "name": "리오",
-            "skill": "개봉매출",
-            "per": "5.2"
+            "category": "범죄물",
+            "name": "신월이",
+            "skill": "휴식시총매출",
+            "per": "1"
         },
         {
             "category": "페어",
@@ -26535,10 +26618,22 @@
             "fair1": "톰형"
         },
         {
-            "category": "첩보물",
-            "name": "명록효과",
+            "category": "코미디",
+            "name": "심철",
             "skill": "개봉매출",
             "per": "5.2"
+        },
+        {
+            "category": "액션",
+            "name": "아놀드",
+            "skill": "휴식시총매출",
+            "per": "5"
+        },
+        {
+            "category": "사극물",
+            "name": "양천화",
+            "skill": "총매출",
+            "per": "3.3"
         },
         {
             "category": "페어",
@@ -26555,31 +26650,7 @@
             "fair1": "서양성숙형"
         },
         {
-            "category": "전쟁 영화",
-            "name": "소랑",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "재난물",
-            "name": "스타크",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "첩보물",
-            "name": "스텔라",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
             "category": "서사",
-            "name": "심철",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "코미디",
             "name": "심철",
             "skill": "개봉매출",
             "per": "5.2"
@@ -26607,16 +26678,10 @@
             "fair2": "호검서"
         },
         {
-            "category": "멜로",
-            "name": "은자",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "뮤지컬",
-            "name": "임운아",
-            "skill": "개봉매출",
-            "per": "5.2"
+            "category": "사극물",
+            "name": "유빈",
+            "skill": "휴식시총매출",
+            "per": "1"
         },
         {
             "category": "페어",
@@ -26627,8 +26692,8 @@
             "fair2": "자스민"
         },
         {
-            "category": "전쟁 영화",
-            "name": "제이든",
+            "category": "멜로",
+            "name": "은자",
             "skill": "개봉매출",
             "per": "5.2"
         },
@@ -26645,41 +26710,23 @@
             "per": "5.2"
         },
         {
-            "category": "액션",
-            "name": "진사형",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "애니메이션",
-            "name": "키자키",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "액션",
-            "name": "키자키",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "판타지물",
-            "name": "타하라",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
-            "category": "현대물",
-            "name": "타하라",
-            "skill": "개봉매출",
-            "per": "5.2"
-        },
-        {
             "category": "페어",
             "name": "한희진",
             "skill": "개봉매출",
             "per": "5.2",
             "fair1": "청용"
+        },
+        {
+            "category": "미스터리",
+            "name": "임도장",
+            "skill": "개봉매출",
+            "per": "5.8"
+        },
+        {
+            "category": "공포",
+            "name": "임도장",
+            "skill": "개봉매출",
+            "per": "5.8"
         },
         {
             "category": "페어",
@@ -26689,34 +26736,22 @@
             "fair1": "서양연기파"
         },
         {
-            "category": "전쟁 영화",
-            "name": "고선영",
-            "skill": "휴식시총매출",
-            "per": "5"
-        },
-        {
-            "category": "액션",
-            "name": "아놀드",
-            "skill": "휴식시총매출",
-            "per": "5"
-        },
-        {
-            "category": "어드벤처물",
-            "name": "정지후",
-            "skill": "휴식시총매출",
-            "per": "5"
-        },
-        {
             "category": "코미디",
-            "name": "제이든",
-            "skill": "휴식시총매출",
-            "per": "5"
+            "name": "임운아",
+            "skill": "개봉매출",
+            "per": "5.8"
         },
         {
-            "category": "드라마물",
-            "name": "명록효과",
+            "category": "뮤지컬",
+            "name": "임운아",
             "skill": "개봉매출",
-            "per": "4.6"
+            "per": "5.2"
+        },
+        {
+            "category": "사극물",
+            "name": "장국연",
+            "skill": "개봉매출",
+            "per": "5.8"
         },
         {
             "category": "페어",
@@ -26725,12 +26760,6 @@
             "per": "3.9",
             "fair1": "엔젤라",
             "fair2": "진요봉"
-        },
-        {
-            "category": "사극물",
-            "name": "양천화",
-            "skill": "총매출",
-            "per": "3.3"
         },
         {
             "category": "페어",
@@ -26749,6 +26778,24 @@
             "fair2": "걸"
         },
         {
+            "category": "사극물",
+            "name": "전효림",
+            "skill": "개봉매출",
+            "per": "5.6"
+        },
+        {
+            "category": "사극물",
+            "name": "정이건",
+            "skill": "개봉매출",
+            "per": "7.2"
+        },
+        {
+            "category": "범죄물",
+            "name": "정이건",
+            "skill": "개봉매출",
+            "per": "5.8"
+        },
+        {
             "category": "페어",
             "name": "양천화",
             "skill": "총매출",
@@ -26756,11 +26803,29 @@
             "fair1": "상아"
         },
         {
+            "category": "어드벤처물",
+            "name": "정지후",
+            "skill": "휴식시총매출",
+            "per": "5"
+        },
+        {
+            "category": "전쟁 영화",
+            "name": "제이든",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
             "category": "페어",
             "name": "진사형",
             "skill": "총매출",
             "per": "3",
             "fair1": "맹달아재"
+        },
+        {
+            "category": "코미디",
+            "name": "제이든",
+            "skill": "휴식시총매출",
+            "per": "5"
         },
         {
             "category": "페어",
@@ -26777,12 +26842,6 @@
             "fair1": "모건"
         },
         {
-            "category": "사극물",
-            "name": "상아",
-            "skill": "총매출",
-            "per": "2.6"
-        },
-        {
             "category": "페어",
             "name": "상아",
             "skill": "총매출",
@@ -26790,10 +26849,10 @@
             "fair1": "양천화"
         },
         {
-            "category": "SF물",
-            "name": "스텔라",
-            "skill": "총매출",
-            "per": "2.6"
+            "category": "액션",
+            "name": "진사형",
+            "skill": "개봉매출",
+            "per": "5.2"
         },
         {
             "category": "페어",
@@ -26802,6 +26861,12 @@
             "per": "2.6",
             "fair1": "정이건",
             "fair2": "걸"
+        },
+        {
+            "category": "멜로",
+            "name": "최은교",
+            "skill": "개봉매출",
+            "per": "8.8"
         },
         {
             "category": "페어",
@@ -26820,11 +26885,35 @@
             "fair1": "이준구"
         },
         {
+            "category": "SF물",
+            "name": "캡틴 샘",
+            "skill": "휴식시총매출",
+            "per": "1"
+        },
+        {
+            "category": "애니메이션",
+            "name": "키자키",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
+            "category": "액션",
+            "name": "키자키",
+            "skill": "개봉매출",
+            "per": "5.2"
+        },
+        {
             "category": "페어",
             "name": "이준구",
             "skill": "총매출",
             "per": "2.6",
             "fair1": "은자"
+        },
+        {
+            "category": "판타지물",
+            "name": "타하라",
+            "skill": "개봉매출",
+            "per": "5.2"
         },
         {
             "category": "페어",
@@ -26834,32 +26923,8 @@
             "fair1": "윤발이"
         },
         {
-            "category": "애니메이션",
-            "name": "김전일",
-            "skill": "휴식시총매출",
-            "per": "1"
-        },
-        {
             "category": "서사",
             "name": "레오",
-            "skill": "휴식시총매출",
-            "per": "1"
-        },
-        {
-            "category": "첩보물",
-            "name": "리오",
-            "skill": "휴식시총매출",
-            "per": "1"
-        },
-        {
-            "category": "범죄물",
-            "name": "신월이",
-            "skill": "휴식시총매출",
-            "per": "1"
-        },
-        {
-            "category": "사극물",
-            "name": "유빈",
             "skill": "휴식시총매출",
             "per": "1"
         },
@@ -26869,19 +26934,6 @@
             "skill": "휴식시소천촬영",
             "per": "1",
             "fair1": "소천"
-        },
-        {
-            "category": "SF물",
-            "name": "캡틴 샘",
-            "skill": "휴식시총매출",
-            "per": "1"
-        },
-        {
-            "category": "페어",
-            "name": "키자키",
-            "skill": "개봉매출",
-            "per": "1",
-            "fair1": "나오미"
         }
     ],
     "allactors": [
@@ -31031,7 +31083,8 @@
             "skill3_desc": "속성증가:협객 역할",
             "skill4_desc": "매출증가:with 용",
             "skill5_desc": "매출증가:불패강호,천하무적,요새풍운,고독한 영웅,태극종사 촬영",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "강지연,정려려,용"
         },
         {
             "star": "5",
@@ -31194,7 +31247,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형"
+            "fair_total": "아시아외모파"
         },
         {
             "star": "5",
@@ -31315,7 +31368,8 @@
             "skill3_desc": "속성증가(예능):with 주서진",
             "skill4_desc": "속성증가:범죄물",
             "skill5_desc": "",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "양무기"
         },
         {
             "star": "5",
@@ -31584,7 +31638,7 @@
             "skill4_desc": "속성증가:서사",
             "skill5_desc": "매출증가:좀비 대폭주, 화산 분출 대위기, 아이니 아이워,황소와 깡패의 전투 촬영",
             "skill6_desc": "",
-            "fair_total": "코믹역할"
+            "fair_total": "송지호"
         },
         {
             "star": "5",
@@ -31747,8 +31801,7 @@
             "skill3_desc": "속성증가:멜로",
             "skill4_desc": "매출증가:멜로",
             "skill5_desc": "매출증가:여로 가는 가수' '안개의 징조' '불치병 걸린 여자' '레드 임팩트' 촬영",
-            "skill6_desc": "",
-            "fair_total": "주상치,윤발이"
+            "skill6_desc": ""
         },
         {
             "star": "6",
@@ -31955,8 +32008,7 @@
             "skill3_desc": "속성증가(연출):with 아시아",
             "skill4_desc": "매출증가:뮤지컬",
             "skill5_desc": "속성증가:충성심 역할",
-            "skill6_desc": "",
-            "fair_total": "모모에"
+            "skill6_desc": ""
         },
         {
             "star": "5",
@@ -32158,7 +32210,7 @@
             "skill4_desc": "매출증가:with 진명",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "진명"
+            "fair_total": "진명,강천예,방덕이,임정옥"
         },
         {
             "star": "5",
@@ -32183,26 +32235,6 @@
         },
         {
             "star": "5",
-            "name": "소림사",
-            "sex": "남성",
-            "nat": "아시아",
-            "char1": "연기",
-            "char2": "청춘",
-            "stat1": "예능",
-            "stat": "남성/아시아/연기/청춘",
-            "skill1": "전설 골드",
-            "skill2": "소년쌍교",
-            "skill3": "총명하다",
-            "skill1_desc": "금화속도증가:LV3",
-            "skill2_desc": "개봉매출증가:with 진요봉,임정옥",
-            "skill3_desc": "속성증가:영특한 역할",
-            "skill4_desc": "",
-            "skill5_desc": "",
-            "skill6_desc": "",
-            "fair_total": "진요봉,임정옥"
-        },
-        {
-            "star": "5",
             "name": "소랑",
             "sex": "남성",
             "nat": "아시아",
@@ -32220,6 +32252,26 @@
             "skill4_desc": "개봉매출증가:전쟁 영화",
             "skill5_desc": "",
             "skill6_desc": ""
+        },
+        {
+            "star": "5",
+            "name": "소림사",
+            "sex": "남성",
+            "nat": "아시아",
+            "char1": "연기",
+            "char2": "청춘",
+            "stat1": "예능",
+            "stat": "남성/아시아/연기/청춘",
+            "skill1": "전설 골드",
+            "skill2": "소년쌍교",
+            "skill3": "총명하다",
+            "skill1_desc": "금화속도증가:LV3",
+            "skill2_desc": "개봉매출증가:with 진요봉,임정옥",
+            "skill3_desc": "속성증가:영특한 역할",
+            "skill4_desc": "",
+            "skill5_desc": "",
+            "skill6_desc": "",
+            "fair_total": "진요봉,임정옥"
         },
         {
             "star": "5",
@@ -32284,6 +32336,28 @@
             "skill6_desc": ""
         },
         {
+            "star": "6",
+            "name": "손석규",
+            "sex": "남성",
+            "nat": "한국",
+            "char1": "외모",
+            "char2": "청춘",
+            "stat1": "예술",
+            "stat": "남성/한국/외모/청춘",
+            "skill1": "언론장악",
+            "skill2": "위험본능",
+            "skill3": "강강연합",
+            "skill4": "강철보루",
+            "skill5": "달콤살벌",
+            "skill1_desc": "개봉매출증가:언론평가",
+            "skill2_desc": "속성증가:범죄물",
+            "skill3_desc": "매출증가:with 마서석,장천",
+            "skill4_desc": "속성증가:with 남성성숙형",
+            "skill5_desc": "매출증가:with 악당역할",
+            "skill6_desc": "",
+            "fair_total": "마서석,장천,악당역할"
+        },
+        {
             "star": "5",
             "name": "손영채",
             "sex": "남성",
@@ -32324,7 +32398,8 @@
             "skill3_desc": "속성증가:리더 역할",
             "skill4_desc": "매출증가:현대물",
             "skill5_desc": "매출증가:강하거괴' '계급인생' '미안회고록' '세 괴짜의 보물' 촬영",
-            "skill6_desc": "개봉매출증가:with 모모에"
+            "skill6_desc": "개봉매출증가:with 모모에",
+            "fair_total": "모모에"
         },
         {
             "star": "5",
@@ -32751,7 +32826,7 @@
             "skill4_desc": "매출증가:with 용",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "격투역할,용"
+            "fair_total": "용"
         },
         {
             "star": "5",
@@ -32792,7 +32867,7 @@
             "skill4_desc": "개봉매출증가:with 아시아청춘형",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형"
+            "fair_total": "아시아청춘형"
         },
         {
             "star": "5",
@@ -32916,7 +32991,8 @@
             "skill3_desc": "매출증가:with 한국성숙형",
             "skill4_desc": "속성증가:의사 역할",
             "skill5_desc": "매출증가:예술가이야기,선미의계획,벽안붉은꽃,적우난예상 ",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "한국성숙형"
         },
         {
             "star": "5",
@@ -32978,7 +33054,7 @@
             "skill4_desc": "개봉매출증가:서사",
             "skill5_desc": "속성증가:with 주윤",
             "skill6_desc": "",
-            "fair_total": "중국청춘형"
+            "fair_total": "아시아외모파"
         },
         {
             "star": "6",
@@ -32999,7 +33075,7 @@
             "skill4_desc": "매출증가:with 서양2인",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "한일성숙형"
+            "fair_total": "서양2인"
         },
         {
             "star": "5",
@@ -33124,7 +33200,8 @@
             "skill3_desc": "매출증가:with 윤발이,강대군",
             "skill4_desc": "속성증가:코믹 역할",
             "skill5_desc": "매출증가:현실몽상가,분합,사랑의 시종, 비등하지 않은 사랑 촬영",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "윤발이,강대군"
         },
         {
             "star": "5",
@@ -33269,7 +33346,7 @@
             "skill4_desc": "속성증가:with 코믹역할",
             "skill5_desc": "매출증가:<물고기인간>,<해적들:도깨비 깃발>,<나의 특별한 브라더>,<타짜:애꾸눈>촬영",
             "skill6_desc": "",
-            "fair_total": "양가리"
+            "fair_total": "청춘형,코믹역할출연"
         },
         {
             "star": "5",
@@ -33309,7 +33386,7 @@
             "skill4_desc": "개봉매출증가:with 한국청춘형",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "이정지,한일청춘형"
+            "fair_total": "이정지,한국청춘형"
         },
         {
             "star": "5",
@@ -33328,7 +33405,8 @@
             "skill3_desc": "기대치증가:뮤지컬",
             "skill4_desc": "",
             "skill5_desc": "",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "한국연기파"
         },
         {
             "star": "5",
@@ -33389,7 +33467,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "최은교,한일청춘형"
+            "fair_total": "최은교,한국외모파"
         },
         {
             "star": "5",
@@ -33493,7 +33571,7 @@
             "skill4_desc": "매출증가:with 유진수,토니양,윤발이",
             "skill5_desc": "매출증가:덧없는 인생, 부모의 멜로스토리, 궁정연회 혹은 유리의 일생 촬영",
             "skill6_desc": "",
-            "fair_total": ""
+            "fair_total": "유진수,토니양,윤발이"
         },
         {
             "star": "5",
@@ -33553,7 +33631,7 @@
             "skill4_desc": "속성증가:음모가 역할",
             "skill5_desc": "매출증가:하늘에서 내린 로또' '여름연풍' '가족 왜곡' '동지와 적' 촬영",
             "skill6_desc": "",
-            "fair_total": "서양배우"
+            "fair_total": "황월지,자인"
         },
         {
             "star": "6",
@@ -33594,7 +33672,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형,유진수,여천명,곽천성"
+            "fair_total": "아시아외모파,유진수,여천명,곽천성"
         },
         {
             "star": "5",
@@ -33892,7 +33970,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형,주상치,유진수"
+            "fair_total": "아시아외모파,주상치,유진수"
         },
         {
             "star": "5",
@@ -33912,7 +33990,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "중국청춘형"
+            "fair_total": "아시아청춘형"
         },
         {
             "star": "6",
@@ -33933,8 +34011,7 @@
             "skill3_desc": "속성증가:with 청춘역할",
             "skill4_desc": "매출증가:범죄물",
             "skill5_desc": "매출증가:검은돌풍, 신탐풍문, 탈출범언실, 진출자 촬영",
-            "skill6_desc": "",
-            "fair_total": "청춘형"
+            "skill6_desc": ""
         },
         {
             "star": "5",
@@ -33998,7 +34075,7 @@
             "skill4_desc": "속성증가:광기 역할",
             "skill5_desc": "매출증가:신문팔이 소녀, 연탄 캐는 사람, 아내에게 사기치는 자, 도망치는 독재자 촬영",
             "skill6_desc": "",
-            "fair_total": "송지호"
+            "fair_total": "코믹역할"
         },
         {
             "star": "5",
@@ -34040,7 +34117,7 @@
             "skill4_desc": "속성증가:경찰 역할",
             "skill5_desc": "매출증가:최고의 순간, 전설의 경찰, 천 년의 사랑, 체포 작전, 혼자서 홍번구 돌파 촬영",
             "skill6_desc": "",
-            "fair_total": "유진수,토니 양,윤발이"
+            "fair_total": "주상치,윤발이"
         },
         {
             "star": "5",
@@ -34080,8 +34157,7 @@
             "skill3_desc": "속성증가:시련 역할",
             "skill4_desc": "",
             "skill5_desc": "",
-            "skill6_desc": "",
-            "fair_total": "전대원,주윤"
+            "skill6_desc": ""
         },
         {
             "star": "5",
@@ -34165,8 +34241,7 @@
             "skill3_desc": "속성증가:예술가 역할",
             "skill4_desc": "매출증가:애니메이션",
             "skill5_desc": "매출증가:푸른 하늘 위, 대도 다카토 사건부, 숲의 딸, 외눈박이 모리타 촬영",
-            "skill6_desc": "",
-            "fair_total": "황월지,자인"
+            "skill6_desc": ""
         },
         {
             "star": "5",
@@ -34269,7 +34344,7 @@
             "skill4_desc": "",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "서양,남성배우"
+            "fair_total": "서양남성"
         },
         {
             "star": "5",
@@ -34290,7 +34365,7 @@
             "skill4_desc": "개봉매출증가:with 토니양,심유현",
             "skill5_desc": "",
             "skill6_desc": "",
-            "fair_total": "토니 양,심유현"
+            "fair_total": "토니양,심유현"
         },
         {
             "star": "6",
@@ -34332,7 +34407,8 @@
             "skill3_desc": "매출증가:with 양가리",
             "skill4_desc": "속성증가:경찰 역할",
             "skill5_desc": "속성증가:무간지로, 무술종사, 풍화지벽 촬영",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "양가리"
         },
         {
             "star": "5",
@@ -34415,7 +34491,8 @@
             "skill3_desc": "매출증가:with 청춘형",
             "skill4_desc": "속성증가:with 외모파",
             "skill5_desc": "매출증가:나의이름,알고는있지마,부부들의세계,사운드#1 촬영",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "청춘형"
         },
         {
             "star": "5",
@@ -34581,7 +34658,8 @@
             "skill3_desc": "속성증가:격투 역할",
             "skill4_desc": "속성증가:액션",
             "skill5_desc": "매출증가:체포작전, 칠살영역, 쌍둥이 대도,칠무생 혹은 재신구출 촬영",
-            "skill6_desc": ""
+            "skill6_desc": "",
+            "fair_total": "진사형,청용"
         },
         {
             "star": "5",
@@ -34662,27 +34740,6 @@
             "skill3_desc": "속성증가:일편단심역할",
             "skill4_desc": "",
             "skill5_desc": "",
-            "skill6_desc": ""
-        },
-        {
-            "star": "6",
-            "name": "손석규",
-            "sex": "남성",
-            "nat": "한국",
-            "char1": "외모",
-            "char2": "청춘",
-            "stat1": "예술",
-            "stat": "남성/한국/외모/청춘",
-            "skill1": "언론장악",
-            "skill2": "위험본능",
-            "skill3": "강강연합",
-            "skill4": "강철보루",
-            "skill5": "달콤살벌",
-            "skill1_desc": "개봉매출증가:언론평가",
-            "skill2_desc": "속성증가:범죄물",
-            "skill3_desc": "매출증가:with 마서석,장천",
-            "skill4_desc": "속성증가:with 남성성숙형",
-            "skill5_desc": "매출증가:with 악당역할",
             "skill6_desc": ""
         }
     ]
