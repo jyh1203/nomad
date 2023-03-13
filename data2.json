@@ -278,12 +278,6 @@
         },
         {
             "region": "아시아",
-            "Arrival": "서울 광진구",
-            "Mileage": "31",
-            "cost": "1000"
-        },
-        {
-            "region": "아시아",
             "Arrival": "서울 강북구",
             "Mileage": "31",
             "cost": "1000"
