@@ -1,102 +1,6 @@
 {
     "milege": [
         {
-            "region": "미주",
-            "Arrival": "호놀룰루",
-            "Mileage": "4560",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "시애틀",
-            "Mileage": "5196",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "샌프란시스코",
-            "Mileage": "5636",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "로스앤젤레스",
-            "Mileage": "5973",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "라스베이거스",
-            "Mileage": "6009",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "덴버",
-            "Mileage": "6349",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "시카고",
-            "Mileage": "6538",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "토론토",
-            "Mileage": "6602",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "댈러스",
-            "Mileage": "6824",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "뉴욕",
-            "Mileage": "6879",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "워싱턴D.C.",
-            "Mileage": "6944",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "보스턴",
-            "Mileage": "7047",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "애틀랜타",
-            "Mileage": "7132",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "라구아디아",
-            "Mileage": "7268",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "아틀란타",
-            "Mileage": "7674",
-            "cost": "6000"
-        },
-        {
-            "region": "미주",
-            "Arrival": "마이애미",
-            "Mileage": "8537",
-            "cost": "6000"
-        },
-        {
             "region": "아시아",
             "Arrival": "옹진군(회항)",
             "Mileage": "10",
@@ -182,6 +86,12 @@
         },
         {
             "region": "아시아",
+            "Arrival": "청주",
+            "Mileage": "140",
+            "cost": "1000"
+        },
+        {
+            "region": "아시아",
             "Arrival": "군산",
             "Mileage": "164",
             "cost": "1000"
@@ -206,12 +116,6 @@
         },
         {
             "region": "아시아",
-            "Arrival": "함흥",
-            "Mileage": "202",
-            "cost": "1000"
-        },
-        {
-            "region": "아시아",
             "Arrival": "여수",
             "Mileage": "194",
             "cost": "1000"
@@ -220,6 +124,12 @@
             "region": "아시아",
             "Arrival": "원산",
             "Mileage": "197",
+            "cost": "1000"
+        },
+        {
+            "region": "아시아",
+            "Arrival": "함흥",
+            "Mileage": "202",
             "cost": "1000"
         },
         {
@@ -236,32 +146,20 @@
         },
         {
             "region": "아시아",
-            "Arrival": "청진",
-            "Mileage": "298",
-            "cost": "1000"
-        },
-        {
-            "region": "아시아",
             "Arrival": "부산",
             "Mileage": "215",
             "cost": "1000"
         },
         {
             "region": "아시아",
-            "Arrival": "청주",
-            "Mileage": "140",
+            "Arrival": "울릉도",
+            "Mileage": "243",
             "cost": "1000"
         },
         {
             "region": "아시아",
             "Arrival": "웨이하이",
             "Mileage": "249",
-            "cost": "1000"
-        },
-        {
-            "region": "아시아",
-            "Arrival": "울릉도",
-            "Mileage": "243",
             "cost": "1000"
         },
         {
@@ -274,6 +172,12 @@
             "region": "아시아",
             "Arrival": "다롄",
             "Mileage": "293",
+            "cost": "1000"
+        },
+        {
+            "region": "아시아",
+            "Arrival": "청진",
+            "Mileage": "298",
             "cost": "1000"
         },
         {
@@ -317,6 +221,12 @@
             "Arrival": "가고시마",
             "Mileage": "459",
             "cost": "1000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "블라디보스토크",
+            "Mileage": "476",
+            "cost": "4500"
         },
         {
             "region": "아시아",
@@ -397,471 +307,15 @@
             "cost": "1000"
         },
         {
-            "region": "아프리카",
-            "Arrival": "모리셔스",
-            "Mileage": "4550",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "케냐타",
-            "Mileage": "4829",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "다카",
-            "Mileage": "5137",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "카이로",
-            "Mileage": "5240",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "마헤",
-            "Mileage": "5361",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "아디스아바바",
-            "Mileage": "5714",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "튀니스",
-            "Mileage": "5886",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "트리폴리",
-            "Mileage": "5966",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "나이로비",
-            "Mileage": "6248",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "카사블랑카",
-            "Mileage": "6721",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "라고스",
-            "Mileage": "6948",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "아크라",
-            "Mileage": "7540",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "요하네스버그",
-            "Mileage": "7717",
-            "cost": "5500"
-        },
-        {
-            "region": "아프리카",
-            "Arrival": "카보베르데",
-            "Mileage": "10302",
-            "cost": "5500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "나우루",
-            "Mileage": "1336",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "호니아라",
-            "Mileage": "2134",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "팔라우",
-            "Mileage": "2140",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "포트 모르즈비",
-            "Mileage": "2495",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "산타크루즈 제도",
-            "Mileage": "2716",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "파고파고",
-            "Mileage": "3292",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "아바라우",
-            "Mileage": "3995",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "브리즈번",
-            "Mileage": "4491",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "멜버른",
-            "Mileage": "4762",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "퍼스",
-            "Mileage": "4842",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "난디",
-            "Mileage": "5048",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "밴쿠버",
-            "Mileage": "5088",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "시드니",
-            "Mileage": "5139",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "오클랜드",
-            "Mileage": "5780",
-            "cost": "3500"
-        },
-        {
-            "region": "오세아니아",
-            "Arrival": "크라이스트처치",
-            "Mileage": "6129",
-            "cost": "3500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "블라디보스토크",
-            "Mileage": "476",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "이르쿠츠크",
-            "Mileage": "1484",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "타슈켄트",
-            "Mileage": "3013",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "모스크바",
-            "Mileage": "4096",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "상트페테르부르크",
-            "Mileage": "4492",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "키예프",
-            "Mileage": "4507",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "바르샤바",
-            "Mileage": "4802",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "부다페스트",
-            "Mileage": "5058",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "비엔나",
-            "Mileage": "5131",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "프라하",
-            "Mileage": "5134",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "이스탄불",
-            "Mileage": "5185",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "자그레브",
-            "Mileage": "5260",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "프랑크푸르트",
-            "Mileage": "5360",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "브뤼셀",
-            "Mileage": "5394",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "암스테르담",
-            "Mileage": "5439",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "취리히",
-            "Mileage": "5456",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "밀라노",
-            "Mileage": "5509",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "로마",
-            "Mileage": "5579",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "파리",
-            "Mileage": "5626",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "런던",
-            "Mileage": "5652",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "바르셀로나",
-            "Mileage": "5974",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "이비자",
-            "Mileage": "6114",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "마드리드",
-            "Mileage": "6227",
-            "cost": "4500"
-        },
-        {
-            "region": "유럽",
-            "Arrival": "리스본",
-            "Mileage": "6462",
-            "cost": "4500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "멕시코시티",
-            "Mileage": "7517",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "아바나",
-            "Mileage": "7858",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "생스터",
-            "Mileage": "8259",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "보고타",
-            "Mileage": "9238",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "리마",
-            "Mileage": "10155",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "카르타헤나",
-            "Mileage": "10609",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "루이스 무니스",
-            "Mileage": "11042",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "리우데자네이루",
-            "Mileage": "11255",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "상파울루",
-            "Mileage": "11382",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "산티아고",
-            "Mileage": "11428",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "브라질리아",
-            "Mileage": "11474",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "아순시온",
-            "Mileage": "11562",
-            "cost": "9500"
-        },
-        {
-            "region": "중남미",
-            "Arrival": "부에노스아이레스",
-            "Mileage": "12105",
-            "cost": "9500"
-        },
-        {
-            "region": "중동",
-            "Arrival": "쿠웨이트",
-            "Mileage": "3346",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "바레인",
-            "Mileage": "3529",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "바그바드",
-            "Mileage": "3825",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "아부다비",
-            "Mileage": "3885",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "두바이",
-            "Mileage": "4203",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "도하",
-            "Mileage": "4436",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "레바논",
-            "Mileage": "4615",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "텔아비브",
-            "Mileage": "5003",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "이스라엘",
-            "Mileage": "5136",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "리야드",
-            "Mileage": "5175",
-            "cost": "4000"
-        },
-        {
-            "region": "중동",
-            "Arrival": "암만",
-            "Mileage": "5314",
-            "cost": "4000"
-        },
-        {
             "region": "아시아",
             "Arrival": "도쿄",
             "Mileage": "758",
+            "cost": "1000"
+        },
+        {
+            "region": "아시아",
+            "Arrival": "초야니니 이벤 당첨",
+            "Mileage": "777",
             "cost": "1000"
         },
         {
@@ -949,10 +403,22 @@
             "cost": "1000"
         },
         {
+            "region": "오세아니아",
+            "Arrival": "나우루",
+            "Mileage": "1336",
+            "cost": "3500"
+        },
+        {
             "region": "아시아",
             "Arrival": "구이양",
             "Mileage": "1396",
             "cost": "1000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "이르쿠츠크",
+            "Mileage": "1484",
+            "cost": "4500"
         },
         {
             "region": "아시아",
@@ -1021,6 +487,18 @@
             "cost": "1000"
         },
         {
+            "region": "오세아니아",
+            "Arrival": "호니아라",
+            "Mileage": "2134",
+            "cost": "3500"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "팔라우",
+            "Mileage": "2140",
+            "cost": "3500"
+        },
+        {
             "region": "아시아",
             "Arrival": "호찌민",
             "Mileage": "2223",
@@ -1051,10 +529,22 @@
             "cost": "1000"
         },
         {
+            "region": "오세아니아",
+            "Arrival": "포트 모르즈비",
+            "Mileage": "2495",
+            "cost": "3500"
+        },
+        {
             "region": "아시아",
             "Arrival": "푸껫",
             "Mileage": "2693",
             "cost": "1000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "산타크루즈 제도",
+            "Mileage": "2716",
+            "cost": "3500"
         },
         {
             "region": "아시아",
@@ -1075,6 +565,12 @@
             "cost": "1000"
         },
         {
+            "region": "유럽",
+            "Arrival": "타슈켄트",
+            "Mileage": "3013",
+            "cost": "4500"
+        },
+        {
             "region": "아시아",
             "Arrival": "자카르타",
             "Mileage": "3281",
@@ -1087,10 +583,28 @@
             "cost": "1000"
         },
         {
+            "region": "오세아니아",
+            "Arrival": "파고파고",
+            "Mileage": "3292",
+            "cost": "3500"
+        },
+        {
+            "region": "중동",
+            "Arrival": "쿠웨이트",
+            "Mileage": "3346",
+            "cost": "4000"
+        },
+        {
             "region": "아시아",
             "Arrival": "뭄바이",
             "Mileage": "3457",
             "cost": "1000"
+        },
+        {
+            "region": "중동",
+            "Arrival": "바레인",
+            "Mileage": "3529",
+            "cost": "4000"
         },
         {
             "region": "아시아",
@@ -1099,10 +613,502 @@
             "cost": "1000"
         },
         {
+            "region": "중동",
+            "Arrival": "바그바드",
+            "Mileage": "3825",
+            "cost": "4000"
+        },
+        {
+            "region": "중동",
+            "Arrival": "아부다비",
+            "Mileage": "3885",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "아바라우",
+            "Mileage": "3995",
+            "cost": "3500"
+        },
+        {
             "region": "아시아",
             "Arrival": "말레",
             "Mileage": "4056",
             "cost": "1000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "모스크바",
+            "Mileage": "4096",
+            "cost": "4500"
+        },
+        {
+            "region": "중동",
+            "Arrival": "두바이",
+            "Mileage": "4203",
+            "cost": "4000"
+        },
+        {
+            "region": "중동",
+            "Arrival": "도하",
+            "Mileage": "4436",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "브리즈번",
+            "Mileage": "4491",
+            "cost": "3500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "상트페테르부르크",
+            "Mileage": "4492",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "키예프",
+            "Mileage": "4507",
+            "cost": "4500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "모리셔스",
+            "Mileage": "4550",
+            "cost": "5500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "호놀룰루",
+            "Mileage": "4560",
+            "cost": "6000"
+        },
+        {
+            "region": "중동",
+            "Arrival": "레바논",
+            "Mileage": "4615",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "멜버른",
+            "Mileage": "4762",
+            "cost": "3500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "바르샤바",
+            "Mileage": "4802",
+            "cost": "4500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "케냐타",
+            "Mileage": "4829",
+            "cost": "5500"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "퍼스",
+            "Mileage": "4842",
+            "cost": "3500"
+        },
+        {
+            "region": "중동",
+            "Arrival": "텔아비브",
+            "Mileage": "5003",
+            "cost": "4000"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "난디",
+            "Mileage": "5048",
+            "cost": "3500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "부다페스트",
+            "Mileage": "5058",
+            "cost": "4500"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "밴쿠버",
+            "Mileage": "5088",
+            "cost": "3500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "비엔나",
+            "Mileage": "5131",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "프라하",
+            "Mileage": "5134",
+            "cost": "4500"
+        },
+        {
+            "region": "중동",
+            "Arrival": "이스라엘",
+            "Mileage": "5136",
+            "cost": "4000"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "다카",
+            "Mileage": "5137",
+            "cost": "5500"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "시드니",
+            "Mileage": "5139",
+            "cost": "3500"
+        },
+        {
+            "region": "중동",
+            "Arrival": "리야드",
+            "Mileage": "5175",
+            "cost": "4000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "이스탄불",
+            "Mileage": "5185",
+            "cost": "4500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "시애틀",
+            "Mileage": "5196",
+            "cost": "6000"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "카이로",
+            "Mileage": "5240",
+            "cost": "5500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "자그레브",
+            "Mileage": "5260",
+            "cost": "4500"
+        },
+        {
+            "region": "중동",
+            "Arrival": "암만",
+            "Mileage": "5314",
+            "cost": "4000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "프랑크푸르트",
+            "Mileage": "5360",
+            "cost": "4500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "마헤",
+            "Mileage": "5361",
+            "cost": "5500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "브뤼셀",
+            "Mileage": "5394",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "암스테르담",
+            "Mileage": "5439",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "취리히",
+            "Mileage": "5456",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "밀라노",
+            "Mileage": "5509",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "로마",
+            "Mileage": "5579",
+            "cost": "4500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "파리",
+            "Mileage": "5626",
+            "cost": "4500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "샌프란시스코",
+            "Mileage": "5636",
+            "cost": "6000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "런던",
+            "Mileage": "5652",
+            "cost": "4500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "아디스아바바",
+            "Mileage": "5714",
+            "cost": "5500"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "오클랜드",
+            "Mileage": "5780",
+            "cost": "3500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "튀니스",
+            "Mileage": "5886",
+            "cost": "5500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "트리폴리",
+            "Mileage": "5966",
+            "cost": "5500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "로스앤젤레스",
+            "Mileage": "5973",
+            "cost": "6000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "바르셀로나",
+            "Mileage": "5974",
+            "cost": "4500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "라스베이거스",
+            "Mileage": "6009",
+            "cost": "6000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "이비자",
+            "Mileage": "6114",
+            "cost": "4500"
+        },
+        {
+            "region": "오세아니아",
+            "Arrival": "크라이스트처치",
+            "Mileage": "6129",
+            "cost": "3500"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "마드리드",
+            "Mileage": "6227",
+            "cost": "4500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "나이로비",
+            "Mileage": "6248",
+            "cost": "5500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "덴버",
+            "Mileage": "6349",
+            "cost": "6000"
+        },
+        {
+            "region": "유럽",
+            "Arrival": "리스본",
+            "Mileage": "6462",
+            "cost": "4500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "시카고",
+            "Mileage": "6538",
+            "cost": "6000"
+        },
+        {
+            "region": "미주",
+            "Arrival": "토론토",
+            "Mileage": "6602",
+            "cost": "6000"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "카사블랑카",
+            "Mileage": "6721",
+            "cost": "5500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "댈러스",
+            "Mileage": "6824",
+            "cost": "6000"
+        },
+        {
+            "region": "미주",
+            "Arrival": "뉴욕",
+            "Mileage": "6879",
+            "cost": "6000"
+        },
+        {
+            "region": "미주",
+            "Arrival": "워싱턴D.C.",
+            "Mileage": "6944",
+            "cost": "6000"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "라고스",
+            "Mileage": "6948",
+            "cost": "5500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "보스턴",
+            "Mileage": "7047",
+            "cost": "6000"
+        },
+        {
+            "region": "미주",
+            "Arrival": "애틀랜타",
+            "Mileage": "7132",
+            "cost": "6000"
+        },
+        {
+            "region": "미주",
+            "Arrival": "라구아디아",
+            "Mileage": "7268",
+            "cost": "6000"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "멕시코시티",
+            "Mileage": "7517",
+            "cost": "9500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "아크라",
+            "Mileage": "7540",
+            "cost": "5500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "아틀란타",
+            "Mileage": "7674",
+            "cost": "6000"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "요하네스버그",
+            "Mileage": "7717",
+            "cost": "5500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "아바나",
+            "Mileage": "7858",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "생스터",
+            "Mileage": "8259",
+            "cost": "9500"
+        },
+        {
+            "region": "미주",
+            "Arrival": "마이애미",
+            "Mileage": "8537",
+            "cost": "6000"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "보고타",
+            "Mileage": "9238",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "리마",
+            "Mileage": "10155",
+            "cost": "9500"
+        },
+        {
+            "region": "아프리카",
+            "Arrival": "카보베르데",
+            "Mileage": "10302",
+            "cost": "5500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "카르타헤나",
+            "Mileage": "10609",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "루이스 무니스",
+            "Mileage": "11042",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "리우데자네이루",
+            "Mileage": "11255",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "상파울루",
+            "Mileage": "11382",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "산티아고",
+            "Mileage": "11428",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "브라질리아",
+            "Mileage": "11474",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "아순시온",
+            "Mileage": "11562",
+            "cost": "9500"
+        },
+        {
+            "region": "중남미",
+            "Arrival": "부에노스아이레스",
+            "Mileage": "12105",
+            "cost": "9500"
         }
     ]
 }
